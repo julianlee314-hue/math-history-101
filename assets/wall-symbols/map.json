@@ -1,0 +1,578 @@
+{
+  "1": [
+    "counting",
+    "four bold tally marks |||| carved in wood"
+  ],
+  "2": [
+    "cardinality",
+    "bold numeral 3 beside three dots \u00b7\u00b7\u00b7"
+  ],
+  "3": [
+    "number-representation",
+    "bold Hindu-Arabic digits 1 2 3 carved"
+  ],
+  "4": [
+    "ordering",
+    "ascending steps 1 < 2 < 3"
+  ],
+  "5": [
+    "place-value",
+    "bold 10\u00b2 with place columns"
+  ],
+  "6": [
+    "addition",
+    "bold plus sign +"
+  ],
+  "7": [
+    "subtraction",
+    "bold minus sign \u2212"
+  ],
+  "8": [
+    "pattern-recognition",
+    "repeating ABAB pattern tiles"
+  ],
+  "9": [
+    "classification",
+    "sorted shapes circle square triangle"
+  ],
+  "10": [
+    "shape",
+    "bold triangle circle square"
+  ],
+  "11": [
+    "position",
+    "bold x,y coordinate mark"
+  ],
+  "12": [
+    "distance",
+    "two points with line segment between"
+  ],
+  "13": [
+    "units",
+    "bold 1 cm mark on a short rule"
+  ],
+  "14": [
+    "measurement",
+    "ruler tick marks"
+  ],
+  "15": [
+    "data-representation",
+    "tiny bar chart of three bars"
+  ],
+  "16": [
+    "estimation",
+    "\u2248 approx equals"
+  ],
+  "17": [
+    "iteration",
+    "circular arrow loop \u21bb"
+  ],
+  "18": [
+    "algorithms",
+    "numbered steps 1 \u2192 2 \u2192 3"
+  ],
+  "19": [
+    "commutativity",
+    "a+b = b+a"
+  ],
+  "20": [
+    "associativity",
+    "(a+b)+c nesting"
+  ],
+  "21": [
+    "identity-inverse",
+    "+0 and \u00d71 seals"
+  ],
+  "22": [
+    "inverse-operations",
+    "+ and \u2212 canceling"
+  ],
+  "23": [
+    "area",
+    "shaded square with A"
+  ],
+  "24": [
+    "volume",
+    "shaded cube with V"
+  ],
+  "25": [
+    "precision-error",
+    "\u00b1 error mark"
+  ],
+  "26": [
+    "mental-fluency",
+    "lightning bolt over digits"
+  ],
+  "27": [
+    "equality",
+    "bold equals ="
+  ],
+  "28": [
+    "equivalence",
+    "\u2261 equivalence"
+  ],
+  "29": [
+    "magnitude",
+    "|a| absolute bars"
+  ],
+  "30": [
+    "scaling",
+    "arrow growing larger \u2192"
+  ],
+  "31": [
+    "sequence",
+    "a\u2081 a\u2082 a\u2083 \u2026"
+  ],
+  "32": [
+    "coordinates",
+    "axes with origin O"
+  ],
+  "33": [
+    "tables",
+    "2\u00d73 empty table grid"
+  ],
+  "34": [
+    "graphs",
+    "simple rising curve on axes"
+  ],
+  "35": [
+    "changing-representation",
+    "\u21c4 flip arrows"
+  ],
+  "36": [
+    "symbolic-representation",
+    "x\u00b2 + 1"
+  ],
+  "37": [
+    "visual-representation",
+    "icon of an eye over a diagram"
+  ],
+  "38": [
+    "reading-graphs",
+    "curve with a reading pointer"
+  ],
+  "39": [
+    "periodicity",
+    "sine wave \u223c\u223c\u223c"
+  ],
+  "40": [
+    "modelling",
+    "miniature world-globe equation"
+  ],
+  "41": [
+    "angle",
+    "\u2220 angle mark"
+  ],
+  "42": [
+    "parallel-perpendicular",
+    "\u2225 and \u22a5"
+  ],
+  "43": [
+    "perimeter",
+    "outline square with arrows around"
+  ],
+  "44": [
+    "congruence",
+    "\u2245 congruence"
+  ],
+  "45": [
+    "symmetry",
+    "butterfly mirror line"
+  ],
+  "46": [
+    "geometric-transformation",
+    "triangle rotating"
+  ],
+  "47": [
+    "spatial-reasoning",
+    "isometric cube"
+  ],
+  "48": [
+    "logical-statements",
+    "P \u2227 Q"
+  ],
+  "49": [
+    "implication",
+    "\u21d2 implication arrow"
+  ],
+  "50": [
+    "counterexample",
+    "\u2717 striking a claim"
+  ],
+  "51": [
+    "deduction",
+    "\u2234 therefore"
+  ],
+  "52": [
+    "invariance",
+    "unchanging star under arrows"
+  ],
+  "53": [
+    "generalization",
+    "\u2026 rising to a rule"
+  ],
+  "54": [
+    "data-collection",
+    "clipboard tally"
+  ],
+  "55": [
+    "approximation-refinement",
+    "mesh getting finer"
+  ],
+  "56": [
+    "accumulation",
+    "growing stack \u03a3 pile"
+  ],
+  "57": [
+    "orthogonality",
+    "\u22a5 right angle bold"
+  ],
+  "58": [
+    "multiplication",
+    "bold \u00d7"
+  ],
+  "59": [
+    "division",
+    "bold \u00f7"
+  ],
+  "60": [
+    "distributivity",
+    "a(b+c)"
+  ],
+  "61": [
+    "fractions",
+    "\u00bd fraction"
+  ],
+  "62": [
+    "ratio",
+    "a : b"
+  ],
+  "63": [
+    "proportion",
+    "a/b = c/d"
+  ],
+  "64": [
+    "rate",
+    "\u0394y/\u0394x"
+  ],
+  "65": [
+    "decimals",
+    "0.75"
+  ],
+  "66": [
+    "factors-divisibility",
+    "12 = 3\u00d74"
+  ],
+  "67": [
+    "common-factors",
+    "gcd overlapping rings"
+  ],
+  "68": [
+    "variables",
+    "bold italic x"
+  ],
+  "69": [
+    "expressions",
+    "3x + 2"
+  ],
+  "70": [
+    "substitution",
+    "x \u21a6 5"
+  ],
+  "71": [
+    "simplification",
+    "long expression \u2192 short"
+  ],
+  "72": [
+    "collecting-like-terms",
+    "2x + 3x \u2192 5x"
+  ],
+  "73": [
+    "expanding-brackets",
+    "(a+b)\u00b2 expanding"
+  ],
+  "74": [
+    "factoring",
+    "x\u00b2\u22121 \u2192 (x\u22121)(x+1)"
+  ],
+  "75": [
+    "equation-solving",
+    "x = \u2026"
+  ],
+  "76": [
+    "powers",
+    "x\u207f power tower hint"
+  ],
+  "77": [
+    "mapping",
+    "domain \u2192 codomain arrows"
+  ],
+  "78": [
+    "function",
+    "f(x)"
+  ],
+  "79": [
+    "function-representation",
+    "table graph equation trio"
+  ],
+  "80": [
+    "proportionality",
+    "y \u221d x"
+  ],
+  "81": [
+    "similarity-scale",
+    "\u223c similar triangles"
+  ],
+  "82": [
+    "center-typical",
+    "x\u0304 mean bar"
+  ],
+  "83": [
+    "rearranging-formulae",
+    "y = mx + c rearranged"
+  ],
+  "84": [
+    "inequality-solving",
+    "x > 2"
+  ],
+  "85": [
+    "constraints",
+    "shaded feasible region"
+  ],
+  "86": [
+    "signed-quantity",
+    "+ / \u2212 thermometer"
+  ],
+  "87": [
+    "number-sets",
+    "\u2115 \u2282 \u2124 \u2282 \u211a \u2282 \u211d"
+  ],
+  "88": [
+    "percent",
+    "bold %"
+  ],
+  "89": [
+    "roots",
+    "bold \u221a radical"
+  ],
+  "90": [
+    "graphing-relations",
+    "plotted points and curve"
+  ],
+  "91": [
+    "intercepts-zeros",
+    "axes intercepts marked"
+  ],
+  "92": [
+    "domain-range",
+    "D \u2192 R gate"
+  ],
+  "93": [
+    "linearity",
+    "straight line y=mx+b"
+  ],
+  "94": [
+    "slope-gradient",
+    "rise/run triangle"
+  ],
+  "95": [
+    "rate-of-change",
+    "steep slope arrow"
+  ],
+  "96": [
+    "growth-decay",
+    "e\u02e3 rising curve"
+  ],
+  "97": [
+    "parameters-families",
+    "family of parallel lines"
+  ],
+  "98": [
+    "interpolation-extrapolation",
+    "dots with bridging curve"
+  ],
+  "99": [
+    "circular-angular",
+    "\u03b8 on a circle"
+  ],
+  "100": [
+    "sets",
+    "\u2208 element of"
+  ],
+  "101": [
+    "relations",
+    "R relating a\u223cb"
+  ],
+  "102": [
+    "counting-outcomes",
+    "n(S) tree leaves"
+  ],
+  "103": [
+    "probability",
+    "P(A)"
+  ],
+  "104": [
+    "simulation-randomness",
+    "dice pip faces"
+  ],
+  "105": [
+    "spread-variation",
+    "\u03c3 sigma"
+  ],
+  "106": [
+    "distribution",
+    "bell curve \u222b shape"
+  ],
+  "107": [
+    "correlation",
+    "scatter with trend line"
+  ],
+  "108": [
+    "recurrence",
+    "a\u2099 = f(a\u2099\u208b\u2081)"
+  ],
+  "109": [
+    "series-summation",
+    "bold \u03a3 sigma sum"
+  ],
+  "110": [
+    "composition",
+    "f \u2218 g"
+  ],
+  "111": [
+    "inverse-functions",
+    "f\u207b\u00b9"
+  ],
+  "112": [
+    "function-transformation",
+    "f(x\u2212a) shift"
+  ],
+  "113": [
+    "asymptotic",
+    "curve \u2192 asymptote"
+  ],
+  "114": [
+    "systems-simultaneity",
+    "two equations braced"
+  ],
+  "115": [
+    "necessary-sufficient",
+    "\u21d4 iff"
+  ],
+  "116": [
+    "induction-recursion",
+    "n \u2192 n+1 ladder"
+  ],
+  "117": [
+    "conditional-probability",
+    "P(A|B)"
+  ],
+  "118": [
+    "independence",
+    "P(A\u2229B)=P(A)P(B)"
+  ],
+  "119": [
+    "expected-value",
+    "E[X]"
+  ],
+  "120": [
+    "sampling",
+    "n from N"
+  ],
+  "121": [
+    "optimization",
+    "max \u2605 peak"
+  ],
+  "122": [
+    "infinite-convergence",
+    "\u2192 L infinity process"
+  ],
+  "123": [
+    "projection",
+    "vector onto axis shadow"
+  ],
+  "124": [
+    "trigonometric-ratio",
+    "sin cos right triangle"
+  ],
+  "125": [
+    "geometric-locus",
+    "ellipse from pins"
+  ],
+  "126": [
+    "proof",
+    "QED box \u220e"
+  ],
+  "127": [
+    "statistical-inference",
+    "confidence interval bar"
+  ],
+  "128": [
+    "limit",
+    "bold lim"
+  ],
+  "129": [
+    "continuity",
+    "unbroken curve"
+  ],
+  "130": [
+    "derivative",
+    "dy/dx"
+  ],
+  "131": [
+    "local-linearization",
+    "tangent line on curve"
+  ],
+  "132": [
+    "integral",
+    "bold \u222b integral"
+  ],
+  "133": [
+    "fundamental-theorem",
+    "\u222b and d/dx linked"
+  ],
+  "134": [
+    "differential-equation",
+    "dy/dx = f(x,y)"
+  ],
+  "135": [
+    "series-approximation",
+    "1 + x + x\u00b2/2 + \u2026"
+  ],
+  "136": [
+    "vector",
+    "bold arrow \u2192 vector"
+  ],
+  "137": [
+    "scalar-vector",
+    "parallelogram rule"
+  ],
+  "138": [
+    "linear-combination-span",
+    "span shaded plane"
+  ],
+  "139": [
+    "linear-independence",
+    "two non-parallel arrows"
+  ],
+  "140": [
+    "basis-dimension",
+    "basis e\u2081 e\u2082"
+  ],
+  "141": [
+    "matrix",
+    "2\u00d72 matrix grid"
+  ],
+  "142": [
+    "linear-transformation",
+    "grid warping"
+  ],
+  "143": [
+    "determinant",
+    "det |A|"
+  ],
+  "144": [
+    "eigenstructure",
+    "Av = \u03bbv"
+  ]
+}
