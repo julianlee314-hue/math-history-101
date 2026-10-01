@@ -1,47 +1,52 @@
 # Math History 101
 
-Public GitHub Pages curiosity cabinet: short Civ-style math history lessons on 144 concepts (Batch 1 live).
+Public GitHub Pages companion for the **Mathera History Network**: seven Epochs of math, twelve Worlds, and a 144-concept trophy wall.
 
 **Live (once Pages is enabled):** https://julianlee314-hue.github.io/math-history-101/
 
-## Concept
+## Framing
 
-- Hub index: messy-but-pretty grid of all 144 concept chips (1–12 clickable; 13–144 muted “coming”).
-- Concept pages: historical era chip + history blurb + simple illustration + artefact buttons.
-- Artefact drawer: shadowed Pokémon-style evolution strip. You can count level-ups; era labels stay fogged until hover/focus.
+- **History Epochs** (Chinese 一–七): MARK → WRITE → ALGORITHM → PRINT → MECHANIZE → COMPUTE → INTELLIGENCE — how humanity stores, spreads, and automates mathematics.
+- **Learner Eras** (Roman I–VII Count…Space) stay in the Mathera app; this site does not rename them.
+- **Concept Wall**: 12×12 shelf of 144 trophies (text + pixel-art placeholders). Batch 1 (1–12) live.
 
-Colors mark **historical eras** (Origins → Modern), not Mathera learner eras.
+Epoch colors (locked freeze):
 
-## Historical era colors
+| Glyph | Name | Hex |
+|-------|------|-----|
+| 一 | MARK | `#C68642` |
+| 二 | WRITE | `#9A6239` |
+| 三 | ALGORITHM | `#B08A3E` |
+| 四 | PRINT | `#A8483A` |
+| 五 | MECHANIZE | `#8C7352` |
+| 六 | COMPUTE | `#6E5A48` |
+| 七 | INTELLIGENCE | `#7B4558` |
 
-| Era | Dates | Color |
-|-----|-------|-------|
-| I Origins | Prehistory–c.600 BCE | `#A35C2D` |
-| II Classical | c.600 BCE–500 CE | `#8A6D3B` |
-| III Medieval | c.500–1400 | `#3F715B` |
-| IV Renaissance | c.1400–1650 | `#8B3948` |
-| V Enlightenment | c.1650–1800 | `#3D5578` |
-| VI Industrial | c.1800–1900 | `#505860` |
-| VII Modern | c.1900–present | `#285A8C` |
-
-Locked as CSS variables in `css/site.css` (`--era-origins` … `--era-modern`).
+Old Origins–Modern material colors remain on Batch 1 concept pages until a full Epoch remap.
 
 ## Layout
 
 ```
-index.html              Hub
+index.html                 Landing (Epochs + Worlds teaser + Wall CTA)
+wall/index.html            12×12 Concept Wall (144 tiles)
+epochs/index.html          Seven Epochs detail
+eras/index.html            Note → Epochs (legacy path)
+worlds/index.html          Twelve Worlds
 about/index.html
-eras/index.html
-artefacts/index.html
-concepts/<slug>/index.html   Batch 1 (12 pages)
+artefacts/index.html       Batch 1 artefact lineages
+concepts/<slug>/           Batch 1 concept pages (12)
+concepts/coming/           Stub for concepts 13–144
 css/site.css
 js/site.js
-data/eras.json
+data/epochs.json
+data/worlds.json
 data/concepts.json
 data/artefacts.json
+data/eras.json             (legacy)
+data/concept-era-map.json  (legacy birth eras)
 ```
 
-Links are **relative** so the site works both locally and as a GitHub project Pages site under `/math-history-101/` (no absolute `/` roots).
+Links are **relative** for GitHub project Pages under `/math-history-101/`.
 
 ## Preview locally
 
@@ -51,22 +56,14 @@ python3 -m http.server 8080
 # open http://127.0.0.1:8080/
 ```
 
-Or open `index.html` directly; fetch of JSON for the artefact drawer needs a local server (file:// may block).
-
 ## GitHub Pages
 
-1. Push this repo to `julianlee314-hue/math-history-101`.
-2. Settings → Pages → Source: Deploy from branch `main` (root).
-3. `.nojekyll` is present so GitHub does not run Jekyll.
+1. Push to `julianlee314-hue/math-history-101`.
+2. Settings → Pages → Deploy from branch `main` (root).
+3. `.nojekyll` present.
 
-Do not invent fake exact invention years; history blurbs use ranges from Batch 1 essays.
-
-## Data
-
-- `data/concepts.json` — all 144; first 12 have `history`, `era`, `artefacts`, `status:"live"`.
-- `data/artefacts.json` — launch lineages with evolution stages tagged by historical era id.
-- `data/eras.json` — the seven eras with colors and material cues.
+Do not invent fake exact invention years. Do not push from agent tasks unless asked — parent commits.
 
 ## License / credit
 
-History essays adapted from Mathera Concept Histories Batch 1. Site shell for Math History 101.
+History essays adapted from Mathera Concept Histories Batch 1. Freeze sheet: History Network companion (October 2026).

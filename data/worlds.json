@@ -1,0 +1,74 @@
+[
+  {
+    "id": "mesopotamia",
+    "n": 1,
+    "name": "Mesopotamia",
+    "signature": "Clay-tablet computation"
+  },
+  {
+    "id": "egypt-eastern-mediterranean",
+    "n": 2,
+    "name": "Egypt/Eastern Mediterranean",
+    "signature": "Survey, measure, record"
+  },
+  {
+    "id": "greek-hellenistic",
+    "n": 3,
+    "name": "Greek/Hellenistic",
+    "signature": "Proof and geometric structure"
+  },
+  {
+    "id": "china",
+    "n": 4,
+    "name": "China",
+    "signature": "Algorithmic state mathematics"
+  },
+  {
+    "id": "india",
+    "n": 5,
+    "name": "India",
+    "signature": "Numeral and computational abstraction"
+  },
+  {
+    "id": "baghdad-islamic-persian",
+    "n": 6,
+    "name": "Baghdad/Islamic-Persian",
+    "signature": "Translation → algebra → synthesis"
+  },
+  {
+    "id": "italian-commercial-renaissance",
+    "n": 7,
+    "name": "Italian Commercial/Renaissance",
+    "signature": "Merchant math becomes print math"
+  },
+  {
+    "id": "atlantic-scientific-revolution",
+    "n": 8,
+    "name": "Atlantic Scientific Revolution",
+    "signature": "Instrument + experiment + symbolic mathematics"
+  },
+  {
+    "id": "french-enlightenment-revolutionary",
+    "n": 9,
+    "name": "French Enlightenment/Revolutionary",
+    "signature": "Mathematics becomes an institution"
+  },
+  {
+    "id": "central-europe-19c-abstract",
+    "n": 10,
+    "name": "Central Europe 19th-c Abstract",
+    "signature": "Rigor and structure"
+  },
+  {
+    "id": "british-industrial-engineering",
+    "n": 11,
+    "name": "British Industrial/Engineering",
+    "signature": "Mathematics as infrastructure"
+  },
+  {
+    "id": "american-global-computational",
+    "n": 12,
+    "name": "American/Global Computational",
+    "signature": "Electronics → software → AI"
+  }
+]

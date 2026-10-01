@@ -1,0 +1,67 @@
+[
+  {
+    "id": "mark",
+    "n": 1,
+    "glyph": "一",
+    "name": "MARK",
+    "thesis": "Mathematics can be stored.",
+    "color": "#C68642",
+    "artifacts": ["tally", "token", "clay", "glyph", "numeral"],
+    "archaic_note": "Companion easter eggs only; app uses modern 一二三四五六七."
+  },
+  {
+    "id": "write",
+    "n": 2,
+    "glyph": "二",
+    "name": "WRITE",
+    "thesis": "Mathematics can be argued.",
+    "color": "#9A6239",
+    "artifacts": ["scroll", "codex", "diagram", "compass", "straightedge"]
+  },
+  {
+    "id": "algorithm",
+    "n": 3,
+    "glyph": "三",
+    "name": "ALGORITHM",
+    "thesis": "Mathematics can be proceduralized.",
+    "color": "#B08A3E",
+    "artifacts": ["counting board", "positional numerals", "zero", "tables", "astrolabe"]
+  },
+  {
+    "id": "print",
+    "n": 4,
+    "glyph": "四",
+    "name": "PRINT",
+    "thesis": "Mathematics can spread.",
+    "color": "#A8483A",
+    "artifacts": ["press", "printed algebra", "notation", "log tables", "charts"],
+    "archaic_easter_egg": "亖"
+  },
+  {
+    "id": "mechanize",
+    "n": 5,
+    "glyph": "五",
+    "name": "MECHANIZE",
+    "thesis": "Mathematics can be embodied.",
+    "color": "#8C7352",
+    "artifacts": ["slide rule", "planimeter", "mechanical calculator", "graph paper"]
+  },
+  {
+    "id": "compute",
+    "n": 6,
+    "glyph": "六",
+    "name": "COMPUTE",
+    "thesis": "Mathematics can execute itself.",
+    "color": "#6E5A48",
+    "artifacts": ["punch card", "electronic calculator", "PC", "spreadsheet", "CAS"]
+  },
+  {
+    "id": "intelligence",
+    "n": 7,
+    "glyph": "七",
+    "name": "INTELLIGENCE",
+    "thesis": "Mathematics can increasingly search itself.",
+    "color": "#7B4558",
+    "artifacts": ["proof assistants", "symbolic search", "neural/AI reasoning"]
+  }
+]

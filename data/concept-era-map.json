@@ -1,0 +1,2329 @@
+[
+  {
+    "id": 1,
+    "name": "Counting",
+    "slug": "counting",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Tallies to abstract enumeration across every era",
+    "confidence": "high"
+  },
+  {
+    "id": 2,
+    "name": "Cardinality",
+    "slug": "cardinality",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Last-count-as-total; deepens with set language later",
+    "confidence": "high"
+  },
+  {
+    "id": 3,
+    "name": "Number Representation",
+    "slug": "number-representation",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Marks for number: hieroglyphs to Hindu–Arabic to digital",
+    "confidence": "high"
+  },
+  {
+    "id": 4,
+    "name": "Ordering",
+    "slug": "ordering",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Sequence and before/after; number-line picture much later",
+    "confidence": "high"
+  },
+  {
+    "id": 5,
+    "name": "Place Value",
+    "slug": "place-value",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Positional systems early; zero-placeholder matures Medieval",
+    "confidence": "high"
+  },
+  {
+    "id": 6,
+    "name": "Addition",
+    "slug": "addition",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Joining quantities; balance and algorithmic addition",
+    "confidence": "high"
+  },
+  {
+    "id": 7,
+    "name": "Subtraction",
+    "slug": "subtraction",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Taking away / difference; twin of addition in accounting",
+    "confidence": "high"
+  },
+  {
+    "id": 8,
+    "name": "Pattern Recognition",
+    "slug": "pattern-recognition",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Notices regularities; from craft and season to sequences",
+    "confidence": "high"
+  },
+  {
+    "id": 9,
+    "name": "Classification",
+    "slug": "classification",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Sorting by kind; tokens to taxonomies to categories",
+    "confidence": "high"
+  },
+  {
+    "id": 10,
+    "name": "Shape",
+    "slug": "shape",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Named forms in use early; Greek naming and proof later",
+    "confidence": "high"
+  },
+  {
+    "id": 11,
+    "name": "Position",
+    "slug": "position",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Relative where; grids, maps, then coordinates",
+    "confidence": "high"
+  },
+  {
+    "id": 12,
+    "name": "Distance",
+    "slug": "distance",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Measured separation; cubits and ropes to metric rigor",
+    "confidence": "high"
+  },
+  {
+    "id": 13,
+    "name": "Units",
+    "slug": "units",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Shared standards for trade and building; metric Industrial",
+    "confidence": "high"
+  },
+  {
+    "id": 14,
+    "name": "Measurement",
+    "slug": "measurement",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Assigning number to continuous quantity; instruments refine",
+    "confidence": "high"
+  },
+  {
+    "id": 15,
+    "name": "Data Representation",
+    "slug": "data-representation",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Tokens and ledgers; tables, charts, then digital forms",
+    "confidence": "high"
+  },
+  {
+    "id": 16,
+    "name": "Estimation",
+    "slug": "estimation",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Good-enough quantity in practice; error theory much later",
+    "confidence": "high"
+  },
+  {
+    "id": 17,
+    "name": "Repeated Operations / Iteration",
+    "slug": "repeated-operations-iteration",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Egyptian doubling and loops; iteration as method deepens",
+    "confidence": "high"
+  },
+  {
+    "id": 18,
+    "name": "Algorithms",
+    "slug": "algorithms",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Named procedures early; word and theory via al-Khwarizmi",
+    "confidence": "medium"
+  },
+  {
+    "id": 19,
+    "name": "Commutativity",
+    "slug": "commutativity",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Order-independence noticed in use; named as property later",
+    "confidence": "medium"
+  },
+  {
+    "id": 20,
+    "name": "Associativity",
+    "slug": "associativity",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Grouping-independence; algebra and structure theory later",
+    "confidence": "medium"
+  },
+  {
+    "id": 21,
+    "name": "Identity & Inverse Elements",
+    "slug": "identity-and-inverse-elements",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Identity 1 early; 0-as-number and inverses deepen Medieval+",
+    "confidence": "medium"
+  },
+  {
+    "id": 22,
+    "name": "Inverse Operations",
+    "slug": "inverse-operations",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Undo pairs (add/sub, ×/÷) present wherever arithmetic is",
+    "confidence": "high"
+  },
+  {
+    "id": 23,
+    "name": "Area",
+    "slug": "area",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Field and floor measures; Euclid then analytic area",
+    "confidence": "high"
+  },
+  {
+    "id": 24,
+    "name": "Volume",
+    "slug": "volume",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Containers and earthworks; Cavalieri and calculus later",
+    "confidence": "high"
+  },
+  {
+    "id": 25,
+    "name": "Precision & Error",
+    "slug": "precision-and-error",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Survey tolerances early; formal error Industrial–Modern",
+    "confidence": "medium"
+  },
+  {
+    "id": 26,
+    "name": "Mental & Computational Fluency",
+    "slug": "mental-and-computational-fluency",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Abacus and mental calc; fluency as pedagogy mostly Modern",
+    "confidence": "medium"
+  },
+  {
+    "id": 27,
+    "name": "Equality",
+    "slug": "equality",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Balance sameness; symbolic = and equation culture later",
+    "confidence": "high"
+  },
+  {
+    "id": 28,
+    "name": "Equivalence",
+    "slug": "equivalence",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Same value, different form; fractions, congruence, classes",
+    "confidence": "high"
+  },
+  {
+    "id": 29,
+    "name": "Magnitude",
+    "slug": "magnitude",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Size comparison early; Eudoxus–Euclid magnitude theory",
+    "confidence": "high"
+  },
+  {
+    "id": 30,
+    "name": "Scaling",
+    "slug": "scaling",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Maps and models; similarity theory Classical onward",
+    "confidence": "high"
+  },
+  {
+    "id": 31,
+    "name": "Sequence",
+    "slug": "sequence",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Ordered lists and tables; sequences as objects later",
+    "confidence": "high"
+  },
+  {
+    "id": 32,
+    "name": "Coordinates",
+    "slug": "coordinates",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Sky/earth frames Classical; Cartesian plane Renaissance",
+    "confidence": "high"
+  },
+  {
+    "id": 33,
+    "name": "Tables",
+    "slug": "tables",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Clay and papyrus tables; still a core data form",
+    "confidence": "high"
+  },
+  {
+    "id": 34,
+    "name": "Graphs",
+    "slug": "graphs",
+    "birth_era": 3,
+    "birth_era_name": "Medieval",
+    "span": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Oresme latitudes; analytic graphs Renaissance–Enlightenment",
+    "confidence": "medium"
+  },
+  {
+    "id": 35,
+    "name": "Changing Representation",
+    "slug": "changing-representation",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Same idea in new clothes; multiple representations deepen",
+    "confidence": "high"
+  },
+  {
+    "id": 36,
+    "name": "Symbolic Representation",
+    "slug": "symbolic-representation",
+    "birth_era": 4,
+    "birth_era_name": "Renaissance",
+    "span": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Letter algebra Viète–Descartes; symbolism stabilizes",
+    "confidence": "high"
+  },
+  {
+    "id": 37,
+    "name": "Visual Representation",
+    "slug": "visual-representation",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Diagrams and figures from the start; visual proof culture",
+    "confidence": "high"
+  },
+  {
+    "id": 38,
+    "name": "Reading Graphs",
+    "slug": "reading-graphs",
+    "birth_era": 3,
+    "birth_era_name": "Medieval",
+    "span": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Reading plotted quantities after graphs exist",
+    "confidence": "medium"
+  },
+  {
+    "id": 39,
+    "name": "Periodicity",
+    "slug": "periodicity",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Calendars and cycles; waves and Fourier much later",
+    "confidence": "high"
+  },
+  {
+    "id": 40,
+    "name": "Mathematical Modelling",
+    "slug": "mathematical-modelling",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Math for the world early; named modelling culture Modern",
+    "confidence": "medium"
+  },
+  {
+    "id": 41,
+    "name": "Angle",
+    "slug": "angle",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Corners in building; degree system and Euclid deepen",
+    "confidence": "high"
+  },
+  {
+    "id": 42,
+    "name": "Parallel & Perpendicular",
+    "slug": "parallel-and-perpendicular",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Rope and square practice; parallel postulate Classical",
+    "confidence": "high"
+  },
+  {
+    "id": 43,
+    "name": "Perimeter / Boundary",
+    "slug": "perimeter-boundary",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Edge length of fields and walls; perimeter as measure",
+    "confidence": "high"
+  },
+  {
+    "id": 44,
+    "name": "Congruence",
+    "slug": "congruence",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Same shape and size; Euclid superposition to transforms",
+    "confidence": "high"
+  },
+  {
+    "id": 45,
+    "name": "Symmetry",
+    "slug": "symmetry",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Ornament and bilateral form; group language Modern",
+    "confidence": "high"
+  },
+  {
+    "id": 46,
+    "name": "Geometric Transformation",
+    "slug": "geometric-transformation",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Move and match Classical; Klein program Industrial–Modern",
+    "confidence": "high"
+  },
+  {
+    "id": 47,
+    "name": "Spatial Reasoning",
+    "slug": "spatial-reasoning",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Navigating space; formalized across geometry eras",
+    "confidence": "high"
+  },
+  {
+    "id": 48,
+    "name": "Logical Statements",
+    "slug": "logical-statements",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Assertable claims; Aristotelian and Euclidean logic",
+    "confidence": "high"
+  },
+  {
+    "id": 49,
+    "name": "Implication",
+    "slug": "implication",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "If–then structure; core of proof thereafter",
+    "confidence": "high"
+  },
+  {
+    "id": 50,
+    "name": "Counterexample",
+    "slug": "counterexample",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "One fail kills a universal; dialectic to classroom proof",
+    "confidence": "high"
+  },
+  {
+    "id": 51,
+    "name": "Deduction",
+    "slug": "deduction",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Necessary consequence; organon of Greek mathematics",
+    "confidence": "high"
+  },
+  {
+    "id": 52,
+    "name": "Invariance",
+    "slug": "invariance",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "What survives a change; Erlangen and physics later",
+    "confidence": "high"
+  },
+  {
+    "id": 53,
+    "name": "Generalization",
+    "slug": "generalization",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "From cases to laws; hallmark of Greek and later math",
+    "confidence": "high"
+  },
+  {
+    "id": 54,
+    "name": "Data Collection",
+    "slug": "data-collection",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Census, skywatch, trade records; stats methods later",
+    "confidence": "high"
+  },
+  {
+    "id": 55,
+    "name": "Approximation by Refinement",
+    "slug": "approximation-by-refinement",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Exhaustion and successive better fits; analysis deepens",
+    "confidence": "high"
+  },
+  {
+    "id": 56,
+    "name": "Accumulation",
+    "slug": "accumulation",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Running totals; path to integral as accumulated change",
+    "confidence": "high"
+  },
+  {
+    "id": 57,
+    "name": "Orthogonality",
+    "slug": "orthogonality",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Right angle Classical; orthogonal bases Industrial–Modern",
+    "confidence": "high"
+  },
+  {
+    "id": 58,
+    "name": "Multiplication",
+    "slug": "multiplication",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Doubling and tables; algorithmic and algebraic forms",
+    "confidence": "high"
+  },
+  {
+    "id": 59,
+    "name": "Division",
+    "slug": "division",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Sharing and measuring-out; algorithms across cultures",
+    "confidence": "high"
+  },
+  {
+    "id": 60,
+    "name": "Distributivity",
+    "slug": "distributivity",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "× over + as stated law; algebra and rings later",
+    "confidence": "medium"
+  },
+  {
+    "id": 61,
+    "name": "Fractions",
+    "slug": "fractions",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Unit fractions Egypt; general fractions and fields later",
+    "confidence": "high"
+  },
+  {
+    "id": 62,
+    "name": "Ratio",
+    "slug": "ratio",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "How-many-times comparison; Eudoxus rigor Classical",
+    "confidence": "high"
+  },
+  {
+    "id": 63,
+    "name": "Proportion",
+    "slug": "proportion",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Equal ratios; Euclid and rule-of-three commerce",
+    "confidence": "high"
+  },
+  {
+    "id": 64,
+    "name": "Rate",
+    "slug": "rate",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Per-unit change in travel, work, interest",
+    "confidence": "high"
+  },
+  {
+    "id": 65,
+    "name": "Decimals",
+    "slug": "decimals",
+    "birth_era": 3,
+    "birth_era_name": "Medieval",
+    "span": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Sexagesimal fractions early; decimal place-value Stevin",
+    "confidence": "medium"
+  },
+  {
+    "id": 66,
+    "name": "Factors & Divisibility",
+    "slug": "factors-and-divisibility",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Euclid number theory; factors as arithmetic objects",
+    "confidence": "high"
+  },
+  {
+    "id": 67,
+    "name": "Common Factors",
+    "slug": "common-factors",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Euclidean algorithm; GCD as structural tool",
+    "confidence": "high"
+  },
+  {
+    "id": 68,
+    "name": "Variables",
+    "slug": "variables",
+    "birth_era": 3,
+    "birth_era_name": "Medieval",
+    "span": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Unknowns in Arabic algebra; letter variables Renaissance",
+    "confidence": "high"
+  },
+  {
+    "id": 69,
+    "name": "Expressions",
+    "slug": "expressions",
+    "birth_era": 4,
+    "birth_era_name": "Renaissance",
+    "span": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Symbolic compounds of numbers and letters",
+    "confidence": "high"
+  },
+  {
+    "id": 70,
+    "name": "Substitution",
+    "slug": "substitution",
+    "birth_era": 3,
+    "birth_era_name": "Medieval",
+    "span": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Plug-in evaluation in algebra traditions",
+    "confidence": "high"
+  },
+  {
+    "id": 71,
+    "name": "Simplification",
+    "slug": "simplification",
+    "birth_era": 4,
+    "birth_era_name": "Renaissance",
+    "span": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Rewrite to simpler equivalent symbolic form",
+    "confidence": "high"
+  },
+  {
+    "id": 72,
+    "name": "Collecting Like Terms",
+    "slug": "collecting-like-terms",
+    "birth_era": 4,
+    "birth_era_name": "Renaissance",
+    "span": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Gather same powers/letters in symbolic algebra",
+    "confidence": "high"
+  },
+  {
+    "id": 73,
+    "name": "Expanding Brackets",
+    "slug": "expanding-brackets",
+    "birth_era": 4,
+    "birth_era_name": "Renaissance",
+    "span": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Distributive expansion as algebraic move",
+    "confidence": "high"
+  },
+  {
+    "id": 74,
+    "name": "Factoring",
+    "slug": "factoring",
+    "birth_era": 4,
+    "birth_era_name": "Renaissance",
+    "span": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Polynomial factor craft; number factors earlier",
+    "confidence": "high"
+  },
+  {
+    "id": 75,
+    "name": "Equation Solving",
+    "slug": "equation-solving",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Babylonian recipes to symbolic solving Renaissance+",
+    "confidence": "high"
+  },
+  {
+    "id": 76,
+    "name": "Powers",
+    "slug": "powers",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Squares/cubes early; exponential notation later",
+    "confidence": "high"
+  },
+  {
+    "id": 77,
+    "name": "Mapping",
+    "slug": "mapping",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Correspondences; path toward functions",
+    "confidence": "medium"
+  },
+  {
+    "id": 78,
+    "name": "Function",
+    "slug": "function",
+    "birth_era": 5,
+    "birth_era_name": "Enlightenment",
+    "span": [
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Input–output rule; Euler-era concept (earlier precursors)",
+    "confidence": "high"
+  },
+  {
+    "id": 79,
+    "name": "Function Representation",
+    "slug": "function-representation",
+    "birth_era": 5,
+    "birth_era_name": "Enlightenment",
+    "span": [
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Tables, graphs, formulas as faces of a function",
+    "confidence": "high"
+  },
+  {
+    "id": 80,
+    "name": "Proportionality",
+    "slug": "proportionality",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "y ∝ x as standing relation; graphs later",
+    "confidence": "high"
+  },
+  {
+    "id": 81,
+    "name": "Similarity & Scale",
+    "slug": "similarity-and-scale",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Similar figures Euclid; scale drawings and maps",
+    "confidence": "high"
+  },
+  {
+    "id": 82,
+    "name": "Center / Typical Value",
+    "slug": "center-typical-value",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Typical value / mean; stats center Industrial+",
+    "confidence": "medium"
+  },
+  {
+    "id": 83,
+    "name": "Rearranging Formulae",
+    "slug": "rearranging-formulae",
+    "birth_era": 4,
+    "birth_era_name": "Renaissance",
+    "span": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Isolate a letter; formula culture after symbolism",
+    "confidence": "high"
+  },
+  {
+    "id": 84,
+    "name": "Inequality Solving",
+    "slug": "inequality-solving",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Inequalities in Euclid; solving chains later algebra",
+    "confidence": "medium"
+  },
+  {
+    "id": 85,
+    "name": "Constraints & Solution Sets",
+    "slug": "constraints-and-solution-sets",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Loci as solution sets; set language Modern",
+    "confidence": "medium"
+  },
+  {
+    "id": 86,
+    "name": "Signed Quantity",
+    "slug": "signed-quantity",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Directed/negative quantity (China early); Europe slow",
+    "confidence": "medium"
+  },
+  {
+    "id": 87,
+    "name": "Number Sets",
+    "slug": "number-sets",
+    "birth_era": 6,
+    "birth_era_name": "Industrial",
+    "span": [
+      6,
+      7
+    ],
+    "depth_note": "N,Z,Q,R as structured sets; foundations 19th c.",
+    "confidence": "high"
+  },
+  {
+    "id": 88,
+    "name": "Percent",
+    "slug": "percent",
+    "birth_era": 3,
+    "birth_era_name": "Medieval",
+    "span": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Per-hundred commercial practice; percent notation",
+    "confidence": "high"
+  },
+  {
+    "id": 89,
+    "name": "Roots",
+    "slug": "roots",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Square roots Babylon; radical theory later",
+    "confidence": "high"
+  },
+  {
+    "id": 90,
+    "name": "Graphing Relations & Functions",
+    "slug": "graphing-relations-and-functions",
+    "birth_era": 4,
+    "birth_era_name": "Renaissance",
+    "span": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Analytic geometry plots relations and functions",
+    "confidence": "high"
+  },
+  {
+    "id": 91,
+    "name": "Intercepts, Zeros & Intersections",
+    "slug": "intercepts-zeros-and-intersections",
+    "birth_era": 4,
+    "birth_era_name": "Renaissance",
+    "span": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Axis crossings and meetings in the plane",
+    "confidence": "high"
+  },
+  {
+    "id": 92,
+    "name": "Domain & Range",
+    "slug": "domain-and-range",
+    "birth_era": 5,
+    "birth_era_name": "Enlightenment",
+    "span": [
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Allowed inputs/outputs once functions are objects",
+    "confidence": "high"
+  },
+  {
+    "id": 93,
+    "name": "Linearity",
+    "slug": "linearity",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Straight proportion Classical; linear maps Industrial",
+    "confidence": "high"
+  },
+  {
+    "id": 94,
+    "name": "Slope / Gradient",
+    "slug": "slope-gradient",
+    "birth_era": 4,
+    "birth_era_name": "Renaissance",
+    "span": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Rise/run on lines; derivative link Enlightenment",
+    "confidence": "high"
+  },
+  {
+    "id": 95,
+    "name": "Rate of Change",
+    "slug": "rate-of-change",
+    "birth_era": 5,
+    "birth_era_name": "Enlightenment",
+    "span": [
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Instantaneous change with the calculus",
+    "confidence": "high"
+  },
+  {
+    "id": 96,
+    "name": "Growth & Decay",
+    "slug": "growth-and-decay",
+    "birth_era": 4,
+    "birth_era_name": "Renaissance",
+    "span": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Compound interest and exponentials; DEs later",
+    "confidence": "high"
+  },
+  {
+    "id": 97,
+    "name": "Parameters & Families",
+    "slug": "parameters-and-families",
+    "birth_era": 5,
+    "birth_era_name": "Enlightenment",
+    "span": [
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Families of curves/equations by sliding constants",
+    "confidence": "high"
+  },
+  {
+    "id": 98,
+    "name": "Interpolation & Extrapolation",
+    "slug": "interpolation-and-extrapolation",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Table fill-in Classical; polynomial methods later",
+    "confidence": "high"
+  },
+  {
+    "id": 99,
+    "name": "Circular / Angular Measure",
+    "slug": "circular-angular-measure",
+    "birth_era": 1,
+    "birth_era_name": "Origins",
+    "span": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Babylonian degrees; radians Enlightenment+",
+    "confidence": "high"
+  },
+  {
+    "id": 100,
+    "name": "Sets",
+    "slug": "sets",
+    "birth_era": 6,
+    "birth_era_name": "Industrial",
+    "span": [
+      6,
+      7
+    ],
+    "depth_note": "Cantorian sets; language of modern mathematics",
+    "confidence": "high"
+  },
+  {
+    "id": 101,
+    "name": "Relations",
+    "slug": "relations",
+    "birth_era": 6,
+    "birth_era_name": "Industrial",
+    "span": [
+      6,
+      7
+    ],
+    "depth_note": "Relations as sets of pairs; structure theory",
+    "confidence": "high"
+  },
+  {
+    "id": 102,
+    "name": "Counting Outcomes",
+    "slug": "counting-outcomes",
+    "birth_era": 4,
+    "birth_era_name": "Renaissance",
+    "span": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Systematic outcome counting; Pascal–Fermat era",
+    "confidence": "high"
+  },
+  {
+    "id": 103,
+    "name": "Probability",
+    "slug": "probability",
+    "birth_era": 5,
+    "birth_era_name": "Enlightenment",
+    "span": [
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Formal chance; Huygens–Bernoulli–Laplace line",
+    "confidence": "high"
+  },
+  {
+    "id": 104,
+    "name": "Simulation & Randomness",
+    "slug": "simulation-and-randomness",
+    "birth_era": 7,
+    "birth_era_name": "Modern",
+    "span": [
+      7
+    ],
+    "depth_note": "Randomness enacted; Monte Carlo and computing",
+    "confidence": "medium"
+  },
+  {
+    "id": 105,
+    "name": "Spread / Variation",
+    "slug": "spread-variation",
+    "birth_era": 6,
+    "birth_era_name": "Industrial",
+    "span": [
+      6,
+      7
+    ],
+    "depth_note": "Dispersion as a measured object in statistics",
+    "confidence": "high"
+  },
+  {
+    "id": 106,
+    "name": "Distribution",
+    "slug": "distribution",
+    "birth_era": 5,
+    "birth_era_name": "Enlightenment",
+    "span": [
+      5,
+      6,
+      7
+    ],
+    "depth_note": "How values spread; de Moivre–Gauss–Quetelet",
+    "confidence": "medium"
+  },
+  {
+    "id": 107,
+    "name": "Correlation & Association",
+    "slug": "correlation-and-association",
+    "birth_era": 6,
+    "birth_era_name": "Industrial",
+    "span": [
+      6,
+      7
+    ],
+    "depth_note": "Association measured; Galton–Pearson program",
+    "confidence": "high"
+  },
+  {
+    "id": 108,
+    "name": "Recurrence",
+    "slug": "recurrence",
+    "birth_era": 3,
+    "birth_era_name": "Medieval",
+    "span": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Fibonacci-style self-reference; recurrence relations",
+    "confidence": "medium"
+  },
+  {
+    "id": 109,
+    "name": "Series / Summation",
+    "slug": "series-summation",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Sums of many terms; infinite series Enlightenment",
+    "confidence": "high"
+  },
+  {
+    "id": 110,
+    "name": "Composition",
+    "slug": "composition",
+    "birth_era": 5,
+    "birth_era_name": "Enlightenment",
+    "span": [
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Functions of functions; algebraic composition",
+    "confidence": "high"
+  },
+  {
+    "id": 111,
+    "name": "Inverse Functions",
+    "slug": "inverse-functions",
+    "birth_era": 5,
+    "birth_era_name": "Enlightenment",
+    "span": [
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Undo a function; inverse as object",
+    "confidence": "high"
+  },
+  {
+    "id": 112,
+    "name": "Function Transformation",
+    "slug": "function-transformation",
+    "birth_era": 5,
+    "birth_era_name": "Enlightenment",
+    "span": [
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Shift, stretch, reflect families of graphs",
+    "confidence": "high"
+  },
+  {
+    "id": 113,
+    "name": "Asymptotic Behaviour",
+    "slug": "asymptotic-behaviour",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Asymptotes Apollonius; asymptotic analysis later",
+    "confidence": "medium"
+  },
+  {
+    "id": 114,
+    "name": "Systems / Simultaneity",
+    "slug": "systems-simultaneity",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Simultaneous conditions; Chinese fangcheng onward",
+    "confidence": "high"
+  },
+  {
+    "id": 115,
+    "name": "Necessary & Sufficient Conditions",
+    "slug": "necessary-and-sufficient-conditions",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Logic of exact hypotheses and conclusions",
+    "confidence": "high"
+  },
+  {
+    "id": 116,
+    "name": "Induction / Recursion",
+    "slug": "induction-recursion",
+    "birth_era": 4,
+    "birth_era_name": "Renaissance",
+    "span": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Formal induction; recursive definition culture",
+    "confidence": "high"
+  },
+  {
+    "id": 117,
+    "name": "Conditional Probability",
+    "slug": "conditional-probability",
+    "birth_era": 5,
+    "birth_era_name": "Enlightenment",
+    "span": [
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Updated chance given evidence; Bayes–Laplace",
+    "confidence": "high"
+  },
+  {
+    "id": 118,
+    "name": "Independence",
+    "slug": "independence",
+    "birth_era": 5,
+    "birth_era_name": "Enlightenment",
+    "span": [
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Events that do not inform each other",
+    "confidence": "high"
+  },
+  {
+    "id": 119,
+    "name": "Expected Value",
+    "slug": "expected-value",
+    "birth_era": 5,
+    "birth_era_name": "Enlightenment",
+    "span": [
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Long-run average payoff; Huygens expectation",
+    "confidence": "high"
+  },
+  {
+    "id": 120,
+    "name": "Sampling",
+    "slug": "sampling",
+    "birth_era": 6,
+    "birth_era_name": "Industrial",
+    "span": [
+      6,
+      7
+    ],
+    "depth_note": "Infer from parts; survey and sampling theory",
+    "confidence": "high"
+  },
+  {
+    "id": 121,
+    "name": "Optimization",
+    "slug": "optimization",
+    "birth_era": 5,
+    "birth_era_name": "Enlightenment",
+    "span": [
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Best value under calculus; LP Modern",
+    "confidence": "medium"
+  },
+  {
+    "id": 122,
+    "name": "Infinite Process & Convergence",
+    "slug": "infinite-process-and-convergence",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Zeno and exhaustion; convergence rigor Industrial",
+    "confidence": "high"
+  },
+  {
+    "id": 123,
+    "name": "Projection",
+    "slug": "projection",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Casting shadows and maps; vector projection later",
+    "confidence": "high"
+  },
+  {
+    "id": 124,
+    "name": "Trigonometric Ratio",
+    "slug": "trigonometric-ratio",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Chord tables Hipparchus–Ptolemy; Islamic sine",
+    "confidence": "high"
+  },
+  {
+    "id": 125,
+    "name": "Geometric Locus",
+    "slug": "geometric-locus",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Path defined by a condition; Greek geometry",
+    "confidence": "high"
+  },
+  {
+    "id": 126,
+    "name": "Proof",
+    "slug": "proof",
+    "birth_era": 2,
+    "birth_era_name": "Classical",
+    "span": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Demonstrative certainty; Euclid as template",
+    "confidence": "high"
+  },
+  {
+    "id": 127,
+    "name": "Statistical Inference",
+    "slug": "statistical-inference",
+    "birth_era": 6,
+    "birth_era_name": "Industrial",
+    "span": [
+      6,
+      7
+    ],
+    "depth_note": "From data to claims; Fisherian Modern crescendo",
+    "confidence": "medium"
+  },
+  {
+    "id": 128,
+    "name": "Limit",
+    "slug": "limit",
+    "birth_era": 5,
+    "birth_era_name": "Enlightenment",
+    "span": [
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Approaching a value; Cauchy–Weierstrass rigor",
+    "confidence": "high"
+  },
+  {
+    "id": 129,
+    "name": "Continuity",
+    "slug": "continuity",
+    "birth_era": 5,
+    "birth_era_name": "Enlightenment",
+    "span": [
+      5,
+      6,
+      7
+    ],
+    "depth_note": "No jumps; ε–δ and topology later",
+    "confidence": "high"
+  },
+  {
+    "id": 130,
+    "name": "Derivative",
+    "slug": "derivative",
+    "birth_era": 5,
+    "birth_era_name": "Enlightenment",
+    "span": [
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Instant rate; Newton–Leibniz then rigor",
+    "confidence": "high"
+  },
+  {
+    "id": 131,
+    "name": "Local Linearization",
+    "slug": "local-linearization",
+    "birth_era": 5,
+    "birth_era_name": "Enlightenment",
+    "span": [
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Tangent-line stand-in for a curve locally",
+    "confidence": "high"
+  },
+  {
+    "id": 132,
+    "name": "Integral",
+    "slug": "integral",
+    "birth_era": 5,
+    "birth_era_name": "Enlightenment",
+    "span": [
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Accumulated change; area algorithms to analysis",
+    "confidence": "high"
+  },
+  {
+    "id": 133,
+    "name": "Fundamental Theorem Connection",
+    "slug": "fundamental-theorem-connection",
+    "birth_era": 5,
+    "birth_era_name": "Enlightenment",
+    "span": [
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Derivative–integral inverse link crystallized",
+    "confidence": "high"
+  },
+  {
+    "id": 134,
+    "name": "Differential Equation",
+    "slug": "differential-equation",
+    "birth_era": 5,
+    "birth_era_name": "Enlightenment",
+    "span": [
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Equations involving rates; Euler–Bernoulli line",
+    "confidence": "high"
+  },
+  {
+    "id": 135,
+    "name": "Series Approximation",
+    "slug": "series-approximation",
+    "birth_era": 5,
+    "birth_era_name": "Enlightenment",
+    "span": [
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Taylor–Maclaurin local polynomial stand-ins",
+    "confidence": "high"
+  },
+  {
+    "id": 136,
+    "name": "Vector",
+    "slug": "vector",
+    "birth_era": 6,
+    "birth_era_name": "Industrial",
+    "span": [
+      6,
+      7
+    ],
+    "depth_note": "Directed magnitude; Gibbs–Heaviside–Grassmann",
+    "confidence": "high"
+  },
+  {
+    "id": 137,
+    "name": "Scalar & Vector Combination",
+    "slug": "scalar-and-vector-combination",
+    "birth_era": 6,
+    "birth_era_name": "Industrial",
+    "span": [
+      6,
+      7
+    ],
+    "depth_note": "Scale and add arrows; vector algebra basics",
+    "confidence": "high"
+  },
+  {
+    "id": 138,
+    "name": "Linear Combination & Span",
+    "slug": "linear-combination-and-span",
+    "birth_era": 6,
+    "birth_era_name": "Industrial",
+    "span": [
+      6,
+      7
+    ],
+    "depth_note": "All combinations of a set; span as subspace",
+    "confidence": "high"
+  },
+  {
+    "id": 139,
+    "name": "Linear Independence",
+    "slug": "linear-independence",
+    "birth_era": 6,
+    "birth_era_name": "Industrial",
+    "span": [
+      6,
+      7
+    ],
+    "depth_note": "No nontrivial combo to zero; basis theory",
+    "confidence": "high"
+  },
+  {
+    "id": 140,
+    "name": "Basis & Dimension",
+    "slug": "basis-and-dimension",
+    "birth_era": 6,
+    "birth_era_name": "Industrial",
+    "span": [
+      6,
+      7
+    ],
+    "depth_note": "Independent spanning set; dimension invariant",
+    "confidence": "high"
+  },
+  {
+    "id": 141,
+    "name": "Matrix",
+    "slug": "matrix",
+    "birth_era": 6,
+    "birth_era_name": "Industrial",
+    "span": [
+      6,
+      7
+    ],
+    "depth_note": "Rectangular arrays as objects; Cayley algebra",
+    "confidence": "high"
+  },
+  {
+    "id": 142,
+    "name": "Linear Transformation",
+    "slug": "linear-transformation",
+    "birth_era": 6,
+    "birth_era_name": "Industrial",
+    "span": [
+      6,
+      7
+    ],
+    "depth_note": "Maps that preserve linear structure",
+    "confidence": "high"
+  },
+  {
+    "id": 143,
+    "name": "Determinant",
+    "slug": "determinant",
+    "birth_era": 5,
+    "birth_era_name": "Enlightenment",
+    "span": [
+      5,
+      6,
+      7
+    ],
+    "depth_note": "Signed volume scale; Leibniz–Cramer to Cayley",
+    "confidence": "high"
+  },
+  {
+    "id": 144,
+    "name": "Eigenstructure",
+    "slug": "eigenstructure",
+    "birth_era": 7,
+    "birth_era_name": "Modern",
+    "span": [
+      7
+    ],
+    "depth_note": "Eigenvalues/vectors as structure; 19th-c roots",
+    "confidence": "medium"
+  }
+]
