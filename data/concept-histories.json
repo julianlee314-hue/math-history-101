@@ -2338,5 +2338,2113 @@
         "text": "Computer algebra’s normal forms automate collecting at scale. Polynomials in many variables still need humans to interpret the cleaned result. The PRINT-era housekeeping habit became a subroutine called millions of times per second. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
       }
     ]
+  },
+  {
+    "id": 73,
+    "slug": "expanding-brackets",
+    "name": "Expanding Brackets",
+    "artefacts": [
+      "expand-bellows"
+    ],
+    "epochs": [
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "italian-commercial-renaissance",
+          "atlantic-scientific-revolution"
+        ],
+        "text": "Expanding brackets distributes products across sums until parentheses can rest—turning (x+2)(x+3) into a plain polynomial. Printed algebra made expansion a daily drill with bellows-like stretching of expressions. Geometric area pictures justified the move for learners who still thought in rectangles. Expansion is distributivity wearing work clothes. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Computer algebra expands multivariate monsters humans will not touch by hand. Yet choosing when expansion helps—versus keeping factored insight—remains a human strategic call. Automation conserved the PRINT-era move and removed the wrist pain. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "slug": "factoring",
+    "name": "Factoring",
+    "artefacts": [
+      "factor-press"
+    ],
+    "epochs": [
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "italian-commercial-renaissance"
+        ],
+        "text": "Factoring reverses expansion: rewrite a sum as a product to reveal roots, symmetries, or simpler structure. Renaissance and early modern algebra hunted factorizations of polynomials as keys to equations. A factor press image fits—squeeze an expression until its building blocks show. Factoring is insight by undoing. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational",
+          "central-europe-19c-abstract"
+        ],
+        "text": "Algorithms for integer and polynomial factorization became computational research fields with cryptographic stakes. What was school cleverness is now hardness assumption and library routine. Machines factor; mathematicians still ask which factorization tells the story they need. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "slug": "equation-solving",
+    "name": "Equation Solving",
+    "artefacts": [
+      "solve-balance"
+    ],
+    "epochs": [
+      {
+        "n": 3,
+        "id": "algorithm",
+        "title": "ALGORITHM",
+        "worlds": [
+          "baghdad-islamic-persian",
+          "india",
+          "china"
+        ],
+        "text": "Equation solving seeks values that restore balance—al-Khwārizmī’s completion and balancing, Indian treatments of linear and quadratic cases, Chinese fangcheng systems. Solve-balance metaphors keep the civic image: adjust until both sides agree. Recipes mattered more than modern symbolic polish. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion."
+      },
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "italian-commercial-renaissance",
+          "atlantic-scientific-revolution"
+        ],
+        "text": "Printed algebra contests in Renaissance Italy and later symbolic methods expanded the solvable zoo—cubics, quartics, then numerical recipes for the rest. Notation made steps shareable across cities. Equation solving became the public face of algebra for centuries of students. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "slug": "powers",
+    "name": "Powers",
+    "artefacts": [
+      "power-tower"
+    ],
+    "epochs": [
+      {
+        "n": 3,
+        "id": "algorithm",
+        "title": "ALGORITHM",
+        "worlds": [
+          "india",
+          "baghdad-islamic-persian",
+          "china"
+        ],
+        "text": "Powers pack repeated multiplication—squares and cubes first for area and volume, then higher for pure calculation. Indian and Islamic mathematicians handled large powers with place-value ease; Chinese texts likewise. Power towers in teaching dramatize stacked exponents carefully. Exponent rules grew as bookkeeping for repeated factors. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion."
+      },
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "atlantic-scientific-revolution"
+        ],
+        "text": "Symbolic exponents and logarithms (which linearize powers) flooded printed science. Exponential notation compressed rhetoric about “squared” and “cubed.” Powers became the native tongue of growth, decay, and scientific law in type. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "slug": "mapping",
+    "name": "Mapping",
+    "artefacts": [
+      "map-arrows"
+    ],
+    "epochs": [
+      {
+        "n": 2,
+        "id": "write",
+        "title": "WRITE",
+        "worlds": [
+          "greek-hellenistic",
+          "china"
+        ],
+        "text": "Mapping sends each input to an output—cartographic maps, correspondences between sets of numbers, arrows from one collection to another. Greek and Chinese mapmaking literalized the idea; mathematics later abstracted it. Map-arrows make the assignment visible: from here, to there. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop."
+      },
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "central-europe-19c-abstract"
+        ],
+        "text": "Printed function tables and arrow diagrams trained the modern sense of mapping as rule. Set-theoretic language then made maps the basic morphisms of mathematics. Geography’s map and algebra’s map share the promise: know the rule, find the image. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "slug": "function",
+    "name": "Function",
+    "artefacts": [
+      "function-machine"
+    ],
+    "epochs": [
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "french-enlightenment-revolutionary"
+        ],
+        "text": "A function assigns to each allowable input a definite output—Euler’s and later Dirichlet’s clarifying language grew in print-era analysis. Function machines in classrooms turn the abstract rule into a hopper and chute. Astronomy’s tables were functions before the word settled. Dependence became speakable. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Programming made functions procedural citizens—callable, composable, testable. Spreadsheets are grids of tiny functions. The PRINT-era idea of a definite assignment now runs as code paths with types and side effects to manage. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "slug": "function-representation",
+    "name": "Function Representation",
+    "artefacts": [
+      "function-machine"
+    ],
+    "epochs": [
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "british-industrial-engineering"
+        ],
+        "text": "Functions wear many costumes: formulas, tables, graphs, verbal rules. Print culture and engineering practice taught switching among them. A function machine with a table and a graph nearby preaches multiple representations. Choosing the right costume often is the solution strategy. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Software plots, interpolates, and symbolically differentiates representations on demand. Linked views make the old classroom advice interactive. Representation-changing remains the skill; silicon only shortens the redraw. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "slug": "proportionality",
+    "name": "Proportionality",
+    "artefacts": [
+      "proportion-scales"
+    ],
+    "epochs": [
+      {
+        "n": 2,
+        "id": "write",
+        "title": "WRITE",
+        "worlds": [
+          "greek-hellenistic"
+        ],
+        "text": "Proportionality is the special dependence where ratios stay constant—y = kx in later symbols. Greek proportion theory and similar figures lived here. Direct and inverse proportionality organized physical lore long before graphs. Straight-line thinking begins as proportional thinking. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop."
+      },
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "british-industrial-engineering"
+        ],
+        "text": "Printed science made proportionality laws—Hooke, early gas laws, scale drawings—central school and lab content. Log-log paper later revealed power laws as straight lines. Proportionality became the first model you try before admitting curves. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "slug": "similarity-and-scale",
+    "name": "Similarity & Scale",
+    "artefacts": [
+      "scale-pantograph"
+    ],
+    "epochs": [
+      {
+        "n": 2,
+        "id": "write",
+        "title": "WRITE",
+        "worlds": [
+          "greek-hellenistic"
+        ],
+        "text": "Similar figures share shape, not necessarily size—equal angles, proportional sides. Euclid’s similarity theorems powered indirect measurement: heights from shadows, distances from sightings. Scale models inherit that warrant. Similarity is geometry’s license to learn big from small. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop."
+      },
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "british-industrial-engineering"
+        ],
+        "text": "Pantographs, optical pantographs, and scaled engineering drawings industrialised similarity. Ordnance maps and architectural blueprints stamped scale factors as contracts. Misread a scale bar, and similarity becomes expensive fiction. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "slug": "center-typical-value",
+    "name": "Center / Typical Value",
+    "artefacts": [
+      "bell-jar",
+      "magnitude-bar"
+    ],
+    "epochs": [
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "british-industrial-engineering",
+          "french-enlightenment-revolutionary"
+        ],
+        "text": "Typical values—means, medians, modes—summarize a crowd with one civic number. Early statistics and social arithmetic in print sought “the average man” and fair rates. Bell jars and magnitude bars gesture at middle tendency. Centers help decisions when listing every datum would drown the meeting. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Spreadsheet averages and dashboards made centers ubiquitous—and easy to misuse when distributions skew. Robust statistics warn when the mean lies. Computation multiplied center-taking; judgment about which center still matters. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "slug": "rearranging-formulae",
+    "name": "Rearranging Formulae",
+    "artefacts": [
+      "formula-card"
+    ],
+    "epochs": [
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "british-industrial-engineering"
+        ],
+        "text": "Rearranging formulae solves for a different letter—engineering’s daily algebra. Printed handbooks taught inverse steps that preserve equality. Formula cards invite flipping subject and object. The skill turns one memorized equation into a family of useful forms. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Symbolic solvers rearrange at button press, yet unit checks and domain caveats remain human. CAS inherited the PRINT-era dream of form that serves the unknown you actually need. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "slug": "inequality-solving",
+    "name": "Inequality Solving",
+    "artefacts": [
+      "inequality-beam"
+    ],
+    "epochs": [
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "central-europe-19c-abstract"
+        ],
+        "text": "Inequalities describe ranges—at least, at most, between—rather than single balances. Analysis and optimization in print made inequality solving essential. Inequality beams tip without needing exact level. Solution sets became intervals and regions, not only isolated roots. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      },
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "british-industrial-engineering",
+          "french-enlightenment-revolutionary"
+        ],
+        "text": "Tolerance specs and safety margins are industrial inequalities: strength ≥ load, error ≤ bound. Gauges go/no-go the world. Inequality talk left pure math and entered contracts written in steel. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "slug": "constraints-and-solution-sets",
+    "name": "Constraints & Solution Sets",
+    "artefacts": [
+      "constraint-fence"
+    ],
+    "epochs": [
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "central-europe-19c-abstract"
+        ],
+        "text": "Constraints fence the allowed; solution sets collect what still fits. Algebraic geometry and later linear programming live on this language. Constraint fences in teaching make “inside the rules” visible. Many problems are less about a single answer than about describing the whole allowed set. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Constraint solvers and optimizers search huge feasible regions. Databases enforce constraints as integrity rules. The PRINT-era idea of solution set became software that refuses illegal states. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "slug": "signed-quantity",
+    "name": "Signed Quantity",
+    "artefacts": [
+      "signed-thermometer"
+    ],
+    "epochs": [
+      {
+        "n": 3,
+        "id": "algorithm",
+        "title": "ALGORITHM",
+        "worlds": [
+          "india",
+          "baghdad-islamic-persian",
+          "china"
+        ],
+        "text": "Signed quantities extend number with direction—debt and credit, left and right, below zero. Indian and Chinese mathematicians used negatives with varying philosophical comfort; Islamic algebra sometimes spoke of them cautiously. Thermometers later made signed temperature visceral. Opposite direction became numeric. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion."
+      },
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "italian-commercial-renaissance"
+        ],
+        "text": "Printed bookkeeping and analytic geometry normalized signed numbers on lines and ledgers. Debates about “fictitious” numbers faded as coordinates and finances demanded them. The signed thermometer’s lesson went global: below zero is still a quantity, not nonsense. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "slug": "number-sets",
+    "name": "Number Sets",
+    "artefacts": [
+      "number-nest"
+    ],
+    "epochs": [
+      {
+        "n": 2,
+        "id": "write",
+        "title": "WRITE",
+        "worlds": [
+          "greek-hellenistic"
+        ],
+        "text": "Number sets sort kinds—counting numbers, magnitudes, later rationals and irrationals. Greek distinctions between number and magnitude foreshadowed nestings of sets. Number nests in teaching show boxes within boxes. Naming the set prevents illegal operations spoken as if they made sense. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop."
+      },
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "central-europe-19c-abstract"
+        ],
+        "text": "Nineteenth-century constructions of integers, rationals, reals, and complexes made number sets rigorous playgrounds. Print carried ℕ, ℤ, ℚ, ℝ, ℂ into curricula. Set language disciplined what “number” was allowed to mean in proofs. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "slug": "percent",
+    "name": "Percent",
+    "artefacts": [
+      "percent-wheel"
+    ],
+    "epochs": [
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "italian-commercial-renaissance",
+          "british-industrial-engineering"
+        ],
+        "text": "Percent—“per hundred”—is commercial ratio wearing a hundred-based costume. Italian merchant practice and later printed interest tables made % ubiquitous. Percent wheels convert between fractions, decimals, and hundredths. Tax, discount, and risk still speak percent as a public dialect. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Spreadsheets and dashboards compute percents instantly, sometimes hiding bad denominators. Relative change literacy remains the human filter. The PRINT-era commercial shortcut became the default KPI format of modern organizations. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "slug": "roots",
+    "name": "Roots",
+    "artefacts": [
+      "root-extractor"
+    ],
+    "epochs": [
+      {
+        "n": 3,
+        "id": "algorithm",
+        "title": "ALGORITHM",
+        "worlds": [
+          "india",
+          "china",
+          "baghdad-islamic-persian"
+        ],
+        "text": "Roots undo powers—side from area, edge from volume, solutions from equations. Indian, Chinese, and Islamic algorithms extracted square and cube roots with impressive procedural skill. Root extractors dramatize digging back to the base. Tables often stored roots beside squares for speed. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion."
+      },
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "atlantic-scientific-revolution"
+        ],
+        "text": "Radical symbols and printed algorithms standardized root talk in algebra and science. Complex numbers later explained roots that seemed impossible on the old line. Notation made “square root” a typeset citizen rather than a rhetorical phrase. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "slug": "graphing-relations-and-functions",
+    "name": "Graphing Relations & Functions",
+    "artefacts": [
+      "graph-paper",
+      "function-machine"
+    ],
+    "epochs": [
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "british-industrial-engineering"
+        ],
+        "text": "Graphing turns relations into visible curves and scatters on axes. Analytic geometry plus cheap paper made plotting a standard scientific gesture. Graph paper democratized the picture of dependence. To graph is to argue with a shape. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Interactive plotters redraw on parameter change, revealing families of functions by animation. The skill shifts from careful hand plots to critical reading of software defaults. Graphing remains interpretation first, pixels second. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "slug": "intercepts-zeros-and-intersections",
+    "name": "Intercepts, Zeros & Intersections",
+    "artefacts": [
+      "intercept-pins"
+    ],
+    "epochs": [
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "atlantic-scientific-revolution"
+        ],
+        "text": "Intercepts and zeros mark where graphs meet axes or each other—roots you can see. Printed analytic geometry treated intersections as solved systems. Intercept pins in teaching make those meetings tactile. Crossing points convert algebra’s solutions into geometric events. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Numerical root finders and CAD intersection algorithms hunt zeros at industrial scale. Reliability questions—missed roots, ill conditioning—keep classical analysis relevant inside the black box. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "slug": "domain-and-range",
+    "name": "Domain & Range",
+    "artefacts": [
+      "domain-gate"
+    ],
+    "epochs": [
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "central-europe-19c-abstract"
+        ],
+        "text": "Domain and range name legal inputs and resulting outputs—gates on a function machine. Analysis in print learned to state domains to avoid nonsense like division by zero in silence. Domain gates teach the fence before the rule. Precision about where a function lives prevents phantom values. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Types and contracts in software are domain/range discipline for machines. Exceptions are range surprises. The PRINT-era habit of stating domains became runtime enforcement. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "slug": "linearity",
+    "name": "Linearity",
+    "artefacts": [
+      "linear-ramp"
+    ],
+    "epochs": [
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "british-industrial-engineering"
+        ],
+        "text": "Linearity means superposition and straight-graph behavior—nice proportions under addition and scaling. Printed mechanics and circuit theory prized linear models for solvability. Linear ramps show constant rise. Linearity is the first paradise engineers leave only when forced. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational",
+          "central-europe-19c-abstract"
+        ],
+        "text": "Linear algebra industrialized linearity in high dimensions—matrices, solvers, least squares. Computation leans on linear approximations even inside nonlinear worlds. The straight ideal became the computational workhorse. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "slug": "slope-gradient",
+    "name": "Slope / Gradient",
+    "artefacts": [
+      "slope-glass"
+    ],
+    "epochs": [
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "atlantic-scientific-revolution"
+        ],
+        "text": "Slope measures steepness—rise over run on a graph, grade on a road. Analytic geometry and calculus made slope the everyday face of derivative before the word settles. Slope glass tools visualize tilt. Railways and roofs made slope a safety number, not only a school ratio. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      },
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "british-industrial-engineering",
+          "atlantic-scientific-revolution"
+        ],
+        "text": "Clinometers, gradients marked on maps, and differential calculus applications hardened slope into engineering practice. Gradient as multivariable slope later steered optimization. Tilt left the textbook and entered theodolites. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "slug": "rate-of-change",
+    "name": "Rate of Change",
+    "artefacts": [
+      "rate-hourglass"
+    ],
+    "epochs": [
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "british-industrial-engineering"
+        ],
+        "text": "Rate of change is how fast a quantity moves—Newton and Leibniz’s central idea wearing physical clothes. Fluxions, differentials, and dials that show speed made change itself measurable. Hourglasses and tachometers share the obsession: not only how much, but how quickly. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Numerical differentiation and real-time sensors estimate rates from sampled streams. Finance and control systems live on rate signals. Computation kept the MECHANIZE-era question and answered it with noisy data and filters. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "slug": "growth-and-decay",
+    "name": "Growth & Decay",
+    "artefacts": [
+      "growth-vial"
+    ],
+    "epochs": [
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "french-enlightenment-revolutionary"
+        ],
+        "text": "Growth and decay laws—compound interest, populations, cooling, radioactive ideals—linked rates to present size. Exponential curves left banks and entered natural philosophy. Growth vials dramatize quantities that feed on themselves. Malthusian and financial tables made the pattern civic. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Simulators sweep growth parameters through fragile futures—epidemics, climates, markets. Discrete and continuous models compete for realism. The MECHANIZE-era exponential remains the first sketch; computation stress-tests its confidence. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "slug": "parameters-and-families",
+    "name": "Parameters & Families",
+    "artefacts": [
+      "param-dials"
+    ],
+    "epochs": [
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "french-enlightenment-revolutionary"
+        ],
+        "text": "Parameters dial a family’s members—same form, different slant or stretch. Analytic geometry’s families of curves and engineering catalogs of related designs made the idea concrete. Param dials in teaching let learners feel a coefficient change the world. A formula with knobs is a toolkit, not a single tool. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Parameter sweeps and interactive notebooks explore families at scale. Model calibration is parameter hunting against data. Computation turned the MECHANIZE-era dial into nested loops over possibility space. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "slug": "interpolation-and-extrapolation",
+    "name": "Interpolation & Extrapolation",
+    "artefacts": [
+      "interp-bridge"
+    ],
+    "epochs": [
+      {
+        "n": 3,
+        "id": "algorithm",
+        "title": "ALGORITHM",
+        "worlds": [
+          "baghdad-islamic-persian",
+          "china",
+          "india"
+        ],
+        "text": "Interpolation fills values between known table entries; extrapolation risks beyond them. Astronomers in Islamic, Chinese, and Indian traditions interpolated ephemerides with care. Interp-bridges picture the span between pillars of data. Tables without interpolation are rigid; with it they breathe. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion."
+      },
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "british-industrial-engineering"
+        ],
+        "text": "Finite differences, spline thinking, and engineering fairing made interpolation a craft with error estimates. Extrapolation warnings entered scientific manners: beyond the data, confidence thins. Instruments sampled; mathematics guessed between ticks. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "slug": "circular-angular-measure",
+    "name": "Circular Angular Measure",
+    "artefacts": [
+      "sector-wedge"
+    ],
+    "epochs": [
+      {
+        "n": 2,
+        "id": "write",
+        "title": "WRITE",
+        "worlds": [
+          "greek-hellenistic",
+          "baghdad-islamic-persian"
+        ],
+        "text": "Circular measure counts turn—degrees from Babylonian-Greek astronomy, radians later for analysis. Ptolemy’s chords and Islamic sine tables quantified arcs. Sector wedges and protractors bring the circle’s measure to the desk. Sharing an angle measure lets distant observers aim at the same star story. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop."
+      },
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "atlantic-scientific-revolution"
+        ],
+        "text": "Divided circles on instruments, theodolites, and unit-circle pedagogy hardened angular measure for navigation and calculus. Radians linked arc length to radius so derivatives of trig functions stay clean. Brass circles enforced what papyrus once only stated. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "slug": "sets",
+    "name": "Sets",
+    "artefacts": [
+      "venn-rings"
+    ],
+    "epochs": [
+      {
+        "n": 2,
+        "id": "write",
+        "title": "WRITE",
+        "worlds": [
+          "greek-hellenistic"
+        ],
+        "text": "Sets gather objects with a membership rule—collections spoken before they were axiomatized. Greek classifications and later combinatorial talk needed the notion. Venn rings make overlap visible. Set language eventually became mathematics’ common nouns. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop."
+      },
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "central-europe-19c-abstract"
+        ],
+        "text": "Cantor’s set theory and subsequent axiomatic repairs made sets the foundation story of modern math—debated, powerful, sometimes paradoxical. Print carried ∈ and ⊂ into every textbook. Sets stopped being informal heaps and became regulated structure. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "slug": "relations",
+    "name": "Relations",
+    "artefacts": [
+      "map-arrows"
+    ],
+    "epochs": [
+      {
+        "n": 2,
+        "id": "write",
+        "title": "WRITE",
+        "worlds": [
+          "greek-hellenistic"
+        ],
+        "text": "Relations link pairs—order, congruence, “divides,” kinship of numbers. Greek mathematics used relational talk constantly even without modern notation. Map-arrows between sets picture relations that need not be functions. To relate is to constrain pairs, not only to list singles. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop."
+      },
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "central-europe-19c-abstract"
+        ],
+        "text": "Relational algebra and order theory named properties—reflexive, symmetric, transitive—on the printed page. Databases later operationalized relations as tables of tuples. The WRITE-era link became industrial query infrastructure. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "slug": "counting-outcomes",
+    "name": "Counting Outcomes",
+    "artefacts": [
+      "outcome-tree",
+      "dice-cup"
+    ],
+    "epochs": [
+      {
+        "n": 3,
+        "id": "algorithm",
+        "title": "ALGORITHM",
+        "worlds": [
+          "india",
+          "baghdad-islamic-persian",
+          "china"
+        ],
+        "text": "Counting outcomes enumerates possibilities—dice casts, lineup permutations, combinatorial choices. Indian combinatorics and later Islamic and European chance problems built systematic counting. Outcome trees branch the futures. Before probability numbers, honest listing already disciplined talk of chance. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion."
+      },
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "italian-commercial-renaissance"
+        ],
+        "text": "Printed problems on cards, dice, and lots spread combinatorial counting into genteel and commercial cultures. Factorials and combinations gained notation. Counting outcomes became the counting house of uncertainty. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "slug": "probability",
+    "name": "Probability",
+    "artefacts": [
+      "chance-bowl",
+      "dice-cup"
+    ],
+    "epochs": [
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "french-enlightenment-revolutionary"
+        ],
+        "text": "Probability measures chance—Pascal–Fermat letters, Huygens, Jacob Bernoulli’s Art of Conjecturing. Print-era correspondence and treatises made odds a mathematical object. Chance bowls and dice cups keep the origin story tactile. Insurance and games both paid for the theory. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Monte Carlo methods and probabilistic programming estimate what closed formulas cannot. Probability left salons and entered weather models and spam filters. Computation made sampling the pragmatic face of probability’s PRINT-era ideals. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "slug": "simulation-and-randomness",
+    "name": "Simulation & Randomness",
+    "artefacts": [
+      "simulation-spinner"
+    ],
+    "epochs": [
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "british-industrial-engineering"
+        ],
+        "text": "Simulation imitates chance or dynamics with models—dice for probability teaching, later analog devices for processes. Randomness itself needed definitions beyond “unpredictable vibe.” Spinners and urns made controlled chance. Mechanized randomness served both play and serious sampling. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Pseudorandom generators and simulation science power cryptography, games, and science when analytic solutions stall. Quality of randomness became an engineering spec. Silicon urns never empty, but they can be poorly seeded. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "slug": "spread-variation",
+    "name": "Spread / Variation",
+    "artefacts": [
+      "spread-whiskers"
+    ],
+    "epochs": [
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "british-industrial-engineering",
+          "french-enlightenment-revolutionary"
+        ],
+        "text": "Spread describes how widely data scatter—range, deviation, variance. Nineteenth-century statistics and error theory in print insisted center without spread misleads. Whisker plots teach the story of scatter. Variation is often the signal (diversity) or the enemy (noise), depending on the civic goal. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Statistical software computes dispersions instantly; six-sigma culture industrialised variance talk. Visualizations of spread guard against averages that hide inequality. Computation made spread metrics cheap; interpreting them still costs attention. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "slug": "distribution",
+    "name": "Distribution",
+    "artefacts": [
+      "bell-jar"
+    ],
+    "epochs": [
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "british-industrial-engineering",
+          "french-enlightenment-revolutionary"
+        ],
+        "text": "A distribution describes how probability or frequency sits across values—the bell curve’s fame and its misuses. Quetelet, Gauss, and print-era statistics popularised distributional pictures. Bell jars gesture at concentrated middles. Distributions replace single numbers with shaped likelihoods. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Fitting and simulating distributions drives modern data science. Kernel densities and histograms are computational clay. The PRINT-era shape of chance became a family of models you select with diagnostics. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "slug": "correlation-and-association",
+    "name": "Correlation & Association",
+    "artefacts": [
+      "scatter-board"
+    ],
+    "epochs": [
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "british-industrial-engineering",
+          "american-global-computational"
+        ],
+        "text": "Correlation measures how variables move together without proving cause—Galton and Pearson’s tools in print. Scatter boards make association visible as cloud tilt. Social and biometric data made correlation famous and infamous. Association is a clue, not a verdict. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Massive correlational screens find patterns and mirages at scale. Causal inference methods try to go beyond association. Computation multiplied correlation’s reach and the duty to not overclaim. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "slug": "recurrence",
+    "name": "Recurrence",
+    "artefacts": [
+      "recur-spiral"
+    ],
+    "epochs": [
+      {
+        "n": 2,
+        "id": "write",
+        "title": "WRITE",
+        "worlds": [
+          "greek-hellenistic",
+          "india"
+        ],
+        "text": "Recurrence defines each term from earlier ones—Fibonacci’s rabbits as a medieval Latin popularization of older sequential habits, Greek iterative constructions, Indian sequential verse mathematics. Recur spirals picture self-reference in growth. Rules that look backward can still march forward forever. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Recursive algorithms and recurrence relations are programming’s native speech. Dynamic programming solves recurrences efficiently. The WRITE-era “from previous” idea became stack frames and memo tables. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "slug": "series-summation",
+    "name": "Series & Summation",
+    "artefacts": [
+      "series-ladder",
+      "series-chain"
+    ],
+    "epochs": [
+      {
+        "n": 2,
+        "id": "write",
+        "title": "WRITE",
+        "worlds": [
+          "greek-hellenistic",
+          "india"
+        ],
+        "text": "Series sum many terms—Archimedes’ geometric sums, Indian explorations of infinite series later flowering in Kerala. Partial sums are accumulation with a pattern. Series ladders climb toward totals that may stabilize. Summation notation eventually packaged the long addition. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop."
+      },
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "central-europe-19c-abstract"
+        ],
+        "text": "Calculus and Fourier series made infinite summation a scientific engine—with rigor crises and repairs. Convergence tests disciplined which series deserve sums. Analysis mechanized the infinite add in symbols before computers finished the arithmetic. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "slug": "composition",
+    "name": "Composition",
+    "artefacts": [
+      "compose-gears"
+    ],
+    "epochs": [
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "central-europe-19c-abstract"
+        ],
+        "text": "Composition chains functions—output of one becomes input of the next. Analytic practice and later abstract algebra prized composable maps. Compose-gears turn the idea mechanical: meshed transformations. Complex processes become pipelines of simpler maps. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Unix pipes, functional programming, and neural net layers are composition culture in code. Debugging a chain means knowing each stage’s contract. The PRINT-era ∘ became infrastructure. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "slug": "inverse-functions",
+    "name": "Inverse Functions",
+    "artefacts": [
+      "inverse-map"
+    ],
+    "epochs": [
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "atlantic-scientific-revolution"
+        ],
+        "text": "Inverse functions undo each other when they exist—logs and exponentials, roots and powers. Printed analysis clarified when inverses are lawful. Inverse maps picture returning home along the arrow. Solving many equations is hunting an inverse in disguise. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Numerical inverse problems and cryptographic one-way functions dramatize how hard undoing can be. Software arcsin and decrypt routines inherit the PRINT-era dream—with caveats about domains and uniqueness. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "slug": "function-transformation",
+    "name": "Function Transformation",
+    "artefacts": [
+      "function-machine"
+    ],
+    "epochs": [
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "british-industrial-engineering"
+        ],
+        "text": "Transformations shift, stretch, and reflect graphs—families generated by tweaking a parent function. Printed precalculus made these moves a curriculum block. Function machines with dials show the morph. Recognizing transformed templates speeds modelling. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Interactive graphers make transformations immediate; signal processing applies heavier transform families (Fourier, wavelets). The classroom slide-and-stretch instinct scales into industrial transform toolkits. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "slug": "asymptotic-behaviour",
+    "name": "Asymptotic Behaviour",
+    "artefacts": [
+      "asymptote-rail"
+    ],
+    "epochs": [
+      {
+        "n": 2,
+        "id": "write",
+        "title": "WRITE",
+        "worlds": [
+          "greek-hellenistic"
+        ],
+        "text": "Asymptotes describe curves that approach lines without binding—Apollonius named them in conic studies. Greek writing already tracked “gets arbitrarily close.” Asymptote rails picture the forever approach. Infinity entered geometry as a manner of approaching, not only a mystical size. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop."
+      },
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "central-europe-19c-abstract",
+          "atlantic-scientific-revolution"
+        ],
+        "text": "Asymptotic analysis in modern mathematics describes dominant behavior for large inputs—big-O culture’s ancestor. Engineers estimate limiting regimes of machines and series. The Greek approach-line matured into a calculus of approximation quality. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "slug": "systems-simultaneity",
+    "name": "Systems / Simultaneity",
+    "artefacts": [
+      "twin-scale"
+    ],
+    "epochs": [
+      {
+        "n": 3,
+        "id": "algorithm",
+        "title": "ALGORITHM",
+        "worlds": [
+          "china",
+          "baghdad-islamic-persian",
+          "india"
+        ],
+        "text": "Systems demand several conditions at once—Chinese fangcheng elimination, later Islamic and European simultaneous equations. Twin scales picture multiple balances that must agree together. Simultaneity turns one unknown’s playground into a negotiated settlement among many. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational",
+          "central-europe-19c-abstract"
+        ],
+        "text": "Matrix solvers and constraint systems industrialised simultaneous conditions. Circuit simulation and economic models are systems at scale. Algorithmic elimination found its ultimate speed in silicon linear algebra. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "slug": "necessary-and-sufficient-conditions",
+    "name": "Necessary & Sufficient Conditions",
+    "artefacts": [
+      "necessary-seal"
+    ],
+    "epochs": [
+      {
+        "n": 2,
+        "id": "write",
+        "title": "WRITE",
+        "worlds": [
+          "greek-hellenistic"
+        ],
+        "text": "Necessary conditions must hold; sufficient conditions guarantee. Greek proof endlessly separates “needed for” from “enough for.” Necessary seals stamp hypotheses that cannot be dropped. Logical hygiene begins by labeling which way the implication runs. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop."
+      },
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "central-europe-19c-abstract"
+        ],
+        "text": "Printed logic and analysis made “necessary and sufficient” a badge of exact characterization—definitions that bite both ways. Textbooks still drill the distinction because everyday English muddles it. Precision about conditions is PRINT-era citizenship in mathematics. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "slug": "induction-recursion",
+    "name": "Induction & Recursion",
+    "artefacts": [
+      "recur-spiral"
+    ],
+    "epochs": [
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "central-europe-19c-abstract"
+        ],
+        "text": "Mathematical induction proves infinite families by a base step and a hereditary step—formalized clearly in early modern Europe though foreshadowed earlier. Recursion defines by self-reference. Recur spirals suit both. Print made induction a standard template of number theory and algebra. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Recursive procedures and inductive proofs about programs grew together in computer science. Proof assistants check inductive arguments mechanically. The PRINT-era template became the verification style of software math. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "slug": "conditional-probability",
+    "name": "Conditional Probability",
+    "artefacts": [
+      "conditional-gate"
+    ],
+    "epochs": [
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "french-enlightenment-revolutionary"
+        ],
+        "text": "Conditional probability updates chance given new evidence—Bayes’s essay, Laplace’s applications. Conditional gates picture information changing the odds. Insurance and astronomy both needed “given that we saw this…” reasoning. Evidence became a mathematical operator on belief. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Bayesian computation and medical diagnostics run conditionals at scale. Base-rate neglect remains the human failure mode. Machines calculate; humans must still frame the conditioning event honestly. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "slug": "independence",
+    "name": "Independence",
+    "artefacts": [
+      "independence-urns"
+    ],
+    "epochs": [
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "french-enlightenment-revolutionary"
+        ],
+        "text": "Independence means one event does not inform another—product rules for probabilities. Classical probability texts clarified independence with coins and urns. Independence urns make the separation physical. Assuming independence simplifies; falsely assuming it misleads catastrophically. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Statistical tests and graphical models probe dependence structures in data. Machine learning often begins with naive independence assumptions it later softens. Computation made dependence visible as correlation heatmaps and conditional graphs. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "slug": "expected-value",
+    "name": "Expected Value",
+    "artefacts": [
+      "expectation-purse"
+    ],
+    "epochs": [
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "french-enlightenment-revolutionary"
+        ],
+        "text": "Expected value is the long-run average payoff—Huygens and later probabilists formalizing fair games. Expectation purses weigh outcomes by chance. Insurance premiums are institutionalized expected values plus margins. Chance gained a center of mass. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Monte Carlo estimates of expectations drive modern simulation. Decision theory leans on expected utility with open philosophical quarrels. Computation made expectation a numerical routine wherever closed sums fail. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "slug": "sampling",
+    "name": "Sampling",
+    "artefacts": [
+      "sample-frame"
+    ],
+    "epochs": [
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational",
+          "british-industrial-engineering"
+        ],
+        "text": "Sampling infers from parts—survey samples, quality control pulls, randomized experiments. Twentieth-century sampling theory matured with census bureaus and industrial inspection. Sample frames define who can be chosen. Without sampling discipline, big data is only big anecdote. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      },
+      {
+        "n": 7,
+        "id": "intelligence",
+        "title": "INTELLIGENCE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Active learning and adaptive sampling let algorithms choose the next observation. Yet bias in frames remains a human-ethical problem silicon cannot dissolve alone. Intelligence assists selection; justice still audits who was never eligible to be sampled. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter."
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "slug": "optimization",
+    "name": "Optimization",
+    "artefacts": [
+      "peak-dial"
+    ],
+    "epochs": [
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "french-enlightenment-revolutionary"
+        ],
+        "text": "Optimization seeks best values—maxima and minima via calculus, isoperimetric lore older still. Peak dials dramatize cresting a hill of possibility. Bernoulli brothers and Euler made variational problems fashionable. Engineering always wanted strongest, lightest, cheapest within rules. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Linear and nonlinear programming, gradient methods, and ML training are industrialization of optimization. Constraint fences meet peak-hunting at planetary scale. Computation made “best under constraints” a daily API call—with local minima still lying in wait. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "slug": "infinite-process-and-convergence",
+    "name": "Infinite Process & Convergence",
+    "artefacts": [
+      "limit-funnel"
+    ],
+    "epochs": [
+      {
+        "n": 2,
+        "id": "write",
+        "title": "WRITE",
+        "worlds": [
+          "greek-hellenistic"
+        ],
+        "text": "Infinite processes haunted Greek thought—Zeno’s paradoxes, exhaustion methods that approach without claiming a final infinite sum lightly. Limit funnels picture narrowing. Writing forced clarity about what “going on forever” could responsibly mean in proof. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop."
+      },
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "central-europe-19c-abstract",
+          "atlantic-scientific-revolution"
+        ],
+        "text": "Cauchy, Weierstrass, and peers rigorized convergence so infinite processes became trustworthy tools. Analysis textbooks still drill ε-arguments born in that repair shop. Infinite methods gained passports only after convergence tests stamped them. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "slug": "projection",
+    "name": "Projection",
+    "artefacts": [
+      "shadow-projection"
+    ],
+    "epochs": [
+      {
+        "n": 2,
+        "id": "write",
+        "title": "WRITE",
+        "worlds": [
+          "greek-hellenistic"
+        ],
+        "text": "Projection casts shadows and maps higher forms onto lower screens—Greek optics and perspective thinking, Ptolemaic charting. Shadow-projection toys make the verb visible. To project is to accept controlled loss of dimension for the sake of seeing. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational",
+          "central-europe-19c-abstract"
+        ],
+        "text": "Linear projections, PCA, and computer graphics cameras are projection culture in matrices. Cartographers still argue which projection lies least for which purpose. Computation projects billions of points so humans can glimpse structure in flatland. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "slug": "trigonometric-ratio",
+    "name": "Trigonometric Ratio",
+    "artefacts": [
+      "sine-plate",
+      "astrolabe"
+    ],
+    "epochs": [
+      {
+        "n": 2,
+        "id": "write",
+        "title": "WRITE",
+        "worlds": [
+          "greek-hellenistic",
+          "baghdad-islamic-persian",
+          "india"
+        ],
+        "text": "Trigonometric ratios—sine, cosine, and their ancestors in chords—grew from Hellenistic astronomy through Indian sine tables and Islamic refinement. Astrolabes and sine plates embody angle-to-ratio conversion. Sky measurement demanded better ratios than raw geometry sketches. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop."
+      },
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "atlantic-scientific-revolution"
+        ],
+        "text": "Printed trig tables and notation standardized the ratios for navigation and surveying worldwide. School trigonometry made SOH-CAH-TOA a mass mnemonic. The WRITE-era sky tool became a PRINT-era classroom universal. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "slug": "geometric-locus",
+    "name": "Geometric Locus",
+    "artefacts": [
+      "locus-string"
+    ],
+    "epochs": [
+      {
+        "n": 2,
+        "id": "write",
+        "title": "WRITE",
+        "worlds": [
+          "greek-hellenistic"
+        ],
+        "text": "A locus is the set of points satisfying a condition—paths of compasses, ellipses from gardener’s string. Greek geometry thrived on locus descriptions. Locus strings make constraints draw themselves. Definitions that paint a path are geometry’s generative grammar. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop."
+      },
+      {
+        "n": 4,
+        "id": "print",
+        "title": "PRINT",
+        "worlds": [
+          "atlantic-scientific-revolution"
+        ],
+        "text": "Analytic geometry translated loci into equations; printed diagrams taught recognition. Engineering cams and linkages are physical loci. The string-and-condition idea survived as algebraic curves in type. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "slug": "proof",
+    "name": "Proof",
+    "artefacts": [
+      "proof-seal",
+      "elements-scroll",
+      "proof-assistant"
+    ],
+    "epochs": [
+      {
+        "n": 2,
+        "id": "write",
+        "title": "WRITE",
+        "worlds": [
+          "greek-hellenistic"
+        ],
+        "text": "Proof is demonstrative certainty from agreed starts—Euclid’s template for two millennia. Elements scrolls and proof seals symbolize public necessity. Greek proof culture taught that a diagram plus reasons can compel assent across cities. Mathematics became more than clever tricks. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop."
+      },
+      {
+        "n": 7,
+        "id": "intelligence",
+        "title": "INTELLIGENCE",
+        "worlds": [
+          "american-global-computational",
+          "central-europe-19c-abstract"
+        ],
+        "text": "Formal proof systems and assistants (Lean, Coq, Isabelle) check arguments at scales humans mistype. Hilbert’s dream meets silicon scrutiny. Proof remains a social and logical act; intelligence tools are new scribes that refuse to skip lines. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter."
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "slug": "statistical-inference",
+    "name": "Statistical Inference",
+    "artefacts": [
+      "inference-urn"
+    ],
+    "epochs": [
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational",
+          "british-industrial-engineering"
+        ],
+        "text": "Inference goes from sample data to claims about a wider world—Fisher, Neyman–Pearson, Bayesian debates in the twentieth century. Inference urns picture drawing conclusions from pulls. Industrial quality control and clinical trials institutionalized inference. Data alone does not speak; inferential rules give it a grammar. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      },
+      {
+        "n": 7,
+        "id": "intelligence",
+        "title": "INTELLIGENCE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Automated inference pipelines and ML models amplify both insight and overclaim risk. Epistemic humility tools—intervals, posterior checks—matter more as speed rises. Intelligence assists inference; accountability for claims stays human. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter."
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "slug": "limit",
+    "name": "Limit",
+    "artefacts": [
+      "limit-funnel"
+    ],
+    "epochs": [
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "central-europe-19c-abstract",
+          "atlantic-scientific-revolution"
+        ],
+        "text": "Limits capture approaching a value as a process runs—Cauchy’s and Weierstrass’s ε–δ discipline after Newton–Leibniz success outran foundations. Limit funnels teach narrowing leftover error. Rigor turned a useful intuition into a certified passport for analysis. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Numerical limits and convergence monitors in solvers ask practically whether iteration has settled. Floating-point caveats remind us that computed limits are disciplined approximations. The MECHANIZE-era ideal meets machine arithmetic’s finiteness. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "slug": "continuity",
+    "name": "Continuity",
+    "artefacts": [
+      "continuity-ribbon"
+    ],
+    "epochs": [
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "central-europe-19c-abstract",
+          "atlantic-scientific-revolution"
+        ],
+        "text": "Continuity means no jumps—intermediate values attained, small input changes yielding small output changes in the ε–δ sense. Continuity ribbons picture unbroken motion. Nineteenth-century analysis separated continuity from differentiability with famous monsters. Smooth-looking chalk curves needed new definitions. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Topology and computational geometry track continuity in spaces far from the number line. Discrete data only approximates continuous ideals. Machines sample; continuity remains the mathematical hope about what happens between samples. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "slug": "derivative",
+    "name": "Derivative",
+    "artefacts": [
+      "tangent-glass",
+      "slope-glass"
+    ],
+    "epochs": [
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "british-industrial-engineering"
+        ],
+        "text": "The derivative is instantaneous rate—Newton’s fluxions, Leibniz’s differentials, later rigorized. Tangent glass and slope tools make the local steepness visible. Planetary motion and engineered machines alike demanded rates at an instant, not only averages. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Automatic differentiation powers modern ML by computing derivatives of huge programs. Numerical derivatives serve when symbols fail. The MECHANIZE-era tangent became the training signal of intelligence systems. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "slug": "local-linearization",
+    "name": "Local Linearization",
+    "artefacts": [
+      "local-wedge"
+    ],
+    "epochs": [
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "central-europe-19c-abstract"
+        ],
+        "text": "Local linearization replaces a curve by its tangent line nearby—the differential’s practical gift. Local wedges show the straight stand-in. Engineers design with linear approximations knowing the neighborhood of validity. Calculus becomes usable when locality licenses simplicity. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Newton methods and Jacobian linearizations drive nonlinear solvers. ML’s first-order methods live on local linear views of loss landscapes. Computation iterates the MECHANIZE-era micro-straightening until a target is hit. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "slug": "integral",
+    "name": "Integral",
+    "artefacts": [
+      "integral-basin"
+    ],
+    "epochs": [
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "british-industrial-engineering"
+        ],
+        "text": "Integrals accumulate change—areas, totals, work—from Cavalieri and earlier exhaustion through Newton–Leibniz to Riemann and beyond. Integral basins picture filling from a rate. Planimeters measured area by tracing; analysis explained why. Accumulation gained an inverse to differentiation. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Numerical quadrature and Monte Carlo integration estimate integrals in high dimensions. Physics engines accumulate continuously in discrete time. The MECHANIZE-era basin became a library call with error tolerances. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "slug": "fundamental-theorem-connection",
+    "name": "Fundamental Theorem Connection",
+    "artefacts": [
+      "ftc-bridge"
+    ],
+    "epochs": [
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "atlantic-scientific-revolution"
+        ],
+        "text": "The Fundamental Theorem of Calculus links derivatives and integrals as inverse processes—Newton and Leibniz’s great hinge, clarified by later rigor. FTC bridges make the two-way traffic visible. Area accumulation and instantaneous rate finally shook hands in one theorem. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Symbolic and numeric systems lean on FTC to switch between antiderivatives and definite integrals. Understanding the bridge still saves users from treating black-box integrators as magic. The hinge remains pedagogy’s and software’s shared treasure. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "slug": "differential-equation",
+    "name": "Differential Equation",
+    "artefacts": [
+      "differential-scroll"
+    ],
+    "epochs": [
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "french-enlightenment-revolutionary"
+        ],
+        "text": "Differential equations relate unknowns to their rates—Euler, Bernoulli lineage, planetary and vibrating problems. Differential scrolls suggest evolving law on a page. Once rates could be written, nature’s dynamics became equation families. Solving them became a central mathematical profession. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Numerical ODE/PDE solvers underwrite weather, circuits, and animation. Stiffness and stability theories discipline step sizes. Computation made differential equations simulable when closed forms refuse to appear. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "slug": "series-approximation",
+    "name": "Series Approximation",
+    "artefacts": [
+      "series-ladder"
+    ],
+    "epochs": [
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "atlantic-scientific-revolution",
+          "central-europe-19c-abstract"
+        ],
+        "text": "Taylor and Maclaurin series approximate functions by polynomials locally—power tools of analysis. Series ladders climb accuracy term by term. Navigation and physics used truncated series before electronic calculation. Local polynomial stand-ins made hard functions tractable. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Chebyshev economization, Padé forms, and spectral methods refine series ideas for machines. Floating-point libraries still embed series for elementary functions. Approximation theory keeps the MECHANIZE-era ladder well engineered. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "slug": "vector",
+    "name": "Vector",
+    "artefacts": [
+      "vector-arrow"
+    ],
+    "epochs": [
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "british-industrial-engineering",
+          "atlantic-scientific-revolution"
+        ],
+        "text": "Vectors package magnitude with direction—Gibbs–Heaviside vector calculus popularizing Grassmann and Hamilton’s insights for physics. Vector arrows make the package drawable. Forces and velocities demanded more than unsigned lengths. Directed quantities became first-class citizens. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Graphics, robotics, and data embeddings treat vectors as everyday arrays. GPU hardware multiplies them en masse. The MECHANIZE-era arrow became the noun of computational geometry and learning. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "slug": "scalar-and-vector-combination",
+    "name": "Scalar & Vector Combination",
+    "artefacts": [
+      "vector-parallelogram"
+    ],
+    "epochs": [
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "british-industrial-engineering",
+          "atlantic-scientific-revolution"
+        ],
+        "text": "Scaling and adding arrows—parallelogram of forces—lets vectors combine linearly. Physics teaching made the parallelogram law standard. Vector parallelograms show resultants. Scalar multiples stretch; sums merge directions into a net effect. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "BLAS routines industrialise scalar-vector and vector-vector combinations at peak flop rates. Every neural net layer is organized scalar-and-vector arithmetic. The parallelogram’s heirs run in silicon cache lines. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "slug": "linear-combination-and-span",
+    "name": "Linear Combination & Span",
+    "artefacts": [
+      "basis-frame",
+      "vector-parallelogram"
+    ],
+    "epochs": [
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "central-europe-19c-abstract",
+          "american-global-computational"
+        ],
+        "text": "Linear combinations mix vectors with scalar weights; their span is the reachable subspace. Nineteenth-century linear algebra named the idea; computation uses it constantly. Basis frames show generators whose mixes fill a space. Span answers “what can these building arrows reach?” Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      },
+      {
+        "n": 7,
+        "id": "intelligence",
+        "title": "INTELLIGENCE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Representation learning asks which spanning sets make tasks easy. Feature spans and dictionary learning are span talk in AI clothing. Intelligence searches useful combinations; linear algebra states what combinations can mean. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter."
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "slug": "linear-independence",
+    "name": "Linear Independence",
+    "artefacts": [
+      "basis-frame"
+    ],
+    "epochs": [
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "central-europe-19c-abstract",
+          "american-global-computational"
+        ],
+        "text": "Linear independence means no nontrivial combination cancels to zero—no redundant arrows in the set. Basis theory requires it. Nineteenth-century algebra clarified independence; numerical rank reveals it in practice. Independence is efficiency of description: each vector adds a new direction. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      },
+      {
+        "n": 7,
+        "id": "intelligence",
+        "title": "INTELLIGENCE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Feature selection and identifiability problems are independence questions in disguise. Collinearity haunts regression. Intelligence systems still stumble when they treat dependent signals as separate truths. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter."
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "slug": "basis-and-dimension",
+    "name": "Basis & Dimension",
+    "artefacts": [
+      "basis-frame"
+    ],
+    "epochs": [
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "central-europe-19c-abstract",
+          "american-global-computational"
+        ],
+        "text": "A basis is an independent spanning set; dimension counts its size—an invariant of the space. Grassmann and later textbook linear algebra made dimension a precise noun. Basis frames teach change of coordinates. Dimension says how many independent dials the space truly has. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      },
+      {
+        "n": 7,
+        "id": "intelligence",
+        "title": "INTELLIGENCE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Intrinsic dimension estimation asks how many degrees of freedom data really use. Dimensionality reduction hunts smaller bases that keep meaning. Intelligence compresses; basis theory explains what “smaller without loss” can claim. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter."
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "slug": "matrix",
+    "name": "Matrix",
+    "artefacts": [
+      "matrix-press"
+    ],
+    "epochs": [
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "central-europe-19c-abstract",
+          "british-industrial-engineering"
+        ],
+        "text": "Matrices array numbers so linear moves become algebraic objects—Cayley’s matrix algebra after earlier elimination arrays (including Chinese fangcheng layouts). Matrix presses dramatize stamping whole grids of coefficients. Simultaneous systems found a noun. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Dense and sparse matrix libraries are the heavy industry of computation. Graphics, simulations, and ML are matrix pipelines. The MECHANIZE-era array became the dominant data structure of quantitative silicon. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "slug": "linear-transformation",
+    "name": "Linear Transformation",
+    "artefacts": [
+      "matrix-press",
+      "transform-lenses"
+    ],
+    "epochs": [
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "central-europe-19c-abstract"
+        ],
+        "text": "Linear transformations map vectors so combinations survive—rotations, projections, shears. Matrix representation makes them calculable. Transform lenses show geometric verbs. Klein-style thinking tied geometries to groups of linear and related maps. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Every neural layer and graphics shader leans on linear transforms plus nonlinear garnish. Eigenviews reveal a transform’s true axes. Computation performs linear maps billions of times per frame or training step. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "slug": "determinant",
+    "name": "Determinant",
+    "artefacts": [
+      "determinant-stamp"
+    ],
+    "epochs": [
+      {
+        "n": 5,
+        "id": "mechanize",
+        "title": "MECHANIZE",
+        "worlds": [
+          "central-europe-19c-abstract",
+          "atlantic-scientific-revolution"
+        ],
+        "text": "Determinants measure signed scaling of volume under linear maps—Leibniz–Cramer formulas to Cayley’s algebra. Determinant stamps suggest an official volume verdict. Invertibility tests and area formulas both lean on this single number bred from a matrix. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+      },
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Numerical determinants need care (overflow, pivoting); log-determinants appear in statistics. Geometric algebra keeps the volume intuition alive inside libraries. The stamp’s verdict remains a gateway test for linear solvers. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "slug": "eigenstructure",
+    "name": "Eigenstructure",
+    "artefacts": [
+      "eigen-axis"
+    ],
+    "epochs": [
+      {
+        "n": 6,
+        "id": "compute",
+        "title": "COMPUTE",
+        "worlds": [
+          "central-europe-19c-abstract",
+          "american-global-computational"
+        ],
+        "text": "Eigenvalues and eigenvectors reveal axes a linear map only stretches—nineteenth-century roots in Cauchy, Jacobi, and peers, exploding in applications afterward. Eigen-axes picture invariant directions. Vibrations, principal components, and quantum observables speak eigenlanguage. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+      },
+      {
+        "n": 7,
+        "id": "intelligence",
+        "title": "INTELLIGENCE",
+        "worlds": [
+          "american-global-computational"
+        ],
+        "text": "Spectral methods and attention to eigen-spectra of graphs or kernels power modern learning theory and network analysis. Stability of learning often hides in eigenvalue magnitudes. Intelligence searches structure; eigenstructure is one of linear algebra’s sharpest flashlights. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter."
+      }
+    ]
   }
 ]

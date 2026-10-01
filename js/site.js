@@ -151,3 +151,15 @@
     bindButtons();
   }
 })();
+
+  // Epoch chip → essay scroll on concept pages
+  document.addEventListener("click", (e) => {
+    const chip = e.target.closest(".epoch-chip");
+    if (!chip) return;
+    const href = chip.getAttribute("href");
+    if (!href || !href.startsWith("#")) return;
+    const target = document.querySelector(href);
+    if (!target) return;
+    e.preventDefault();
+    target.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  });

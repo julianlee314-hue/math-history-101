@@ -3,72 +3,156 @@
     "id": "mesopotamia",
     "n": 1,
     "name": "Mesopotamia",
-    "signature": "Clay-tablet computation"
+    "signature": "Clay-tablet computation",
+    "blurb": "From late Neolithic tokens to Old Babylonian school tablets, Mesopotamia made quantity durable in clay. Sexagesimal place-value habits, reciprocal and multiplication tables, and worked survey problems turned accounting into a teachable craft. Ideas that especially proliferated here include positional calculation, numerical tables, and algorithmic word problems.",
+    "artefacts": [
+      "clay-token",
+      "tally-stick",
+      "manuscript-table",
+      "recipe-tablet"
+    ]
   },
   {
     "id": "egypt-eastern-mediterranean",
     "n": 2,
     "name": "Egypt/Eastern Mediterranean",
-    "signature": "Survey, measure, record"
+    "signature": "Survey, measure, record",
+    "blurb": "Egyptian mathematics shines in measurement and practical arithmetic—cubit rods, rope stretchers after the Nile flood, unit-fraction recipes, and doubling methods on papyrus. The Eastern Mediterranean corridor carried survey, trade weights, and later Hellenistic astronomy. Techs especially progressed: units, area/volume rules, and recorded measurement culture.",
+    "artefacts": [
+      "ruler",
+      "shape-tiles",
+      "pan-balance",
+      "fraction-bar"
+    ]
   },
   {
     "id": "greek-hellenistic",
     "n": 3,
     "name": "Greek/Hellenistic",
-    "signature": "Proof and geometric structure"
+    "signature": "Proof and geometric structure",
+    "blurb": "Greek and Hellenistic cultures made proof and diagram the public language of mathematics. Euclid, Archimedes, Apollonius, and astronomical chord tables set templates for definition, postulate, and theorem. Ideas that traveled farthest from here include Euclidean geometry, rigorous proportion, loci, and the ideal of demonstrative argument.",
+    "artefacts": [
+      "compass-and-straightedge",
+      "elements-scroll",
+      "proof-seal",
+      "locus-string"
+    ]
   },
   {
     "id": "china",
     "n": 4,
     "name": "China",
-    "signature": "Algorithmic state mathematics"
+    "signature": "Algorithmic state mathematics",
+    "blurb": "Chinese mathematics emphasized procedural power for a bureaucratic state: counting rods, the Nine Chapters tradition, fangcheng elimination, and root extraction algorithms. Decimal place-value on boards and practical geometry for earthworks flourished. Especially progressed: algorithmic linear systems, rod calculus, and state-facing problem collections.",
+    "artefacts": [
+      "counting-rods",
+      "abacus",
+      "twin-scale",
+      "volume-jar"
+    ]
   },
   {
     "id": "india",
     "n": 5,
     "name": "India",
-    "signature": "Numeral and computational abstraction"
+    "signature": "Numeral and computational abstraction",
+    "blurb": "Indian mathematics matured place-value decimal numerals with zero, refined trigonometry (sines), and advanced algebra and infinite series in several historical layers. Combinatorial counting and computational verse traditions supported both ritual and astronomy. Ideas that proliferated globally include Hindu–Arabic numerals and powerful root/equation procedures.",
+    "artefacts": [
+      "decimal-ruler",
+      "sine-plate",
+      "power-tower",
+      "outcome-tree"
+    ]
   },
   {
     "id": "baghdad-islamic-persian",
     "n": 6,
     "name": "Baghdad/Islamic-Persian",
-    "signature": "Translation → algebra → synthesis"
+    "signature": "Translation → algebra → synthesis",
+    "blurb": "In the Baghdad orbit and wider Islamic-Persian world, translation movements met original synthesis: al-Khwārizmī’s algebra and arithmetic, astronomical tables, and refined trigonometry. Algorithms became teachable across languages. Especially progressed: named algebra, propagated numeral methods, and table-rich scientific computation.",
+    "artefacts": [
+      "recipe-tablet",
+      "astrolabe",
+      "manuscript-table",
+      "algebra-tiles"
+    ]
   },
   {
     "id": "italian-commercial-renaissance",
     "n": 7,
     "name": "Italian Commercial/Renaissance",
-    "signature": "Merchant math becomes print math"
+    "signature": "Merchant math becomes print math",
+    "blurb": "Italian abacus schools and merchant manuals turned calculation into urban craft, then print multiplied arithmetic and early symbolic algebra across Europe. Pacioli-era bookkeeping and equation contests made math a public spectacle of skill. Especially proliferated: commercial arithmetic, percent/interest culture, and printed problem books.",
+    "artefacts": [
+      "merchant-ledger",
+      "printed-arithmetic",
+      "percent-wheel",
+      "solve-balance"
+    ]
   },
   {
     "id": "atlantic-scientific-revolution",
     "n": 8,
     "name": "Atlantic Scientific Revolution",
-    "signature": "Instrument + experiment + symbolic mathematics"
+    "signature": "Instrument + experiment + symbolic mathematics",
+    "blurb": "From the seventeenth century Atlantic world, instruments, experiment, and symbolic mathematics braided together—analytic geometry, calculus, probability’s early letters, and precision devices. Nature became writable as equations checked by brass and glass. Especially progressed: functions, rates, limits-in-practice, and scientific notation culture.",
+    "artefacts": [
+      "telescope",
+      "pendulum",
+      "tangent-glass",
+      "graph-paper"
+    ]
   },
   {
     "id": "french-enlightenment-revolutionary",
     "n": 9,
     "name": "French Enlightenment/Revolutionary",
-    "signature": "Mathematics becomes an institution"
+    "signature": "Mathematics becomes an institution",
+    "blurb": "French Enlightenment and Revolutionary cultures institutionalized mathematics—metric reform, École networks, probabilistic social science, and ambitious analytic mechanics. Units and curricula became state projects. Especially progressed: metric standardization, institutional teaching, and probability as civic reasoning.",
+    "artefacts": [
+      "measuring-cup",
+      "expectation-purse",
+      "bell-jar",
+      "peak-dial"
+    ]
   },
   {
     "id": "central-europe-19c-abstract",
     "n": 10,
     "name": "Central Europe 19th-c Abstract",
-    "signature": "Rigor and structure"
+    "signature": "Rigor and structure",
+    "blurb": "Nineteenth-century Central European mathematics rebuilt foundations—ε–δ rigor, group and linear-algebraic structure, set-theoretic language, and abstract definitions that travel. Proof standards tightened as applications exploded elsewhere. Especially progressed: analysis rigor, algebraic structure, matrices/eigenideas, and modern axiomatic style.",
+    "artefacts": [
+      "limit-funnel",
+      "continuity-ribbon",
+      "matrix-press",
+      "eigen-axis"
+    ]
   },
   {
     "id": "british-industrial-engineering",
     "n": 11,
     "name": "British Industrial/Engineering",
-    "signature": "Mathematics as infrastructure"
+    "signature": "Mathematics as infrastructure",
+    "blurb": "British industrial and engineering cultures made mathematics infrastructure—gauges, tables, statistics for populations and factories, slide rules, and surveying empires. Tolerances and schedules ruled. Especially progressed: applied statistics, precision measurement, logarithmic computation tools, and engineering drawing standards.",
+    "artefacts": [
+      "slide-rule",
+      "vernier-caliper",
+      "logarithm-table",
+      "spread-whiskers"
+    ]
   },
   {
     "id": "american-global-computational",
     "n": 12,
     "name": "American/Global Computational",
-    "signature": "Electronics → software → AI"
+    "signature": "Electronics → software → AI",
+    "blurb": "American and global computational cultures turned algorithms into electronics, software, and AI—punch cards to GPUs, spreadsheets to proof assistants. Mathematics increasingly executes and searches itself. Especially progressed: programmable algorithms, numerical linear algebra, statistical learning, and machine-checked proof.",
+    "artefacts": [
+      "punch-card",
+      "spreadsheet-grid",
+      "proof-assistant",
+      "logic-gate"
+    ]
   }
 ]
