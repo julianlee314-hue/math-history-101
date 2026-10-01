@@ -15,7 +15,7 @@
           "mesopotamia",
           "egypt-eastern-mediterranean"
         ],
-        "text": "Long before writing, people needed a way to keep track of “how many” when memory alone would not do—animals, days, bundles of grain. The oldest candidates are notched bones: the Lebombo bone from southern Africa (roughly 43,000–44,000 years ago) and the better-known Ishango bone from the Congo region (about 20,000–25,000 years ago). Scholars still debate how much arithmetic those notches encode, but the basic move is clear: one mark for one thing. That one-to-one pairing is counting’s first technology. Mathera’s tally stick invites the same ancient gesture—make a mark, match it to the world—before symbols ever enter the picture."
+        "text": "People needed a way to track “how many” when memory alone failed—animals, days, grain. Early candidates are notched bones: the Lebombo bone (about 43,000–44,000 years ago) and the Ishango bone (about 20,000–25,000 years ago). Scholars debate how much arithmetic those notches encode, but the basic move is clear: one mark for one thing. That one-to-one pairing is counting’s first technology. Mathera’s tally stick invites the same gesture before symbols appear."
       },
       {
         "n": 3,
@@ -26,7 +26,7 @@
           "india",
           "mesopotamia"
         ],
-        "text": "Once tallies piled up, cultures invented faster procedures. Mesopotamian scribes grouped marks by sixties on clay accounting boards; Chinese clerks slid counting rods into decimal columns; Indian teachers and later Islamic arithmeticians drilled place-by-place methods any apprentice could repeat. The abacus turned “how many?” into a choreography of hands: fill a place, carry to the next, clear, continue. Counting stopped being only a heap of notches and became a teachable recipe—something a merchant house or tax office could standardize across workers. That procedural turn is why later machines found counting so easy to automate: the steps were already lined up waiting for gears and circuits."
+        "text": "Once tallies piled up, cultures invented faster procedures. Mesopotamian scribes grouped marks by sixties; Chinese clerks used counting rods in decimal columns; Indian and later Islamic teachers drilled place-by-place methods. The abacus turned counting into a hand recipe: fill a place, carry, clear, continue. Counting became a teachable algorithm merchant houses could standardize—steps later machines would automate."
       },
       {
         "n": 6,
@@ -36,7 +36,7 @@
           "american-global-computational",
           "british-industrial-engineering"
         ],
-        "text": "Electronic machines made counting automatic without changing what a count means. Nineteenth-century punched cards tallied censuses; mechanical registers clicked along shop counters; mid-twentieth-century computers began incrementing registers billions of times a second. Spreadsheets, databases, and digital sensors still rest on the ancient idea—one unit, one record—only now the tally stick is silicon and the notch is a bit. What changed is not the meaning of “how many,” but who or what keeps the tally without fatigue. Digital counting inherited the MARK-era promise and the ALGORITHM-era recipe, then removed the human hand from the loop while leaving the one-to-one pairing intact."
+        "text": "Machines made counting automatic without changing what a count means. Punched cards tallied censuses; mechanical registers clicked in shops; computers increment registers billions of times a second. Spreadsheets and sensors still rest on one unit, one record—now the tally is silicon and the notch is a bit. Digital counting kept the one-to-one pairing and removed the tired human hand from the loop."
       }
     ]
   },
@@ -57,7 +57,7 @@
           "mesopotamia",
           "egypt-eastern-mediterranean"
         ],
-        "text": "Cardinality is the quiet leap from marking to knowing: the last number you say names the whole set. Shepherds who could not write still used tally sticks this way for centuries—match mark to sheep, then trust the final count. By the Neolithic Near East (roughly 8000–3000 BCE), clay tokens sorted by shape did similar work for commodities. A modern ten-frame is a small stage for the same idea: fill the frame until the last cell tells you “ten,” not ten separate ones. Once children grasp cardinality, counting stops being a chant and becomes an answer about the whole collection."
+        "text": "Cardinality is the leap from marking to knowing: the last number you say names the whole set. Shepherds used tally sticks this way for centuries—match mark to sheep, trust the final count. Neolithic Near Eastern clay tokens (roughly 8000–3000 BCE) did similar work for goods. A ten-frame stages the same idea: the last filled cell says “ten,” not ten separate ones. Counting becomes an answer about the whole collection."
       },
       {
         "n": 2,
@@ -67,7 +67,7 @@
           "greek-hellenistic",
           "baghdad-islamic-persian"
         ],
-        "text": "Greek mathematicians treated “how many” as something you could reason about—finite collections, comparable magnitudes, and the uneasy border with infinity. Euclid’s common notions kept size talk inside proof rather than mere habit. When nineteenth-century set theory matured, especially in Georg Cantor’s work, cardinality became a precise relation: two sets share a size exactly when you can pair their members one-to-one, even if both collections are infinite. The shepherd’s last notch and the theorist’s transfinite sizes share that pairing idea. Writing made cardinality arguable; abstraction made it stretch past any physical flock while still honoring the original last-count insight."
+        "text": "Greek mathematicians treated “how many” as something you could reason about—finite collections, magnitudes, and the border with infinity. Euclid kept size talk inside proof. In the nineteenth century, Cantor’s set theory made cardinality precise: two sets share a size when you can pair their members one-to-one, even if both are infinite. The shepherd’s last notch and transfinite sizes share that pairing idea."
       }
     ]
   },
@@ -89,7 +89,7 @@
           "china",
           "mesopotamia"
         ],
-        "text": "Tallies record quantity; representation is inventing marks that stand for numbers even when the things are gone. Egyptian hieroglyphic numerals (from about 3000 BCE) used distinct signs for 1, 10, 100, 1,000 and up—still additive, not place-value. Chinese Shang oracle bones (late second millennium BCE) already show decimal groupings. Roman numerals later gave Europe a durable, if clumsy, public script for civic stone and ledger alike. Each system answers the same problem the tally began: how do you make “seven” travel without seven goats? Writing number down is civilization’s way of shipping quantity through time."
+        "text": "Tallies record quantity; representation invents marks that stand for numbers when the things are gone. Egyptian hieroglyphic numerals (from about 3000 BCE) used distinct signs for 1, 10, 100, 1,000—additive, not place-value. Chinese Shang oracle bones already show decimal groupings. Roman numerals later gave Europe a durable public script. Each system answers: how do you ship “seven” without seven goats?"
       },
       {
         "n": 3,
@@ -100,7 +100,7 @@
           "baghdad-islamic-persian",
           "china"
         ],
-        "text": "Positional notation—especially the Hindu–Arabic digits with a true zero—changed what a written number could do. Indian mathematicians developed the system; scholars in the Baghdad orbit transmitted, explained, and refined it for new audiences across languages; Chinese rod numerals had already practiced place-value on boards for rapid calculation. Representation stopped being only a label on a jar and became a compact machine for arithmetic. Algorithms for roots, multiplication, and accounting rode on those digits. Once the marks carried place, the marks could carry method, and clerks could share procedures instead of only shared symbols."
+        "text": "Positional notation—Hindu–Arabic digits with a true zero—changed what a written number could do. Indian mathematicians developed the system; scholars in the Baghdad orbit explained it across languages; Chinese rod numerals already practiced place-value on boards. Representation became a compact machine for arithmetic. Algorithms for roots, multiplication, and accounting rode on those digits."
       },
       {
         "n": 4,
@@ -110,7 +110,7 @@
           "italian-commercial-renaissance",
           "atlantic-scientific-revolution"
         ],
-        "text": "Printing multiplied numeral systems into every counting-house and schoolbook. Standardized Arabic digits, commercial arithmetic manuals in Renaissance Italy, and later typefaces for algebraic symbols made one shared visual language for number across Europe and far beyond. Charts, ledgers, and primers no longer depended on a single scribe’s hand or a local numeral fashion. When representation can be copied by the thousand, a civilization stops arguing about which marks count and starts arguing about what calculations those marks should support. Print turned number symbols into infrastructure."
+        "text": "Printing put numeral systems into every counting-house and schoolbook. Standardized Arabic digits, Renaissance commercial manuals, and later algebraic typefaces made one shared visual language for number. Charts and primers no longer depended on a single scribe’s hand. When marks copy by the thousand, debate shifts from which symbols count to which calculations they should support."
       }
     ]
   },
@@ -130,7 +130,7 @@
           "mesopotamia",
           "egypt-eastern-mediterranean"
         ],
-        "text": "Ordering is noticing that numbers sit in a line: after three comes four, and five is farther still. People ordered long before they drew number lines—clay tokens lined up, notches read left to right, ranks of soldiers and rows of jars. What the number line adds (as a teaching tool mostly in the last few centuries) is a picture of order and distance at once. Place a chip at 4 and another at 9, and “between,” “before,” and “farther” become visible. In Mathera, the number line turns the abstract sequence of counting into a landscape you can walk with your eyes."
+        "text": "Ordering is noticing that numbers sit in a line: after three comes four; five is farther still. People ordered long before number lines—tokens lined up, notches read left to right, ranks of jars. The number line (as a teaching picture mostly in recent centuries) shows order and distance at once. Place chips at 4 and 9, and “between,” “before,” and “farther” become visible."
       },
       {
         "n": 5,
@@ -140,7 +140,7 @@
           "atlantic-scientific-revolution",
           "british-industrial-engineering"
         ],
-        "text": "Ordered scales appeared on rulers, thermometers, slide rules, and graph paper—physical number lines you could read at a glance. Equal tick marks turned sequence into calibrated distance, ready for laboratories, ships, and factories. Mechanized instruments made order measurable rather than merely recited: a needle on a dial sits between two values the way a pebble once sat between notches. Atlantic scientific workshops and British industrial gauges both depended on that ordered tick. The number-line picture children meet in school is the soft echo of those brass and paper scales."
+        "text": "Ordered scales appeared on rulers, thermometers, slide rules, and graph paper—physical number lines you could read at a glance. Equal tick marks turned sequence into calibrated distance for labs, ships, and factories. A needle on a dial sits between values the way a pebble once sat between notches. The school number line echoes those brass and paper scales. Atlantic workshops and industrial gauges both depended on that ordered tick."
       }
     ]
   },
@@ -161,7 +161,7 @@
           "mesopotamia",
           "china"
         ],
-        "text": "Place value is the idea that where a digit sits changes what it means—units, tens, sixties. Mesopotamia developed a sexagesimal (base-60) positional system by around 2000 BCE, using spacing and later a placeholder to show empty places. Chinese counting rods gave East Asia a decimal place-value board from roughly the first millennium BCE. Grouped tallies and coin strips rehearse the same insight in the hand: ten ones become one ten, and position does the heavy lifting that pure additive numerals struggled to do. Place is meaning, not decoration."
+        "text": "Place value means where a digit sits changes what it means—units, tens, sixties. Mesopotamia developed a sexagesimal (base-60) positional system by around 2000 BCE, with spacing and later a placeholder for empty places. Chinese counting rods gave East Asia a decimal place-value board from roughly the first millennium BCE. Ten ones become one ten: position does the work additive numerals struggled to do."
       },
       {
         "n": 3,
@@ -171,7 +171,7 @@
           "india",
           "baghdad-islamic-persian"
         ],
-        "text": "The Hindu–Arabic system, with a true zero placeholder, matured in India and spread west through the Islamic world by the 8th–9th centuries CE. Europe’s slow switch from Roman numerals followed, pushed by merchants who needed faster calculation than stone-style numerals allowed. Algorithms for addition, multiplication, and root extraction became compact precisely because place value packed magnitude into columns. Al-Khwārizmī’s arithmetic tradition helped turn those columns into public procedure that travelers could teach in a new city without reinventing the board. The ALGORITHM epoch’s gift was turning the idea into steps apprentices could repeat without reinventing them."
+        "text": "The Hindu–Arabic system, with a true zero placeholder, matured in India and spread west through the Islamic world by the 8th–9th centuries CE. Europe slowly left Roman numerals as merchants needed faster calculation. Addition, multiplication, and root extraction became compact because place value packed magnitude into columns. Al-Khwārizmī’s arithmetic tradition helped turn those columns into public procedure."
       },
       {
         "n": 6,
@@ -180,7 +180,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Binary, octal, and hexadecimal place-value systems power every digital computer. Machine registers still carry when a place overflows—the same column logic as clay tablets and counting rods, now switching in nanoseconds. Programmers who pack flags into bit fields are practicing place value whether they name it or not. Memory addresses, color channels, and network packets all assume that position multiplies meaning by a base. The ancient discovery that place carries value became the quiet architecture underneath modern computation. From census tabulators to pocket calculators, place-value arithmetic never left the machine room; it only changed medium."
+        "text": "Binary, octal, and hexadecimal place-value systems power every digital computer. Registers still carry when a place overflows—the same column logic as clay tablets and rods, now switching in nanoseconds. Bit fields, memory addresses, and color channels all assume position multiplies meaning by a base. Place-value arithmetic never left the machine room; it only changed medium."
       }
     ]
   },
@@ -201,7 +201,7 @@
           "egypt-eastern-mediterranean",
           "mesopotamia"
         ],
-        "text": "Adding is joining quantities—and for millennia the clearest physical model was the balance scale. Equal-arm balances appear in Egypt and Mesopotamia around the turn of the fourth to the third millennium BCE: put weights on one pan until they match the goods on the other. Egyptian scribes later formalized addition with doubling and unit-fraction tricks on papyrus. A ten-frame does a gentler classroom version of the same join: fill toward ten, then regroup. Addition unlocked trade, rations, and building inventories—everyday civilization math—long before anyone wrote an equation with a plus sign."
+        "text": "Adding is joining quantities. Equal-arm balances in Egypt and Mesopotamia (around the late fourth to early third millennium BCE) matched weights to goods. Egyptian scribes later used doubling and unit-fraction tricks on papyrus. A ten-frame does a classroom version of the same join: fill toward ten, then regroup. Addition unlocked trade, rations, and inventories long before the plus sign."
       },
       {
         "n": 3,
@@ -212,7 +212,7 @@
           "india",
           "baghdad-islamic-persian"
         ],
-        "text": "Column addition on counting boards and written numerals made joining quantities a taught procedure—align places, sum each column, carry the excess to the next. Chinese rod calculus, Indian decimal methods, and later Islamic and European arithmetics polished recipes that tax clerks and merchants could run the same way every time. The plus sign itself is late, arriving with symbolic algebra’s print culture, but the procedural join is ancient. Once addition was a recipe, error could be checked, apprentices could be drilled, and disputes at the warehouse could shrink."
+        "text": "Column addition on boards and numerals made joining a taught procedure—align places, sum each column, carry the excess. Chinese rod calculus, Indian decimal methods, and later Islamic and European arithmetics polished recipes clerks could run the same way every time. The plus sign is late, but the procedural join is ancient. Once addition was a recipe, apprentices could be drilled and warehouse disputes could shrink."
       },
       {
         "n": 6,
@@ -222,7 +222,7 @@
           "american-global-computational",
           "british-industrial-engineering"
         ],
-        "text": "Mechanical and electronic adders embodied the carry chain in gears, relays, and circuits. From Pascal and Leibniz’s calculating machines through Babbage’s designs to the arithmetic logic unit on a modern chip, addition became the machine’s most basic verb. Cash registers, spreadsheets, and scientific code still spend enormous fractions of their life adding cells and registers. The balance pan’s join survived as voltage and clock cycle: same civic need to combine quantities, new medium that never tires. Every checksum, total, and running balance in modern software is still that ancient join, executed without a pan or a pebble."
+        "text": "Mechanical and electronic adders put the carry chain in gears, relays, and circuits. From Pascal and Leibniz through Babbage to the modern ALU, addition became the machine’s basic verb. Cash registers and spreadsheets still spend huge fractions of their life adding. Every checksum and running balance is still that ancient join—executed without a pan or pebble."
       }
     ]
   },
@@ -242,7 +242,7 @@
           "egypt-eastern-mediterranean",
           "mesopotamia"
         ],
-        "text": "Subtraction is the balance’s other half: take away until the pans agree, or find how much is missing. The same Bronze Age weighing cultures that added by stacking weights also compared and removed them; Egyptian and Babylonian texts treat “what remains” as a routine accounting move. In daily life, subtraction answered urgent questions—how much grain is left, how many days until the festival, how far short of the tax. Mathera’s balance keeps that metaphor honest: difference is not a trick of symbols; it is the gap between two sides of the same world."
+        "text": "Subtraction is the balance’s other half: take away until the pans agree, or find how much is missing. Bronze Age weighing cultures that added by stacking weights also compared and removed them; Egyptian and Babylonian texts treat “what remains” as routine accounting. How much grain is left? How many days until the festival? Difference is the gap between two sides of the same world. Mathera’s balance keeps the metaphor honest: difference is a gap in the world, not a symbol trick."
       },
       {
         "n": 3,
@@ -253,7 +253,7 @@
           "china",
           "italian-commercial-renaissance"
         ],
-        "text": "Written subtraction algorithms—borrowing across places, complementary methods, clearing beads on an abacus—spread with positional numerals. Chinese and Indian procedural texts, then Islamic arithmetics and European merchant manuals, drilled difference as carefully as sum because ledgers live on both sides of every bargain. Renaissance Italian abacus schools made subtraction a craft skill: neat columns, checked remainders, fewer quarrels at the warehouse door. Once “take away” had a standard recipe, clerks could audit one another’s work instead of trusting memory alone. Standardization mattered: a shared subtraction recipe let distant offices reconcile accounts without meeting face to face."
+        "text": "Written subtraction—borrowing across places, complementary methods, clearing abacus beads—spread with positional numerals. Chinese and Indian texts, Islamic arithmetics, and European merchant manuals drilled difference as carefully as sum. Renaissance abacus schools made neat columns and checked remainders a craft skill. A shared recipe let distant offices reconcile accounts without meeting face to face."
       }
     ]
   },
@@ -273,7 +273,7 @@
           "mesopotamia",
           "egypt-eastern-mediterranean"
         ],
-        "text": "Humans spotted patterns in notches, seasons, and craft long before school arithmetic. Some readings of the Ishango bone (c. 20,000–25,000 years ago) see grouped marks that look like more than raw tallies—though that reading stays debated. By the Old Babylonian period (early second millennium BCE), clay tablets show deliberate numerical sequences and multiplication tables. Pattern recognition is the capacity that turns “one, two, three…” into “what comes next?” A series chain in Mathera is a small, tangible version of that ancient habit: notice the rule, predict the next link, and feel mathematics as rhythm rather than rote."
+        "text": "Humans spotted patterns in notches, seasons, and craft long before school arithmetic. Some readings of the Ishango bone (c. 20,000–25,000 years ago) see grouped marks beyond raw tallies—though that reading stays debated. Old Babylonian tablets show deliberate sequences and multiplication tables. Pattern recognition turns “one, two, three…” into “what comes next?”—mathematics as rhythm, not rote."
       },
       {
         "n": 7,
@@ -283,7 +283,7 @@
           "american-global-computational",
           "central-europe-19c-abstract"
         ],
-        "text": "Modern mathematics and machine learning both amplify the ancient habit: find the rule that fits the marks. Nineteenth-century analysts hunted regularities in infinite series; twentieth-century statisticians fitted models to noisy data; symbolic search engines and neural nets now automate “what comes next?” at scales no scribe’s tablet could hold. Proof assistants and pattern-finding algorithms still begin where the Ishango debate began—asking whether the marks hide a law worth trusting. The human spark remains noticing regularity in the first place; silicon multiplies how far that spark can travel."
+        "text": "Modern mathematics and machine learning amplify the same habit: find the rule that fits the marks. Nineteenth-century analysts hunted regularities in series; statisticians fitted models to noisy data; neural nets now ask “what comes next?” at scales no tablet could hold. Proof assistants and pattern-finders still begin where the Ishango debate began—asking whether the marks hide a law worth trusting. The human spark remains noticing regularity; silicon multiplies how far that spark travels."
       }
     ]
   },
@@ -303,7 +303,7 @@
         "worlds": [
           "mesopotamia"
         ],
-        "text": "Classification sorts the world into kinds—same shape, same size, same use. Neolithic clay tokens (from roughly the eighth millennium BCE onward in the Near East) already classified commodities by form: a cone for one measure, a disk for another. Sorting is how early accounting and early geometry meet: you cannot tax or build fairly unless you can say which things belong together. Shape tiles invite children into that same civic skill—group the triangles, set the circles aside—and quietly prepare the ground for later definitions of square, rectangle, and beyond."
+        "text": "Classification sorts the world into kinds—same shape, same size, same use. Neolithic clay tokens in the Near East (from roughly the eighth millennium BCE) classified commodities by form: cone for one measure, disk for another. You cannot tax or build fairly unless you can say which things belong together. Shape tiles rehearse that civic skill and prepare later definitions of square, rectangle, and beyond."
       },
       {
         "n": 2,
@@ -313,7 +313,7 @@
           "greek-hellenistic",
           "china"
         ],
-        "text": "Definitions and taxonomies made classification speakable across distance. Greek geometry sorted figures by shared properties you could state; Chinese mathematical classics organized problem types into teachable families; later set language and scientific taxonomies sharpened what “belongs with” means in writing. Once kinds can be written down, copied, and argued over, classification stops being only a pile on a mat and becomes a public agreement about sameness. That agreement is what lets strangers share a ledger without sharing a room. Categories on paper travel farther than categories in a single storeroom—and they invite correction when someone disagrees."
+        "text": "Definitions and taxonomies made classification speakable across distance. Greek geometry sorted figures by shared properties; Chinese classics organized problem types into teachable families; later set language sharpened what “belongs with” means in writing. Once kinds can be copied and argued over, classification becomes a public agreement about sameness—categories that travel farther than a single storeroom. Categories on paper invite correction when someone disagrees—and they travel farther than a storeroom pile."
       }
     ]
   },
@@ -364,7 +364,7 @@
           "china",
           "greek-hellenistic"
         ],
-        "text": "Position answers “where?” relative to a frame. Egyptian artists used square grids to keep body proportions consistent in tomb painting; Chinese cartographers mapped land with rectangular grids; Greek astronomers and then Ptolemy adapted coordinate ideas from the sky toward descriptions of the earth. A classroom grid is a miniature of those civic frames: rows and columns turn vague location into an address. Once position is speakable—“two right, three up”—children can plan paths, read maps, and eventually meet graphs and coordinates without feeling that the plane appeared from nowhere."
+        "text": "Position answers “where?” relative to a frame. Egyptian artists used square grids for body proportions; Chinese cartographers mapped land with rectangular grids; Greek astronomers and Ptolemy adapted coordinate ideas from sky to earth. A classroom grid is a miniature of those frames: rows and columns turn vague location into an address. Once “two right, three up” is speakable, maps, paths, and later graphs make sense."
       },
       {
         "n": 4,
@@ -374,7 +374,7 @@
           "atlantic-scientific-revolution",
           "italian-commercial-renaissance"
         ],
-        "text": "Printed maps, sea charts, and coordinate grids let position travel farther than any single surveyor. Latitude and longitude on paper, then Cartesian planes in analytic geometry, gave earth and idea a shared address system anyone could copy. Graph paper, spreading widely in the nineteenth century, made positional thinking a desk habit for engineers and students alike. When frames print cheaply and consistently, “where?” stops belonging only to the person who walked the land and becomes a common language of location. The PRINT epoch’s gift was multiplying the idea until classrooms and workshops shared one vocabulary."
+        "text": "Printed maps, sea charts, and coordinate grids let position travel farther than any single surveyor. Latitude and longitude, then Cartesian planes, gave earth and idea a shared address system. Nineteenth-century graph paper made positional thinking a desk habit for engineers and students. When frames print cheaply, “where?” becomes a common language of location. The PRINT epoch multiplied frames until classrooms and workshops shared one location vocabulary."
       }
     ]
   },
@@ -490,7 +490,7 @@
         "worlds": [
           "mesopotamia"
         ],
-        "text": "Clay tokens and sealed bullae (from the late Neolithic into the fourth millennium BCE in Mesopotamia) stored facts about goods before full writing existed. Marks on ledgers, notches on sticks, and inked columns are the same move: choose a form that stands for a fact so others can read it later. Data representation begins whenever a community refuses to let important quantities vanish with a single person’s memory. The token is not yet a novel; it is already a database in clay."
+        "text": "Clay tokens and sealed bullae in Mesopotamia (late Neolithic into the fourth millennium BCE) stored facts about goods before full writing. Marks on ledgers, notches on sticks, and inked columns do the same move: choose a form that stands for a fact so others can read it later. Data representation begins when a community refuses to let important quantities vanish with one person’s memory. The token is already a database in clay."
       },
       {
         "n": 3,
@@ -501,7 +501,7 @@
           "china",
           "india"
         ],
-        "text": "Tables—astronomical, commercial, fiscal—organized data into rows you could look up by a taught procedure. Chinese, Indian, and Islamic scientific cultures built dense manuscript tables; clerks learned to find the correct row and apply the matching rule. Representation became actionable: not only stored, but queried on demand. The manuscript table is the ancestor of every lookup modern institutions still run, from tax schedules to star ephemerides. A table without a lookup rule is only a mural; with a rule it becomes a working instrument for prediction and tax alike."
+        "text": "Tables—astronomical, commercial, fiscal—organized data into rows you could look up by a taught procedure. Chinese, Indian, and Islamic scientific cultures built dense manuscript tables; clerks learned to find the correct row and apply the rule. Representation became actionable: not only stored, but queried on demand. A table with a lookup rule is a working instrument for prediction and tax."
       },
       {
         "n": 6,
@@ -510,7 +510,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Spreadsheets, relational databases, and binary encodings turned data representation into the bloodstream of modern work. Punch cards once marched through national censuses; now files and clouds carry the clay token’s old promise—facts that outlive the moment of seeing. Formats and schemas are today’s sealed bullae: agreements about what the marks mean when someone else, or some other program, opens them. Computation did not invent data; it accelerated who can read and rewrite it. Query languages are the latest lookup rules: ask clearly, retrieve the mark that answers."
+        "text": "Spreadsheets, relational databases, and binary encodings turned data representation into the bloodstream of modern work. Punch cards once marched through censuses; now files and clouds carry the clay token’s promise—facts that outlive the moment of seeing. Schemas are today’s sealed bullae: agreements about what the marks mean. Query languages are the latest lookup rules. Computation did not invent data; it accelerated who can read and rewrite it."
       }
     ]
   },
@@ -530,7 +530,7 @@
           "egypt-eastern-mediterranean",
           "mesopotamia"
         ],
-        "text": "Estimation is knowing when “about” is enough—herd size at a glance, grain in a bin, days left on a journey. Farmers, captains, and market sellers practiced it long before schoolbooks named the skill. An estimate stick or rough tally accepts that some decisions cannot wait for a perfect count under perfect light. Estimation is judgment under time pressure, not a failed measurement. Civilizations that could not estimate poorly starved or sailed into storms. Good estimators were trusted community resources—people who could glance and rarely embarrass the harvest plan."
+        "text": "Estimation is knowing when “about” is enough—herd size at a glance, grain in a bin, days left on a journey. Farmers, captains, and market sellers practiced it long before schoolbooks named the skill. An estimate stick accepts that some decisions cannot wait for a perfect count. Estimation is judgment under time pressure, not failed measurement. Civilizations that estimated poorly starved or sailed into storms."
       },
       {
         "n": 5,
@@ -540,7 +540,7 @@
           "atlantic-scientific-revolution",
           "british-industrial-engineering"
         ],
-        "text": "Scientific estimation grew explicit rules: order-of-magnitude thinking, significant digits, and propagated error from instrument to result. Engineers designing beams and gunners ranging shot needed good-enough numbers with known risk—estimation with a warranty rather than a shrug. Instrument culture made “roughly” respectable when paired with stated bounds. The estimate stick graduated into Fermi problems, tolerance stacks, and back-of-envelope design that still saves projects before finer calculation begins. Slide rules and nomograms made rapid estimation a trained professional habit, not only folk wisdom. The MECHANIZE epoch’s gift was embodying the idea in instruments that enforced it with gears and scales."
+        "text": "Scientific estimation grew explicit rules: order-of-magnitude thinking, significant digits, and propagated error. Engineers and gunners needed good-enough numbers with known risk—estimation with a warranty. Instrument culture made “roughly” respectable when paired with stated bounds. Slide rules and nomograms made rapid estimation a trained habit, not only folk wisdom. Back-of-envelope design still saves projects before finer calculation begins."
       }
     ]
   },
@@ -560,7 +560,7 @@
           "egypt-eastern-mediterranean",
           "mesopotamia"
         ],
-        "text": "Egyptian arithmetic loved doubling: to multiply, keep doubling and select the rows that sum to the multiplier, a method attested across Middle Kingdom problem traditions such as the Rhind Mathematical Papyrus. Repetition was not laziness—it was a reliable engine anyone could check. Babylonian reciprocal tables likewise turned hard division into look-up plus repeated adjustment. Iteration is the discovery that doing the same move again, carefully, can finish a job too large for a single insight. The method’s power was transparency: each doubling step could be checked, so trust did not rely on a mysterious leap."
+        "text": "Egyptian arithmetic loved doubling: to multiply, keep doubling and select the rows that sum to the multiplier—a method in Middle Kingdom texts such as the Rhind Papyrus. Repetition was a reliable engine anyone could check. Babylonian reciprocal tables turned hard division into look-up plus repeated adjustment. Iteration is doing the same move again, carefully, to finish a job too large for a single insight."
       },
       {
         "n": 3,
@@ -571,7 +571,7 @@
           "india",
           "baghdad-islamic-persian"
         ],
-        "text": "Iteration became an explicit mathematical method: approximate roots by repeating a step, refine a quotient, loop until the result stabilizes within need. Chinese and Indian mathematical texts describe successive procedures with stopping judgment; Islamic algebraists and later Europeans inherited and extended those habits. “Do it again, more carefully” turned into named algorithms with exit conditions—iteration with an agreed end, not endless busywork. Convergence talk—getting closer each round—turned repetition into a theory of approximation, not mere stubbornness. Each pass was expected to improve the answer, so patience became part of the method."
+        "text": "Iteration became an explicit method: approximate roots by repeating a step, refine a quotient, loop until the result stabilizes within need. Chinese and Indian texts describe successive procedures with stopping judgment; Islamic algebraists and later Europeans extended those habits. Named algorithms with exit conditions turned “do it again” into approximation theory—each pass expected to improve the answer."
       },
       {
         "n": 6,
@@ -580,7 +580,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Loops are the soul of software. Jacquard looms repeated punched patterns in silk; Babbage imagined iterative engines; modern programs wrap rules in for and while constructs that a processor executes without boredom. Machines formalized iteration so a crank—or a clock cycle—could repeat a rule without fatigue or complaint. Every progress bar and loading spinner is a distant cousin of Egyptian doubling, still asking the machine to do the next same step. Nested loops and recursive calls are iteration wearing formal clothes, still obedient to a stopping condition."
+        "text": "Loops are the soul of software. Jacquard looms repeated punched patterns; Babbage imagined iterative engines; modern programs wrap rules in for and while constructs. Machines formalized iteration so a clock cycle could repeat a rule without fatigue. Every progress bar is a cousin of Egyptian doubling—still asking for the next same step, obedient to a stopping condition."
       }
     ]
   },
@@ -600,7 +600,7 @@
           "mesopotamia",
           "egypt-eastern-mediterranean"
         ],
-        "text": "An algorithm is a recipe that always works the same way when followed carefully. Babylonian clay tablets prescribe step-by-step solutions for survey and accounting problems; Egyptian papyri do likewise for rations, slopes, and bread. The “recipe tablet” idea is older than the Arabic-rooted word we now use. Early algorithms lived as worked examples a scribe could imitate, not as modern pseudocode—but the discipline of ordered, shareable steps was already a civic technology. A recipe you cannot teach to another scribe is only a private trick; algorithms begin when steps become communal."
+        "text": "An algorithm is a recipe that works the same way when followed carefully. Babylonian tablets prescribe step-by-step solutions for survey and accounting; Egyptian papyri do likewise for rations and slopes. Early algorithms lived as worked examples a scribe could imitate, not as modern pseudocode—but ordered, shareable steps were already civic technology. Algorithms begin when steps become communal."
       },
       {
         "n": 3,
@@ -611,7 +611,7 @@
           "india",
           "china"
         ],
-        "text": "The word algorithm traces to al-Khwārizmī (9th century, working in the Baghdad scholarly orbit), whose arithmetic and algebra texts taught procedures as public knowledge that could cross languages. Indian and Chinese traditions independently cultivated highly procedural mathematics—rod calculus, root extraction, and simultaneous systems such as fangcheng. Naming and circulating recipes made method a shared good: a traveler could teach a calculation in a new city without reinventing every step from scratch. Translation movements carried those recipes across scripts, proving that method can migrate even when spoken language differs."
+        "text": "The word algorithm traces to al-Khwārizmī (9th century, Baghdad scholarly orbit), whose arithmetic and algebra texts taught procedures as public knowledge across languages. Indian and Chinese traditions independently cultivated highly procedural mathematics—rod calculus, root extraction, fangcheng systems. Naming and circulating recipes made method a shared good: a traveler could teach a calculation in a new city without reinventing every step."
       },
       {
         "n": 6,
@@ -621,7 +621,7 @@
           "american-global-computational",
           "british-industrial-engineering"
         ],
-        "text": "From Ada Lovelace’s notes on Babbage’s Analytical Engine to compilers, operating systems, and complexity theory, algorithms became things machines execute and mathematicians analyze for time and correctness. Punch cards, stored programs, and proof assistants all inherit the tablet’s demand: say the steps so clearly that another agent—human or silicon—can run them and get the same result. The ALGORITHM epoch’s recipes found their ultimate apprentice in the computer. Sorting, searching, and encryption routines are contemporary recipe tablets written for processors instead of apprentices."
+        "text": "From Ada Lovelace’s notes on Babbage’s Analytical Engine to compilers and complexity theory, algorithms became things machines execute and mathematicians analyze for time and correctness. Punch cards, stored programs, and proof assistants inherit the tablet’s demand: say the steps so clearly that another agent—human or silicon—gets the same result. Sorting, searching, and encryption are recipe tablets for processors. The ALGORITHM-era recipes found their ultimate apprentice in the computer."
       }
     ]
   },
@@ -702,7 +702,7 @@
           "baghdad-islamic-persian",
           "greek-hellenistic"
         ],
-        "text": "An identity leaves things unchanged (add 0, multiply by 1); an inverse undoes (add the opposite, multiply by the reciprocal). Indian mathematicians treated zero with growing confidence; Islamic algebra handled negatives and completion moves that restore balance; Greek geometry spoke of same and opposite in its own register of magnitudes. Cancel-weights on a balance make the metaphor physical: what you add can be taken back to restore level. Identity and inverse are the grammar of “change” and “undo” inside arithmetic. The WRITE epoch’s gift was making the idea arguable in sentences and diagrams strangers could check."
+        "text": "An identity leaves things unchanged (add 0, multiply by 1); an inverse undoes (add the opposite, multiply by the reciprocal). Indian mathematicians treated zero with growing confidence; Islamic algebra handled negatives and completion moves that restore balance; Greek geometry spoke of same and opposite in magnitudes. Cancel-weights on a balance make the metaphor physical. Identity and inverse are the grammar of “change” and “undo” in arithmetic."
       },
       {
         "n": 4,
@@ -711,7 +711,7 @@
         "worlds": [
           "central-europe-19c-abstract"
         ],
-        "text": "Group theory crystallized identity and inverse as axioms you must exhibit before claiming a structure is a group. Once printed textbooks required an identity element e and an inverse a⁻¹, every new algebraic system had to show its “do nothing” and “undo” elements up front. The cancel-weight gesture became a line in a definition—small, strict, and indispensable. Print made the checklist travel; research filled it with new examples from geometry to cryptography. From permutation groups to modular arithmetic, printed examples trained eyes to spot the identity and the undo at a glance."
+        "text": "Group theory crystallized identity and inverse as axioms you must exhibit before claiming a structure is a group. Printed textbooks required an identity element e and an inverse a⁻¹; every new algebraic system had to show its “do nothing” and “undo” up front. Print made the checklist travel. From permutation groups to modular arithmetic, examples trained eyes to spot identity and undo at a glance. Research filled the printed checklist with examples from geometry to cryptography."
       }
     ]
   },
@@ -763,7 +763,7 @@
           "egypt-eastern-mediterranean",
           "mesopotamia"
         ],
-        "text": "Area began as field and floor—how much land after the flood, how many bricks for a courtyard. Egyptian and Babylonian problem texts compute areas of rectangles, triangles, and trapezoids with practical rules meant for scribes and surveyors. Exactness varied; some Egyptian circle procedures are known to be approximate, which honest history should say aloud. Still, the civic need was clear: fair shares of land and labor need numbers for surfaces, not only for counts of cattle. When taxes depend on field area, a wrong rule is not a school mistake—it is a political injury."
+        "text": "Area began as field and floor—how much land after the flood, how many bricks for a courtyard. Egyptian and Babylonian texts compute areas of rectangles, triangles, and trapezoids with practical rules for scribes and surveyors. Exactness varied; some Egyptian circle procedures are approximate. Fair shares of land and labor need numbers for surfaces. When taxes depend on field area, a wrong rule is a political injury."
       },
       {
         "n": 2,
@@ -772,7 +772,7 @@
         "worlds": [
           "greek-hellenistic"
         ],
-        "text": "Euclid and Archimedes made area a matter of proof: congruence arguments, method of exhaustion, and careful comparisons that did not rely on a single formula sheet memorized without reason. Area became something you could argue in a diagram, not only survey with a rope after the flood. Greek writing turned the farmer’s question into a theorem’s conclusion—same practical question, stricter and more portable answer across readers who never saw the original field. Manuscript copies of the Elements carried area arguments into classrooms that had never seen Egyptian flood plains."
+        "text": "Euclid and Archimedes made area a matter of proof: congruence arguments, method of exhaustion, and careful comparisons that did not rely on a memorized formula sheet. Area became something you could argue in a diagram, not only survey with a rope. Greek writing turned the farmer’s question into a theorem—same practical question, stricter answer. Manuscript Elements carried those arguments into distant classrooms."
       },
       {
         "n": 5,
@@ -782,7 +782,7 @@
           "atlantic-scientific-revolution",
           "british-industrial-engineering"
         ],
-        "text": "Planimeters traced irregular boundaries and read area off a dial—measurement without tiling the region by hand with unit squares. Analytic geometry and integral calculus treated area as an accumulated product, ready for engineering drawings and machine design. Area-sweep instruments and computed integrals kept the ancient field problem alive on the drafting table, where factories and laboratories needed surface measure as urgently as temples once did. Shipbuilders and surveyors alike needed area tools that worked on curved and irregular outlines, not only neat rectangles."
+        "text": "Planimeters traced irregular boundaries and read area off a dial—measurement without tiling by hand with unit squares. Analytic geometry and integral calculus treated area as an accumulated product for engineering drawings. Area-sweep instruments and computed integrals kept the ancient field problem alive on the drafting table. Shipbuilders needed tools that worked on curved outlines, not only neat rectangles. Factories and laboratories needed surface measure as urgently as temples once did."
       }
     ]
   },
@@ -803,7 +803,7 @@
           "mesopotamia",
           "china"
         ],
-        "text": "Volume answered container and earthwork questions: how much grain in a granary, how much earth in a ramp or canal cut. Egyptian, Babylonian, and Chinese sources give procedures for boxes, cylinders, and truncated pyramids—sometimes exact, sometimes rule-of-thumb suited to the tools at hand. The volume jar is the household face of a state problem: storage, rationing, and labor both need cubic measure. Without volume, surplus cannot be planned. Granary volume linked mathematics to famine prevention: know the cubic content, plan the year."
+        "text": "Volume answered container and earthwork questions: how much grain in a granary, how much earth in a ramp or canal. Egyptian, Babylonian, and Chinese sources give procedures for boxes, cylinders, and truncated pyramids—sometimes exact, sometimes rule-of-thumb. The volume jar is the household face of a state problem: storage, rationing, and labor need cubic measure. Know the capacity, plan the year."
       },
       {
         "n": 2,
@@ -812,7 +812,7 @@
         "worlds": [
           "greek-hellenistic"
         ],
-        "text": "Archimedes’ results on spheres, cylinders, and crowns (3rd century BCE) showed volume could be chased with rigor and clever mechanical insight, not only with gauging rods. Centuries later, Cavalieri’s principle linked equal cross-sections to equal volumes—an idea with possible Chinese precursors that historians still discuss carefully rather than settle hastily. Writing and diagram made volume more than a jar’s guess: it became a claim you could defend. Commentators who re-derived Archimedean volume results kept the standards of argument alive between golden ages."
+        "text": "Archimedes’ results on spheres, cylinders, and crowns (3rd century BCE) showed volume could be chased with rigor and mechanical insight, not only gauging rods. Cavalieri’s principle later linked equal cross-sections to equal volumes—an idea with possible Chinese precursors historians still discuss carefully. Writing and diagram made volume a claim you could defend, not only a jar’s guess. Commentators who re-derived Archimedean results kept argument standards alive between golden ages."
       },
       {
         "n": 5,
@@ -822,7 +822,7 @@
           "atlantic-scientific-revolution",
           "british-industrial-engineering"
         ],
-        "text": "Integral calculus and shop-floor gauging turned volume into both theory and industrial practice. Displacement tanks, gauging rods, and computed solids kept the ancient jar question alive in laboratories, distilleries, shipyards, and factories. When engines and pipelines need precisely known capacities, volume stops being only a school formula and becomes infrastructure you can trust under pressure—literally and figuratively. Hydraulics and thermodynamics later demanded volume measure precise enough for engines that punish small errors. From wine casks to boiler design, cubic measure became a safety discipline as much as a calculation."
+        "text": "Integral calculus and shop-floor gauging turned volume into theory and industrial practice. Displacement tanks, gauging rods, and computed solids kept the jar question alive in labs, distilleries, and shipyards. When engines and pipelines need known capacities, volume becomes infrastructure you can trust under pressure. Cubic measure became a safety discipline as much as a calculation."
       }
     ]
   },
@@ -843,7 +843,7 @@
           "egypt-eastern-mediterranean",
           "mesopotamia"
         ],
-        "text": "Surveyors and builders always lived with mismatch: a rope stretches, a cubit rod wears, a cut stone sits a finger short. Egyptian and Mesopotamian practice treated acceptable tolerance as part of the craft long before anyone wrote an error formula. Marks on rods and repeated checks against a master length were early precision culture—know how wrong you might be, then decide whether the wall still stands. Precision began as a civic judgment about “close enough for this job,” not as a decimal fetish.\n\nTolerance marks on cubit rods and repeated trial fittings were the Bronze Age’s peer review: if the joint closed, the error was forgiven; if not, the stone was recut."
+        "text": "Surveyors and builders always lived with mismatch: a rope stretches, a cubit rod wears, a stone sits a finger short. Egyptian and Mesopotamian practice treated acceptable tolerance as part of the craft long before anyone wrote an error formula. Marks on rods and checks against a master length were early precision culture—know how wrong you might be, then decide whether the wall still stands. Tolerance marks and trial fittings were Bronze Age peer review: if the joint closed, the error was forgiven."
       },
       {
         "n": 5,
@@ -853,7 +853,7 @@
           "atlantic-scientific-revolution",
           "british-industrial-engineering"
         ],
-        "text": "Brass instruments, vernier scales, and industrial gauges made precision measurable and transferable. Error theory in the Enlightenment and nineteenth century taught observers to report uncertainty beside the reading. Factories that needed interchangeable parts treated tolerance stacks as seriously as design drawings. The error bead’s lesson scaled up: every finer instrument invents a new honesty about what it cannot yet resolve.\n\nAiry’s and Gauss’s work on observational error, and Whitworth’s gauges in British workshops, turned “about right” into numbers you could contractually demand."
+        "text": "Brass instruments, vernier scales, and industrial gauges made precision measurable and transferable. Error theory in the Enlightenment and nineteenth century taught observers to report uncertainty beside the reading. Factories needing interchangeable parts treated tolerance stacks as seriously as design drawings. Airy, Gauss, and Whitworth’s gauges turned “about right” into numbers you could contractually demand. Every finer instrument invents a new honesty about what it cannot yet resolve."
       }
     ]
   },
@@ -966,7 +966,7 @@
           "egypt-eastern-mediterranean",
           "mesopotamia"
         ],
-        "text": "Magnitude is size you can compare—longer, heavier, brighter—before you necessarily assign a refined number. Early measures lined objects against rods and stones; bigger and smaller were decided in public. A magnitude bar makes comparison tactile: hold two lengths and feel which wins. Commerce and construction both begin with honest ranking of size.\n\nMarkets that lined up fish by length or grain sacks by heft were doing magnitude theory without axioms: comparative size first, counting later if dispute required it. The MARK epoch’s gift was making the idea durable in matter someone else could inspect later."
+        "text": "Magnitude is size you can compare—longer, heavier, brighter—before you assign a refined number. Early measures lined objects against rods and stones; bigger and smaller were decided in public. A magnitude bar makes comparison tactile: hold two lengths and feel which wins. Markets that lined up fish by length or grain by heft did magnitude theory without axioms: compare first, count later if dispute required it."
       },
       {
         "n": 2,
@@ -975,7 +975,7 @@
         "worlds": [
           "greek-hellenistic"
         ],
-        "text": "Greek mathematics, especially Eudoxus and Euclid’s treatment of magnitudes, separated geometric size from mere counting number and still allowed rigorous comparison and proportion. That theory underwrote incommensurable lengths without collapsing into paradox. Writing made magnitude a philosophical object: continuous size with rules, not only a market shout of “bigger!”.\n\nThe theory of proportions let Greeks compare magnitudes even when no common unit measured both—a triumph of writing over the demand for a shared tally mark. The WRITE epoch’s gift was making the idea arguable in sentences and diagrams strangers could check."
+        "text": "Greek mathematics, especially Eudoxus and Euclid’s treatment of magnitudes, separated geometric size from mere counting number and still allowed rigorous comparison and proportion. That theory underwrote incommensurable lengths without collapsing into paradox. Proportions let Greeks compare magnitudes even when no common unit measured both—writing over the demand for a shared tally mark. Magnitude became continuous size with rules, not only a market shout of “bigger!”"
       }
     ]
   },
@@ -1025,7 +1025,7 @@
         "worlds": [
           "mesopotamia"
         ],
-        "text": "A sequence is an ordered list—days of a month, rows of a table, steps of a ritual. Babylonian tablets already show number sequences and progressive problems. Ordering items in time or rank turns a heap into a story with a next. Sequences are how memory and prediction share a spine.\n\nCalendars are civilization-scale sequences: miss the next term and festivals, plantings, and tax days drift into chaos. The MARK epoch’s gift was making the idea durable in matter someone else could inspect later."
+        "text": "A sequence is an ordered list—days of a month, rows of a table, steps of a ritual. Babylonian tablets already show number sequences and progressive problems. Ordering items in time or rank turns a heap into a story with a next. Calendars are civilization-scale sequences: miss the next term and festivals, plantings, and tax days drift."
       },
       {
         "n": 3,
@@ -1036,7 +1036,7 @@
           "baghdad-islamic-persian",
           "china"
         ],
-        "text": "Recursive and arithmetic progressions became objects of calculation in Indian, Chinese, and Islamic mathematics—sums of series, rules for the nth term. Manuscript tables listed sequences you could extend by procedure. Once “what comes next?” has a formula, sequences graduate from habit to algorithm.\n\nFormulas for arithmetic and geometric progressions let clerks jump to a far term without writing every predecessor—sequence as random-access memory. The ALGORITHM epoch’s gift was turning the idea into steps apprentices could repeat without reinventing them. The ALGORITHM epoch’s gift was turning the idea into steps apprentices could repeat without reinventing them."
+        "text": "Arithmetic and recursive progressions became objects of calculation in Indian, Chinese, and Islamic mathematics—sums of series, rules for the nth term. Manuscript tables listed sequences you could extend by procedure. Formulas for arithmetic and geometric progressions let clerks jump to a far term without writing every predecessor. Once “what comes next?” has a formula, sequences graduate from habit to algorithm."
       },
       {
         "n": 4,
@@ -1046,7 +1046,7 @@
           "atlantic-scientific-revolution",
           "central-europe-19c-abstract"
         ],
-        "text": "Printed analysis treated infinite sequences as central citizens of mathematics, with limits and convergence tests. Schoolbooks drilled finite patterns; research chased infinite ones. The series chain’s simple “next link” habit grew into one of analysis’s main languages.\n\nCauchy’s and later Weierstrass’s rigor asked which infinite sequences deserve to be called convergent—print carried those tests into every analysis course. The PRINT epoch’s gift was multiplying the idea until classrooms and workshops shared one vocabulary. The PRINT epoch’s gift was multiplying the idea until classrooms and workshops shared one vocabulary."
+        "text": "Printed analysis treated infinite sequences as central citizens of mathematics, with limits and convergence tests. Schoolbooks drilled finite patterns; research chased infinite ones. Cauchy’s and later Weierstrass’s rigor asked which infinite sequences deserve to be called convergent—print carried those tests into every analysis course. The simple “next link” habit grew into one of analysis’s main printed languages."
       }
     ]
   },
@@ -1098,7 +1098,7 @@
           "mesopotamia",
           "egypt-eastern-mediterranean"
         ],
-        "text": "Tables store answers before you need them—reciprocals, products, square roots, rations. Old Babylonian mathematical tablets are famous for dense numerical tables that powered scribal work. A table is a bargain with the future: compute once, look up many times. Clay made that bargain durable.\n\nA table is also a trust object: if the reciprocal table is wrong, every division that leans on it inherits the lie. Scribal schools guarded tables accordingly. The MARK epoch’s gift was making the idea durable in matter someone else could inspect later."
+        "text": "Tables store answers before you need them—reciprocals, products, square roots, rations. Old Babylonian mathematical tablets are famous for dense numerical tables that powered scribal work. A table is a bargain with the future: compute once, look up many times. If the reciprocal table is wrong, every division that leans on it inherits the lie—so scribal schools guarded tables carefully."
       },
       {
         "n": 3,
@@ -1109,7 +1109,7 @@
           "india",
           "china"
         ],
-        "text": "Astronomical and trigonometric tables in Indian, Islamic, and Chinese traditions made prediction procedural: find the row, interpolate if needed, apply the rule. Manuscript tables were scientific infrastructure as real as observatories. Algorithms and tables traveled together along translation networks.\n\nInterpolation rules between tabulated values turned sparse tables into continuous tools—algorithm filling the gaps the scribe did not compute by hand. The ALGORITHM epoch’s gift was turning the idea into steps apprentices could repeat without reinventing them. The ALGORITHM epoch’s gift was turning the idea into steps apprentices could repeat without reinventing them."
+        "text": "Astronomical and trigonometric tables in Indian, Islamic, and Chinese traditions made prediction procedural: find the row, interpolate if needed, apply the rule. Manuscript tables were scientific infrastructure as real as observatories. Interpolation between tabulated values turned sparse tables into continuous tools—algorithm filling gaps the scribe did not compute by hand."
       },
       {
         "n": 4,
@@ -1119,7 +1119,7 @@
           "atlantic-scientific-revolution",
           "british-industrial-engineering"
         ],
-        "text": "Printed logarithm tables and nautical almanacs multiplied table culture globally. Navigation, engineering, and insurance depended on pages of precomputed values. Even after electronic calculation, the table’s idea survives in spreadsheets and databases: organized lookup beats recomputing from scratch every time.\n\nNapier and Briggs’s logarithms, printed and reprinted, shaved months from astronomical and navigational labor; ships quite literally sailed on tables. The PRINT epoch’s gift was multiplying the idea until classrooms and workshops shared one vocabulary. The PRINT epoch’s gift was multiplying the idea until classrooms and workshops shared one vocabulary."
+        "text": "Printed logarithm tables and nautical almanacs multiplied table culture globally. Navigation, engineering, and insurance depended on pages of precomputed values. Napier and Briggs’s logarithms shaved months from astronomical and navigational labor; ships quite literally sailed on tables. Even after electronic calculation, the idea survives in spreadsheets: organized lookup beats recomputing from scratch. Organized lookup still beats recomputing from scratch—now in spreadsheets and databases."
       }
     ]
   },
@@ -1140,7 +1140,7 @@
           "italian-commercial-renaissance",
           "baghdad-islamic-persian"
         ],
-        "text": "Before modern graphs, scholars plotted intensities and latitudes of forms—Nicole Oresme’s 14th-century configurations are a famous medieval step toward graphing change. The habit of aligning magnitude with a drawn length prepared later coordinate pictures. Graphs begin when comparison wants a shape, not only a number.\n\nOresme’s figurative latitudes hinted that intensity over time could be drawn—an intellectual permission slip for later scientists to plot. The ALGORITHM epoch’s gift was turning the idea into steps apprentices could repeat without reinventing them. The ALGORITHM epoch’s gift was turning the idea into steps apprentices could repeat without reinventing them."
+        "text": "Before modern graphs, scholars plotted intensities and latitudes of forms—Nicole Oresme’s 14th-century configurations are a famous medieval step toward graphing change. Aligning magnitude with a drawn length prepared later coordinate pictures. Oresme’s figurative latitudes hinted that intensity over time could be drawn—an intellectual permission slip for later scientists to plot. Graphs begin when comparison wants a shape, not only a number."
       },
       {
         "n": 4,
@@ -1150,7 +1150,7 @@
           "atlantic-scientific-revolution",
           "british-industrial-engineering"
         ],
-        "text": "Analytic geometry and cheap graph paper made plotted curves common in science and industry. Playfair’s statistical charts and engineering plots taught publics to read pictures of data. Printed graphs turned invisible trends into visible slopes anyone in the room could argue about.\n\nRailway timetables and factory output charts taught managers to manage by eye; the graph became a supervisory instrument, not only a research sketch. The PRINT epoch’s gift was multiplying the idea until classrooms and workshops shared one vocabulary. The PRINT epoch’s gift was multiplying the idea until classrooms and workshops shared one vocabulary."
+        "text": "Analytic geometry and cheap graph paper made plotted curves common in science and industry. Playfair’s statistical charts and engineering plots taught publics to read pictures of data. Railway timetables and factory output charts taught managers to manage by eye. Printed graphs turned invisible trends into visible slopes anyone in the room could argue about."
       },
       {
         "n": 6,
@@ -1159,7 +1159,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Interactive plotting software and dashboards made graphs the default face of data. Computation draws millions of points without fatigue, but the READ skill remains human: what story does the ink (or pixel) claim? Scatter boards and screens share that demand.\n\nDefault chart generators tempt misuse—3D pie charts and truncated axes—so computational abundance raised the moral stakes of graph literacy. The COMPUTE epoch’s gift was letting machines execute the idea faster than any room of clerks. The COMPUTE epoch’s gift was letting machines execute the idea faster than any room of clerks."
+        "text": "Interactive plotting software and dashboards made graphs the default face of data. Computation draws millions of points without fatigue, but the read skill remains human: what story does the pixel claim? Default chart generators tempt misuse—3D pies and truncated axes—so computational abundance raised the stakes of graph literacy. Scatter boards and screens share the same demand: read the claim, not only the ink."
       }
     ]
   },
@@ -1239,7 +1239,7 @@
           "egypt-eastern-mediterranean",
           "mesopotamia"
         ],
-        "text": "Diagrams, sketches, and figure marks made mathematics visible before it was fully verbal. Floor plans, field outlines, and schematic drawings carried geometric information across workers. Visual representation is not decoration; it is a parallel channel for exact-enough meaning when words lag.\n\nA wrong diagram could bankrupt a build; visual representation therefore carried liability, not only beauty, in temple and canal projects. The MARK epoch’s gift was making the idea durable in matter someone else could inspect later. The MARK epoch’s gift was making the idea durable in matter someone else could inspect later."
+        "text": "Diagrams, sketches, and figure marks made mathematics visible before it was fully verbal. Floor plans, field outlines, and schematic drawings carried geometric information across workers. Visual representation is not decoration; it is a parallel channel for exact-enough meaning when words lag. A wrong diagram could bankrupt a build—liability, not only beauty, in temple and canal projects."
       },
       {
         "n": 2,
@@ -1248,7 +1248,7 @@
         "worlds": [
           "greek-hellenistic"
         ],
-        "text": "Greek geometry’s diagrams were partners to proof—letters on figures tied sentences to lines. Manuscripts taught readers to see necessity in a drawing. Visual proof traditions, from Euclid to later illustrated commentaries, insisted that eyes and reason share the work.\n\nManuscripts that omitted figures often became cryptic; the visual channel was load-bearing for geometric meaning, not optional illustration. The WRITE epoch’s gift was making the idea arguable in sentences and diagrams strangers could check. The WRITE epoch’s gift was making the idea arguable in sentences and diagrams strangers could check."
+        "text": "Greek geometry’s diagrams were partners to proof—letters on figures tied sentences to lines. Manuscripts taught readers to see necessity in a drawing. From Euclid to later illustrated commentaries, eyes and reason shared the work. Manuscripts that omitted figures often became cryptic; the visual channel was load-bearing for geometric meaning, not optional illustration."
       },
       {
         "n": 4,
@@ -1258,7 +1258,7 @@
           "atlantic-scientific-revolution",
           "british-industrial-engineering"
         ],
-        "text": "Printed figures, plates, and classroom manipulatives multiplied visual access. Engineering drawing standards made visual representation a contract. Flip between picture and symbol, and understanding often clicks where prose alone stalled.\n\nCopperplate engravings and later textbook lithography raised the baseline quality of what students saw—and what they could be held responsible for seeing. The PRINT epoch’s gift was multiplying the idea until classrooms and workshops shared one vocabulary. The PRINT epoch’s gift was multiplying the idea until classrooms and workshops shared one vocabulary."
+        "text": "Printed figures, plates, and classroom manipulatives multiplied visual access. Engineering drawing standards made visual representation a contract. Copperplate engravings and later textbook lithography raised the baseline quality of what students saw. Flip between picture and symbol, and understanding often clicks where prose alone stalled. Students could be held responsible for what printed figures made visible."
       }
     ]
   },
@@ -1310,7 +1310,7 @@
           "mesopotamia",
           "china"
         ],
-        "text": "Periodicity is the return—the flood season, the moon’s phases, market weeks, ritual calendars. Early astronomers and farmers marked cycles because survival tracked repetition. Clocks and sundials later made smaller periods visible hour by hour. To notice a period is to predict the next occurrence before it arrives.\n\nLunisolar calendars are negotiated compromises between incommensurable periods—periodicity politics written into festival lists. The MARK epoch’s gift was making the idea durable in matter someone else could inspect later. The MARK epoch’s gift was making the idea durable in matter someone else could inspect later."
+        "text": "Periodicity is the return—the flood season, the moon’s phases, market weeks, ritual calendars. Early astronomers and farmers marked cycles because survival tracked repetition. Clocks and sundials later made smaller periods visible hour by hour. Lunisolar calendars are negotiated compromises between incommensurable periods—periodicity politics written into festival lists. To notice a period is to predict the next occurrence."
       },
       {
         "n": 5,
@@ -1320,7 +1320,7 @@
           "atlantic-scientific-revolution",
           "french-enlightenment-revolutionary"
         ],
-        "text": "Pendulums, geared clocks, and wave studies turned periodicity into measurable frequency. Fourier analysis (nineteenth century) then treated complex motions as sums of periodic pieces. Mechanized timekeeping and analytic wave theory made “again and again” a laboratory object with units.\n\nHarrison’s chronometers made a portable period (the second) accurate enough to solve longitude, tying periodicity to empire and survival at sea. The MECHANIZE epoch’s gift was embodying the idea in instruments that enforced it with gears and scales. The MECHANIZE epoch’s gift was embodying the idea in instruments that enforced it with gears and scales."
+        "text": "Pendulums, geared clocks, and wave studies turned periodicity into measurable frequency. Fourier analysis (nineteenth century) treated complex motions as sums of periodic pieces. Harrison’s chronometers made a portable period—the second—accurate enough to solve longitude at sea. Mechanized timekeeping made “again and again” a laboratory object with units. Analytic wave theory made “again and again” measurable with frequency units."
       }
     ]
   },
@@ -1340,7 +1340,7 @@
           "mesopotamia",
           "egypt-eastern-mediterranean"
         ],
-        "text": "Modelling is using mathematics as a stand-in for the world—grain problems, land shapes, ration plans. Babylonian and Egyptian exercise texts already idealize messy reality into solvable forms. A model is a deliberate simplification you agree to trust for a purpose, then revise when the world talks back.\n\nSchool problem texts that pretend a field is a perfect trapezoid already teach modelling ethics: name your idealization or be ruled by it silently. The MARK epoch’s gift was making the idea durable in matter someone else could inspect later."
+        "text": "Modelling uses mathematics as a stand-in for the world—grain problems, land shapes, ration plans. Babylonian and Egyptian exercise texts already idealize messy reality into solvable forms. A model is a deliberate simplification you trust for a purpose, then revise when the world talks back. School texts that pretend a field is a perfect trapezoid already teach modelling ethics: name your idealization."
       },
       {
         "n": 5,
@@ -1350,7 +1350,7 @@
           "atlantic-scientific-revolution",
           "british-industrial-engineering"
         ],
-        "text": "Scientific Revolution models of motion and light, then industrial models of machines and markets, made modelling an explicit craft. Model benches, scale experiments, and equations shared the load. Naming “mathematical modelling” in modern pedagogy only labeled a habit as old as applied problem texts.\n\nBallistic tables and steam-engine indicators were models with dials—mathematics welded to instruments that talked back with friction and heat. The MECHANIZE epoch’s gift was embodying the idea in instruments that enforced it with gears and scales. The MECHANIZE epoch’s gift was embodying the idea in instruments that enforced it with gears and scales."
+        "text": "Scientific Revolution models of motion and light, then industrial models of machines and markets, made modelling an explicit craft. Model benches, scale experiments, and equations shared the load. Ballistic tables and steam-engine indicators were models with dials—mathematics welded to instruments that talked back with friction and heat. Naming “mathematical modelling” in pedagogy only labeled a habit as old as applied problem texts."
       },
       {
         "n": 6,
@@ -1359,7 +1359,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Simulation and computational models let parameters sweep through thousands of futures before steel is cut. Modelling now pairs equations with code, but the MARK-era bargain remains: simplify, predict, check against the world, humble the model when it fails.\n\nClimate and epidemiological models now carry public consequences; the old modelling virtues—state assumptions, test, revise—became civic duties. The COMPUTE epoch’s gift was letting machines execute the idea faster than any room of clerks. The COMPUTE epoch’s gift was letting machines execute the idea faster than any room of clerks."
+        "text": "Simulation and computational models let parameters sweep through thousands of futures before steel is cut. Modelling now pairs equations with code, but the old bargain remains: simplify, predict, check against the world, humble the model when it fails. Climate and epidemiological models carry public consequences; stating assumptions, testing, and revising became civic duties. The MARK-era bargain—simplify, predict, check—scaled into code without changing its ethics."
       }
     ]
   },
@@ -1438,7 +1438,7 @@
           "egypt-eastern-mediterranean",
           "mesopotamia"
         ],
-        "text": "Perimeter is the edge length of a field or wall—the ribbon around a region. Survey after flood, fence planning, and brick counts all needed the boundary measure as much as the interior. A perimeter ribbon makes the edge a thing you can straighten and compare. Borders are political; perimeters make them numeric.\n\nCity walls and property ditches made perimeter a security and legal measure; length of boundary could matter more than area in a dispute. The MARK epoch’s gift was making the idea durable in matter someone else could inspect later."
+        "text": "Perimeter is the edge length of a field or wall—the ribbon around a region. Survey after flood, fence planning, and brick counts needed the boundary measure as much as the interior. City walls and property ditches made perimeter a security and legal measure; length of boundary could matter more than area in a dispute. Borders are political; perimeters make them numeric."
       },
       {
         "n": 2,
@@ -1447,7 +1447,7 @@
         "worlds": [
           "greek-hellenistic"
         ],
-        "text": "Greek geometry related perimeter to figures systematically—polygons, circles, isoperimetric questions about which shape encloses most for a given edge. Writing turned the fence problem into theorems. The boundary became a mathematical object with properties, not only a pile of fencing posts.\n\nIsoperimetric problems—why a circle seems thrifty with perimeter—linked the fence question to deep variational thinking still alive in analysis. The WRITE epoch’s gift was making the idea arguable in sentences and diagrams strangers could check. The WRITE epoch’s gift was making the idea arguable in sentences and diagrams strangers could check."
+        "text": "Greek geometry related perimeter to figures systematically—polygons, circles, and isoperimetric questions about which shape encloses most for a given edge. Writing turned the fence problem into theorems. The boundary became a mathematical object with properties, not only a pile of fencing posts. Isoperimetric problems linked the fence question to variational thinking still alive in analysis. The fence problem became theorems with properties, portable across readers who never saw the field."
       }
     ]
   },
@@ -1497,7 +1497,7 @@
           "mesopotamia",
           "china"
         ],
-        "text": "Symmetry appears in ornament, bodies, and buildings—mirror balance, repeating friezes, radial designs. Artisans practiced group-like moves long before group theory. Mirror symmetry tools teach the flip that leaves a pattern looking unchanged. Cultures worldwide prized symmetry as beauty and as structural sense.\n\nFrieze patterns on palaces and pottery are frozen group theory; artisans closed patterns under flip and slide without writing axioms. The MARK epoch’s gift was making the idea durable in matter someone else could inspect later. The MARK epoch’s gift was making the idea durable in matter someone else could inspect later."
+        "text": "Symmetry appears in ornament, bodies, and buildings—mirror balance, repeating friezes, radial designs. Artisans practiced group-like moves long before group theory. Mirror tools teach the flip that leaves a pattern looking unchanged. Frieze patterns on palaces and pottery are frozen group theory; artisans closed patterns under flip and slide without writing axioms. Cultures worldwide prized symmetry as beauty and as structural sense."
       },
       {
         "n": 5,
@@ -1507,7 +1507,7 @@
           "central-europe-19c-abstract",
           "british-industrial-engineering"
         ],
-        "text": "Nineteenth-century geometry and crystallography named symmetry operations systematically; Klein’s Erlangen program tied geometry to transformation groups. Industrial pattern and molecular science both needed that language. Symmetry matured from decorative instinct to classification of what stays the same when you move the world.\n\nSpectroscopy and crystal lattices demanded symmetry language precise enough for chemistry; mathematics repaid ornament’s ancient debt with classification tables. The MECHANIZE epoch’s gift was embodying the idea in instruments that enforced it with gears and scales. The MECHANIZE epoch’s gift was embodying the idea in instruments that enforced it with gears and scales."
+        "text": "Nineteenth-century geometry and crystallography named symmetry operations systematically; Klein’s Erlangen program tied geometry to transformation groups. Industrial pattern and molecular science both needed that language. Spectroscopy and crystal lattices demanded symmetry precise enough for chemistry. Symmetry matured from decorative instinct to classification of what stays the same when you move the world. Mathematics repaid ornament’s ancient debt with classification tables chemists could use."
       }
     ]
   },
@@ -1526,7 +1526,7 @@
         "worlds": [
           "greek-hellenistic"
         ],
-        "text": "Moving a figure without tearing it—sliding, turning—was implicit in Greek superposition arguments. Transformations are the verbs of geometry: what you do to a shape. Writing about constructions already choreographed those moves even when the word “transformation” waited centuries.\n\nConstructions that copy a segment or erect a perpendicular are transformation recipes written as ritual steps with compass and straightedge. The WRITE epoch’s gift was making the idea arguable in sentences and diagrams strangers could check. The WRITE epoch’s gift was making the idea arguable in sentences and diagrams strangers could check."
+        "text": "Moving a figure without tearing it—sliding, turning—was implicit in Greek superposition arguments. Transformations are the verbs of geometry: what you do to a shape. Constructions that copy a segment or erect a perpendicular are transformation recipes written as ritual steps with compass and straightedge. Writing about constructions already choreographed those moves even when the word “transformation” waited centuries."
       },
       {
         "n": 5,
@@ -1536,7 +1536,7 @@
           "central-europe-19c-abstract",
           "atlantic-scientific-revolution"
         ],
-        "text": "Analytic formulas for rotations and projections, pantographs, and optical instruments made transformations calculable and buildable. Klein’s insight—geometry as the study of invariants under transformation groups—reframed the field. Transform lenses in teaching echo the idea: change the view, track what survives.\n\nComputer graphics and robotic motion planning later inherited the same verbs—translate, rotate, project—now executed by matrices at frame rate. The MECHANIZE epoch’s gift was embodying the idea in instruments that enforced it with gears and scales. The MECHANIZE epoch’s gift was embodying the idea in instruments that enforced it with gears and scales."
+        "text": "Analytic formulas for rotations and projections, pantographs, and optical instruments made transformations calculable and buildable. Klein’s insight—geometry as the study of invariants under transformation groups—reframed the field. Computer graphics and robotic motion planning later inherited the same verbs—translate, rotate, project—now executed by matrices at frame rate. Change the view, track what survives: invariants became the point of the transform."
       }
     ]
   },
@@ -1587,7 +1587,7 @@
         "worlds": [
           "greek-hellenistic"
         ],
-        "text": "A logical statement is a claim that can be true or false—Aristotle’s organon and Euclidean propositions both depend on assertable sentences. Greek mathematics flourished by writing statements precise enough to prove or refute. Proof seals and scrolls symbolize the moment a claim enters the tribunal of reason.\n\nA proposition’s wording was half the mathematics: vague statements cannot be proved, only gestured at. Greek care with language was a technical invention. The WRITE epoch’s gift was making the idea arguable in sentences and diagrams strangers could check."
+        "text": "A logical statement is a claim that can be true or false—Aristotle’s organon and Euclidean propositions both depend on assertable sentences. Greek mathematics flourished by writing statements precise enough to prove or refute. A proposition’s wording was half the mathematics: vague statements cannot be proved, only gestured at. Greek care with language was a technical invention—claims that enter the tribunal of reason."
       },
       {
         "n": 7,
@@ -1597,7 +1597,7 @@
           "american-global-computational",
           "central-europe-19c-abstract"
         ],
-        "text": "Symbolic logic and proof assistants treat statements as objects machines can check. Frege, Russell, and later type theories made logical form exact enough for silicon scrutiny. The ancient demand—say it so it can be judged—now has automated jurors, while humans still choose which statements matter.\n\nAutomated theorem provers still stumble on informal prose; the WRITE-era demand for precise statements remains the bottleneck AI must respect. The INTELLIGENCE epoch’s gift is helping mathematics search and check itself with new kinds of assistants. The INTELLIGENCE epoch’s gift is helping mathematics search and check itself with new kinds of assistants."
+        "text": "Symbolic logic and proof assistants treat statements as objects machines can check. Frege, Russell, and later type theories made logical form exact enough for silicon scrutiny. Automated theorem provers still stumble on informal prose; the demand for precise statements remains the bottleneck. The ancient demand—say it so it can be judged—now has automated jurors, while humans still choose which statements matter. Automated jurors still need humans to choose which statements are worth the tribunal."
       }
     ]
   },
@@ -1645,7 +1645,7 @@
         "worlds": [
           "greek-hellenistic"
         ],
-        "text": "A counterexample is one stubborn case that kills a universal boast. Greek dialectic and mathematical criticism thrived on producing the pebble that does not fit the claimed pile. Counterexamples enforce honesty: if you said “all,” show me why this one fails—or withdraw. They are the immune system of general claims. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop."
+        "text": "A counterexample is one stubborn case that kills a universal boast. Greek dialectic and mathematical criticism thrived on producing the pebble that does not fit the claimed pile. Counterexamples enforce honesty: if you said “all,” show why this one fails—or withdraw. They are the immune system of general claims. Written argument let strangers test the claim without standing in the original workshop."
       },
       {
         "n": 4,
@@ -1655,7 +1655,7 @@
           "central-europe-19c-abstract",
           "french-enlightenment-revolutionary"
         ],
-        "text": "Printed textbooks and research journals made sharing counterexamples a sport and a duty. Analysis in particular learned humility from pathological examples that shattered naive intuitions about continuity and convergence. Classroom “find a counterexample” drills are the democratic heirs of that critical culture. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+        "text": "Printed textbooks and research journals made sharing counterexamples a sport and a duty. Analysis learned humility from pathological examples that shattered naive intuitions about continuity and convergence. Classroom “find a counterexample” drills are the democratic heirs of that critical culture. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Distant classrooms could share the same critical exercises and standards."
       }
     ]
   },
@@ -1823,7 +1823,7 @@
           "mesopotamia",
           "egypt-eastern-mediterranean"
         ],
-        "text": "Accumulation is the running total—grain into a granary, days into a season, interest into a debt. Ledgers and measuring cups made buildup visible. Civilizations that could not track accumulation lost surplus to confusion. The accumulation cup is household calculus before the integral had a name. Durable marks let later workers audit the claim without trusting a single memory. Durable marks let later workers audit the claim without trusting a single memory. Durable marks let later workers audit the claim without trusting a single memory. Durable marks let later workers audit the claim without trusting a single memory."
+        "text": "Accumulation is the running total—grain into a granary, days into a season, interest into a debt. Ledgers and measuring cups made buildup visible. Civilizations that could not track accumulation lost surplus to confusion. The accumulation cup is household calculus before the integral had a name. Durable marks let later workers audit the total without trusting a single memory. Surplus planning lived or died on whether the running total could be trusted."
       },
       {
         "n": 5,
@@ -1833,7 +1833,7 @@
           "atlantic-scientific-revolution",
           "british-industrial-engineering"
         ],
-        "text": "Integral ideas and integrating instruments treated accumulation as area under change. Planimeters and later numerical integrators embodied the running total in mechanism. Physics and finance both speak accumulation fluently: charge, work, balance—quantities that pile according to a rate. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+        "text": "Integral ideas and integrating instruments treated accumulation as area under change. Planimeters and later numerical integrators embodied the running total in mechanism. Physics and finance both speak accumulation fluently: charge, work, balance—quantities that pile according to a rate. Instruments enforced with dials what prose only advised. Accumulation left the granary cup and entered the drafting room."
       }
     ]
   },
@@ -1883,7 +1883,7 @@
           "egypt-eastern-mediterranean",
           "mesopotamia"
         ],
-        "text": "Multiplication began as repeated joining—Egyptian doubling, Babylonian tables, areas of rectangles. It answered “how many in all?” when groups of equal size stacked. Tables and strips made the operation look-uppable. Trade scaled faster once multiplication left the slow lane of adding one by one. Durable marks let later workers audit the claim without trusting a single memory. Durable marks let later workers audit the claim without trusting a single memory. Durable marks let later workers audit the claim without trusting a single memory. Durable marks let later workers audit the claim without trusting a single memory."
+        "text": "Multiplication began as repeated joining—Egyptian doubling, Babylonian tables, areas of rectangles. It answered “how many in all?” when groups of equal size stacked. Tables and strips made the operation look-uppable. Trade scaled faster once multiplication left the slow lane of adding one by one. Marks and tables let later workers check the product without trusting a single memory."
       },
       {
         "n": 3,
@@ -1894,7 +1894,7 @@
           "india",
           "baghdad-islamic-persian"
         ],
-        "text": "Lattice methods, rod calculus, and Hindu–Arabic algorithms turned multiplication into compact column procedures. Islamic and European merchants adopted faster hands. Multiplication strips and grid methods in classrooms still echo those board techniques. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion."
+        "text": "Lattice methods, rod calculus, and Hindu–Arabic algorithms turned multiplication into compact column procedures. Islamic and European merchants adopted faster hands. Classroom grid methods still echo those board techniques. Named steps let apprentices repeat the method without reinventing each motion—multiplication as shared craft. Faster column methods turned piled groups into a clerk skill you could audit."
       },
       {
         "n": 6,
@@ -1903,7 +1903,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Hardware multipliers and big-integer libraries made multiplication a primitive of computation. Cryptography and graphics spend fortunes of cycles multiplying. The ancient “groups of” question now runs in silicon pipelines. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+        "text": "Hardware multipliers and big-integer libraries made multiplication a primitive of computation. Cryptography and graphics spend fortunes of cycles multiplying. The ancient “groups of” question now runs in silicon pipelines. What once filled merchant boards now finishes in nanoseconds inside every chip. Multiplication left the merchant board and entered every arithmetic unit."
       }
     ]
   },
@@ -1923,7 +1923,7 @@
           "egypt-eastern-mediterranean",
           "mesopotamia"
         ],
-        "text": "Division is sharing out or measuring how many times one quantity fits in another. Egyptian unit-fraction recipes and Babylonian reciprocals tackled it with local style. Fair shares of bread and land made division a moral algorithm as much as a numeric one. Durable marks let later workers audit the claim without trusting a single memory. Durable marks let later workers audit the claim without trusting a single memory. Durable marks let later workers audit the claim without trusting a single memory. Durable marks let later workers audit the claim without trusting a single memory."
+        "text": "Division is sharing out or measuring how many times one quantity fits in another. Egyptian unit-fraction recipes and Babylonian reciprocals tackled it with local style. Fair shares of bread and land made division a moral algorithm as much as a numeric one. Marks and measures let later workers audit the share without trusting a single memory. Fair shares made the numeric procedure a moral algorithm as well."
       },
       {
         "n": 3,
@@ -1934,7 +1934,7 @@
           "china",
           "baghdad-islamic-persian"
         ],
-        "text": "Long division algorithms, abacus clearings, and reciprocal multiplication standardized the undo of multiplication. Division boards and galley methods trained clerks who kept cities fed and taxed. Remainders became first-class citizens of the procedure, not embarrassments. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion."
+        "text": "Long division algorithms, abacus clearings, and reciprocal multiplication standardized the undo of multiplication. Division boards and galley methods trained clerks who kept cities fed and taxed. Remainders became first-class citizens of the procedure, not embarrassments. Named steps let apprentices repeat the method and reconcile ledgers at a distance. Standardization mattered: shared division recipes reconciled distant offices."
       }
     ]
   },
@@ -1986,7 +1986,7 @@
           "egypt-eastern-mediterranean",
           "mesopotamia"
         ],
-        "text": "Fractions name parts of a whole—Egyptian unit fractions, Babylonian sexagesimal shards, shared loaves and fields. Pie wedges and fraction bars continue that part-whole talk. Early fractions were as much about fair division as about abstract numbers between integers. Durable marks let later workers audit the claim without trusting a single memory. Durable marks let later workers audit the claim without trusting a single memory. Durable marks let later workers audit the claim without trusting a single memory. Durable marks let later workers audit the claim without trusting a single memory."
+        "text": "Fractions name parts of a whole—Egyptian unit fractions, Babylonian sexagesimal shards, shared loaves and fields. Pie wedges and fraction bars continue that part-whole talk. Early fractions were as much about fair division as about abstract numbers between integers. Marks that name a part let later workers audit shares without trusting a single memory."
       },
       {
         "n": 3,
@@ -1997,7 +1997,7 @@
           "baghdad-islamic-persian",
           "china"
         ],
-        "text": "General common fractions with algorithms for addition and multiplication matured across Indian, Chinese, and Islamic mathematics, then into Europe. Decimal fractions later competed with sexagesimal habits. Procedures for equivalent fractions made parts comparable across differently sliced pies. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion."
+        "text": "General common fractions with algorithms for addition and multiplication matured across Indian, Chinese, and Islamic mathematics, then into Europe. Decimal fractions later competed with sexagesimal habits. Procedures for equivalent fractions made parts comparable across differently sliced pies. Named steps turned part-whole talk into repeatable arithmetic."
       },
       {
         "n": 4,
@@ -2007,7 +2007,7 @@
           "italian-commercial-renaissance",
           "atlantic-scientific-revolution"
         ],
-        "text": "Printed arithmetic popularized fraction notation and decimal points for commerce and science. Stevin’s decimal advocacy and schoolbooks fought for clarity. Fractions became everyone’s tool, not only the scribe’s specialty. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+        "text": "Printed arithmetic popularized fraction notation and decimal points for commerce and science. Stevin’s decimal advocacy and schoolbooks fought for clarity. Fractions became everyone’s tool, not only the scribe’s specialty. Shared print notation let distant classrooms drill the same part-whole exercises. Shared fraction notation let commerce and classrooms slice the same wholes the same way."
       }
     ]
   },
@@ -2086,7 +2086,7 @@
           "mesopotamia",
           "egypt-eastern-mediterranean"
         ],
-        "text": "Rate is change per unit—distance per day, work per worker, interest per season. Hourglasses and travel logs made rates tangible. Early accounts already asked how fast surplus grows or food dwindles. Rate is timeful arithmetic. Durable marks let later workers audit the claim without trusting a single memory. Durable marks let later workers audit the claim without trusting a single memory. Durable marks let later workers audit the claim without trusting a single memory. Durable marks let later workers audit the claim without trusting a single memory."
+        "text": "Rate is change per unit—distance per day, work per worker, interest per season. Hourglasses and travel logs made rates tangible. Early accounts already asked how fast surplus grows or food dwindles. Rate is timeful arithmetic: not only how much, but how quickly. Marks that track change over time let later workers audit the pace of a journey or a debt. Early accounts asked how fast surplus grows or food dwindles—timeful arithmetic."
       },
       {
         "n": 5,
@@ -2096,7 +2096,7 @@
           "atlantic-scientific-revolution",
           "british-industrial-engineering"
         ],
-        "text": "Velocity, fluxions, and industrial throughput put rates at the center of science and factories. Gauges and tachometers displayed rate on dials. Calculus named instantaneous rate; engines demanded average rates you could fuel. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+        "text": "Velocity, fluxions, and industrial throughput put rates at the center of science and factories. Gauges and tachometers displayed rate on dials. Calculus named instantaneous rate; engines demanded average rates you could fuel. Instruments made “how fast” a reading you could contract for, not only a traveller’s guess. Rate left the travel log and entered the factory floor."
       }
     ]
   },
@@ -2146,7 +2146,7 @@
         "worlds": [
           "greek-hellenistic"
         ],
-        "text": "Factors and divisibility ask what multiplies into a number and what divides it evenly. Euclid’s number theory books treated even/odd, primes, and common measures with proof. A factor tree turns that structure into a picture. Divisibility is arithmetic’s grammar of building blocks. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop."
+        "text": "Factors and divisibility ask what multiplies into a number and what divides it evenly. Euclid’s number theory books treated even/odd, primes, and common measures with proof. A factor tree turns that structure into a picture. Divisibility is arithmetic’s grammar of building blocks. Written argument let strangers test factor claims without standing in the original workshop."
       },
       {
         "n": 3,
@@ -2157,7 +2157,7 @@
           "china",
           "baghdad-islamic-persian"
         ],
-        "text": "Divisibility rules and factor algorithms served calendars, combinatorics, and commercial packing. Procedural cultures made “does it divide?” a quick check before heavier work. Factorization became both craft and, much later, cryptographic hardness. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion."
+        "text": "Divisibility rules and factor algorithms served calendars, combinatorics, and commercial packing. Procedural cultures made “does it divide?” a quick check before heavier work. Factorization became both craft and, much later, cryptographic hardness. Named steps let apprentices test divisibility without reinventing each trial. Quick divisibility checks saved heavier factor work for when packing or calendars needed it."
       }
     ]
   },
@@ -2176,7 +2176,7 @@
         "worlds": [
           "greek-hellenistic"
         ],
-        "text": "Common factors—especially the greatest—measure shared structure between numbers. Euclid’s algorithm for the GCD is one of mathematics’ oldest surviving recipes still taught by name. GCD rings in teaching echo pairwise reduction. Reducing fractions rests on this shared spine. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop."
+        "text": "Common factors—especially the greatest—measure shared structure between numbers. Euclid’s algorithm for the GCD is one of mathematics’ oldest surviving recipes still taught by name. Reducing fractions rests on this shared spine. Written proofs let strangers verify the common measure without standing in the original workshop."
       },
       {
         "n": 3,
@@ -2187,7 +2187,7 @@
           "india",
           "baghdad-islamic-persian"
         ],
-        "text": "Chinese remainder thinking and Indian number theory cultivated related modular and common-measure techniques. The Euclidean algorithm traveled and mutated across languages. Common factors became a workhorse for calendars, gear ratios, and fraction cleanup. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion."
+        "text": "Chinese remainder thinking and Indian number theory cultivated related modular and common-measure techniques. The Euclidean algorithm traveled and mutated across languages. Common factors became a workhorse for calendars, gear ratios, and fraction cleanup. Named steps made GCD a repeatable clerk skill, not only a theorist’s curiosity. Gear ratios and calendars both leaned on shared common-measure craft."
       }
     ]
   },
@@ -2208,7 +2208,7 @@
           "baghdad-islamic-persian",
           "india"
         ],
-        "text": "Variables hold open places for numbers not yet fixed—rhetorical “thing” in Islamic algebra, syncopated marks, later Latin letters. Al-Khwārizmī’s problems treat unknowns as objects you can operate on. Letter balances dramatize unknowns seeking equilibrium. Variables turn puzzles into objects. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion."
+        "text": "Variables hold open places for numbers not yet fixed—rhetorical “thing” in Islamic algebra, syncopated marks, later Latin letters. Al-Khwārizmī’s problems treat unknowns as objects you can operate on. Letter balances dramatize unknowns seeking equilibrium. Variables turn puzzles into objects you can manipulate before the value is known. The open place for an unknown made puzzles into operable objects."
       },
       {
         "n": 4,
@@ -2218,7 +2218,7 @@
           "italian-commercial-renaissance",
           "atlantic-scientific-revolution"
         ],
-        "text": "Viète and Descartes popularized literal notation that print could standardize. Variables became the everyday furniture of science. Once letters sat in type, formulas could migrate across borders with less rhetorical fog. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+        "text": "Viète and Descartes popularized literal notation that print could standardize. Variables became the everyday furniture of science. Once letters sat in type, formulas could migrate across borders with less rhetorical fog. Printed letters made the unknown a shared symbol, not a local phrase. The unknown became a portable letter anyone with the same typeface could share."
       }
     ]
   },
@@ -2237,7 +2237,7 @@
         "worlds": [
           "baghdad-islamic-persian"
         ],
-        "text": "An expression is a recipe for a value built from numbers, operations, and later letters—before it is set equal to anything. Rhetorical algebra spoke expressions in sentences; symbolism compressed them. Expression slates invite building and reading structure. Parsing an expression is already mathematical literacy. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion."
+        "text": "An expression is a recipe for a value built from numbers, operations, and later letters—before it is set equal to anything. Rhetorical algebra spoke expressions in sentences; symbolism compressed them. Parsing an expression is already mathematical literacy: reading structure, not only computing a final number. Expression slates invite building and reading that structure by hand."
       },
       {
         "n": 4,
@@ -2247,7 +2247,7 @@
           "atlantic-scientific-revolution",
           "italian-commercial-renaissance"
         ],
-        "text": "Printed symbolic expressions with parentheses and operator conventions reduced ambiguity. School algebra became largely the art of transforming expressions. Typesetting rules quietly decided how generations would see mathematical phrases. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+        "text": "Printed symbolic expressions with parentheses and operator conventions reduced ambiguity. School algebra became largely the art of transforming expressions. Typesetting rules quietly decided how generations would see mathematical phrases. Shared print conventions let distant classrooms rewrite the same expression the same way. Parentheses and operator precedence in type quietly taught generations how to parse math."
       }
     ]
   },
@@ -2267,7 +2267,7 @@
           "baghdad-islamic-persian",
           "india"
         ],
-        "text": "Substitution plugs a known value or expression into a placeholder—evaluating a recipe at a point. Algebraic problem solutions lean on replacing the “thing” with a number that works. Subst-slots in teaching make the plug-in gesture obvious. Substitution is obedience to a pattern with a new inhabitant. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion."
+        "text": "Substitution plugs a known value or expression into a placeholder—evaluating a recipe at a point. Algebraic problem solutions lean on replacing the “thing” with a number that works. Subst-slots in teaching make the plug-in gesture obvious. Substitution is obedience to a pattern with a new inhabitant. Plug-in evaluation turned a pattern into a number at a chosen point."
       },
       {
         "n": 6,
@@ -2276,7 +2276,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Programming languages elevated substitution and evaluation to core semantics. Computer algebra substitutes at scales humans avoid. The ancient plug-in move became the heartbeat of interpreters and symbolic engines. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+        "text": "Programming languages elevated substitution and evaluation to core semantics. Computer algebra substitutes at scales humans avoid. The ancient plug-in move became the heartbeat of interpreters and symbolic engines. Every function call is substitution wearing formal clothes. Substitution left the algebra slate and entered every interpreter."
       }
     ]
   },
@@ -2296,7 +2296,7 @@
           "baghdad-islamic-persian",
           "china"
         ],
-        "text": "Simplification rewrites an expression into a clearer equivalent—cancel, combine, reduce. Algebraic traditions prized forms that revealed structure or eased the next step. Simplify-shears cut away clutter without changing value. Judging what counts as “simpler” is partly convention, partly goal-dependent. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion."
+        "text": "Simplification rewrites an expression into a clearer equivalent—cancel, combine, reduce. Algebraic traditions prized forms that revealed structure or eased the next step. Judging what counts as “simpler” is partly convention, partly goal-dependent. Named rewrite steps let apprentices tidy expressions without changing their value. Clearer equivalents revealed structure or eased the next algebraic step."
       },
       {
         "n": 4,
@@ -2306,7 +2306,7 @@
           "atlantic-scientific-revolution",
           "central-europe-19c-abstract"
         ],
-        "text": "Printed curricula standardized canonical forms—reduced fractions, collected terms, factored polynomials. Examinations rewarded simplification as civic neatness. CAS tools later automated many simplifications, shifting human work toward choosing which form serves the question. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+        "text": "Printed curricula standardized canonical forms—reduced fractions, collected terms, factored polynomials. Examinations rewarded simplification as civic neatness. CAS tools later automated many simplifications, shifting human work toward choosing which form serves the question. Print made “simplified” a shared standard across classrooms. “Simplified” became a gradeable civic standard, not only a private preference."
       }
     ]
   },
@@ -2446,7 +2446,7 @@
           "baghdad-islamic-persian",
           "china"
         ],
-        "text": "Powers pack repeated multiplication—squares and cubes first for area and volume, then higher for pure calculation. Indian and Islamic mathematicians handled large powers with place-value ease; Chinese texts likewise. Power towers in teaching dramatize stacked exponents carefully. Exponent rules grew as bookkeeping for repeated factors. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion."
+        "text": "Powers pack repeated multiplication—squares and cubes first for area and volume, then higher for pure calculation. Indian and Islamic mathematicians handled large powers with place-value ease; Chinese texts likewise. Exponent rules grew as bookkeeping for repeated factors. Named steps let apprentices raise and combine powers without reinventing each multiplication. Stacked exponents needed careful bookkeeping once powers left area and volume alone."
       },
       {
         "n": 4,
@@ -2455,7 +2455,7 @@
         "worlds": [
           "atlantic-scientific-revolution"
         ],
-        "text": "Symbolic exponents and logarithms (which linearize powers) flooded printed science. Exponential notation compressed rhetoric about “squared” and “cubed.” Powers became the native tongue of growth, decay, and scientific law in type. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+        "text": "Symbolic exponents and logarithms (which linearize powers) flooded printed science. Exponential notation compressed rhetoric about “squared” and “cubed.” Powers became the native tongue of growth, decay, and scientific law in type. Print made exponent notation a shared vocabulary across laboratories and schools. Exponents left rhetorical speech and entered every printed law of nature."
       }
     ]
   },
@@ -2505,7 +2505,7 @@
           "atlantic-scientific-revolution",
           "french-enlightenment-revolutionary"
         ],
-        "text": "A function assigns to each allowable input a definite output—Euler’s and later Dirichlet’s clarifying language grew in print-era analysis. Function machines in classrooms turn the abstract rule into a hopper and chute. Astronomy’s tables were functions before the word settled. Dependence became speakable. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+        "text": "A function assigns to each allowable input a definite output—Euler’s and later Dirichlet’s clarifying language grew in print-era analysis. Astronomy’s tables were functions before the word settled. Function machines in classrooms turn the abstract rule into a hopper and chute. Dependence became speakable: one input, one determined output, shared across textbooks. Dependence became speakable across astronomy tables and school function machines alike."
       },
       {
         "n": 6,
@@ -2514,7 +2514,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Programming made functions procedural citizens—callable, composable, testable. Spreadsheets are grids of tiny functions. The PRINT-era idea of a definite assignment now runs as code paths with types and side effects to manage. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+        "text": "Programming made functions procedural citizens—callable, composable, testable. Spreadsheets are grids of tiny functions. The print-era idea of a definite assignment now runs as code paths with types and side effects to manage. What once lived in tables and formulas now executes as named routines. Dependence left the textbook definition and entered every call stack."
       }
     ]
   },
@@ -2534,7 +2534,7 @@
           "atlantic-scientific-revolution",
           "british-industrial-engineering"
         ],
-        "text": "Functions wear many costumes: formulas, tables, graphs, verbal rules. Print culture and engineering practice taught switching among them. A function machine with a table and a graph nearby preaches multiple representations. Choosing the right costume often is the solution strategy. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+        "text": "Functions wear many costumes: formulas, tables, graphs, verbal rules. Print culture and engineering practice taught switching among them. Choosing the right costume often is the solution strategy. A function machine with a table and a graph nearby preaches multiple representations as one idea. Switching costumes—formula, table, graph—often is the solution strategy itself."
       },
       {
         "n": 6,
@@ -2543,7 +2543,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Software plots, interpolates, and symbolically differentiates representations on demand. Linked views make the old classroom advice interactive. Representation-changing remains the skill; silicon only shortens the redraw. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+        "text": "Software plots, interpolates, and symbolically differentiates representations on demand. Linked views make the old classroom advice interactive. Representation-changing remains the skill; silicon only shortens the redraw. Switching among formula, table, and graph is still the human move—machines just keep pace. Multiple representations left the wall chart and entered linked interactive views."
       }
     ]
   },
@@ -2622,7 +2622,7 @@
           "british-industrial-engineering",
           "french-enlightenment-revolutionary"
         ],
-        "text": "Typical values—means, medians, modes—summarize a crowd with one civic number. Early statistics and social arithmetic in print sought “the average man” and fair rates. Bell jars and magnitude bars gesture at middle tendency. Centers help decisions when listing every datum would drown the meeting. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+        "text": "Typical values—means, medians, modes—summarize a crowd with one civic number. Early statistics and social arithmetic in print sought “the average man” and fair rates. Centers help decisions when listing every datum would drown the meeting. Print spread the vocabulary of averages until distant classrooms shared the same summary tools. One civic number stood in for a crowd when listing every datum would drown the meeting."
       },
       {
         "n": 6,
@@ -2631,7 +2631,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Spreadsheet averages and dashboards made centers ubiquitous—and easy to misuse when distributions skew. Robust statistics warn when the mean lies. Computation multiplied center-taking; judgment about which center still matters. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+        "text": "Spreadsheet averages and dashboards made centers ubiquitous—and easy to misuse when distributions skew. Robust statistics warn when the mean lies. Computation multiplied center-taking; judgment about which center still matters. Cheap averages demand expensive care about shape and outliers. Center-taking left the ledger and entered every dashboard—still needing judgment."
       }
     ]
   },
@@ -2710,7 +2710,7 @@
           "atlantic-scientific-revolution",
           "central-europe-19c-abstract"
         ],
-        "text": "Constraints fence the allowed; solution sets collect what still fits. Algebraic geometry and later linear programming live on this language. Constraint fences in teaching make “inside the rules” visible. Many problems are less about a single answer than about describing the whole allowed set. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+        "text": "Constraints fence the allowed; solution sets collect what still fits. Algebraic geometry and later linear programming live on this language. Many problems are less about a single answer than about describing the whole allowed set. Printed curricula made “inside the rules” a visible object students could shade and argue about. Constraint fences made “inside the rules” a drawable object in printed curricula."
       },
       {
         "n": 6,
@@ -2719,7 +2719,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Constraint solvers and optimizers search huge feasible regions. Databases enforce constraints as integrity rules. The PRINT-era idea of solution set became software that refuses illegal states. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+        "text": "Constraint solvers and optimizers search huge feasible regions. Databases enforce constraints as integrity rules. The print-era idea of a solution set became software that refuses illegal states. Feasibility is now checked at machine speed—still defined by the fences humans wrote. Solution sets left the textbook sketch and entered runtime enforcement."
       }
     ]
   },
@@ -2798,7 +2798,7 @@
           "italian-commercial-renaissance",
           "british-industrial-engineering"
         ],
-        "text": "Percent—“per hundred”—is commercial ratio wearing a hundred-based costume. Italian merchant practice and later printed interest tables made % ubiquitous. Percent wheels convert between fractions, decimals, and hundredths. Tax, discount, and risk still speak percent as a public dialect. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+        "text": "Percent—“per hundred”—is commercial ratio wearing a hundred-based costume. Italian merchant practice and later printed interest tables made % ubiquitous. Tax, discount, and risk still speak percent as a public dialect. Percent wheels convert between fractions, decimals, and hundredths for everyday trade. Percent wheels and printed tables made hundredths a public dialect of risk and discount."
       },
       {
         "n": 6,
@@ -2807,7 +2807,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Spreadsheets and dashboards compute percents instantly, sometimes hiding bad denominators. Relative change literacy remains the human filter. The PRINT-era commercial shortcut became the default KPI format of modern organizations. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+        "text": "Spreadsheets and dashboards compute percents instantly, sometimes hiding bad denominators. Relative change literacy remains the human filter. The print-era commercial shortcut became the default KPI format of modern organizations. Fast percent buttons do not replace asking “percent of what?” Percent left the interest table and became the default language of KPIs."
       }
     ]
   },
@@ -2858,7 +2858,7 @@
           "atlantic-scientific-revolution",
           "british-industrial-engineering"
         ],
-        "text": "Graphing turns relations into visible curves and scatters on axes. Analytic geometry plus cheap paper made plotting a standard scientific gesture. Graph paper democratized the picture of dependence. To graph is to argue with a shape. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+        "text": "Graphing turns relations into visible curves and scatters on axes. Analytic geometry plus cheap paper made plotting a standard scientific gesture. Graph paper democratized the picture of dependence. To graph is to argue with a shape anyone in the room can see. Cheap axes and printed plots made dependence a shape you could point at in a meeting."
       },
       {
         "n": 6,
@@ -2867,7 +2867,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Interactive plotters redraw on parameter change, revealing families of functions by animation. The skill shifts from careful hand plots to critical reading of software defaults. Graphing remains interpretation first, pixels second. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+        "text": "Interactive plotters redraw on parameter change, revealing families of functions by animation. The skill shifts from careful hand plots to critical reading of software defaults. Graphing remains interpretation first, pixels second. When the machine draws instantly, the human still must ask what the picture claims. Graphing left careful hand plots and entered live, default-heavy software."
       }
     ]
   },
@@ -2973,7 +2973,7 @@
         "worlds": [
           "atlantic-scientific-revolution"
         ],
-        "text": "Slope measures steepness—rise over run on a graph, grade on a road. Analytic geometry and calculus made slope the everyday face of derivative before the word settles. Slope glass tools visualize tilt. Railways and roofs made slope a safety number, not only a school ratio. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+        "text": "Slope measures steepness—rise over run on a graph, grade on a road. Analytic geometry and calculus made slope the everyday face of the derivative before the word settles. Railways and roofs made slope a safety number, not only a school ratio. Printed textbooks drilled rise-over-run until steepness became a shared civic measure. Rise over run became the everyday face of derivative talk in analytic geometry."
       },
       {
         "n": 5,
@@ -2983,7 +2983,7 @@
           "british-industrial-engineering",
           "atlantic-scientific-revolution"
         ],
-        "text": "Clinometers, gradients marked on maps, and differential calculus applications hardened slope into engineering practice. Gradient as multivariable slope later steered optimization. Tilt left the textbook and entered theodolites. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+        "text": "Clinometers, gradients marked on maps, and differential calculus applications hardened slope into engineering practice. Gradient as multivariable slope later steered optimization. Tilt left the textbook and entered theodolites. Instruments made steepness a dial reading you could contract for. Slope left the textbook ratio and entered maps, rails, and machine design."
       }
     ]
   },
@@ -3003,7 +3003,7 @@
           "atlantic-scientific-revolution",
           "british-industrial-engineering"
         ],
-        "text": "Rate of change is how fast a quantity moves—Newton and Leibniz’s central idea wearing physical clothes. Fluxions, differentials, and dials that show speed made change itself measurable. Hourglasses and tachometers share the obsession: not only how much, but how quickly. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+        "text": "Rate of change is how fast a quantity moves—Newton and Leibniz’s central idea wearing physical clothes. Fluxions, differentials, and dials that show speed made change itself measurable. Hourglasses and tachometers share the obsession: not only how much, but how quickly. Instruments turned “how fast” into a reading with units. Fluxions and speed dials made change itself a measurable quantity."
       },
       {
         "n": 6,
@@ -3012,7 +3012,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Numerical differentiation and real-time sensors estimate rates from sampled streams. Finance and control systems live on rate signals. Computation kept the MECHANIZE-era question and answered it with noisy data and filters. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+        "text": "Numerical differentiation and real-time sensors estimate rates from sampled streams. Finance and control systems live on rate signals. Computation kept the mechanize-era question and answered it with noisy data and filters. Estimated derivatives now steer trades and feedback loops at machine pace. Rate of change left the dial and entered sampled digital streams."
       }
     ]
   },
@@ -3121,7 +3121,7 @@
           "greek-hellenistic",
           "baghdad-islamic-persian"
         ],
-        "text": "Circular measure counts turn—degrees from Babylonian-Greek astronomy, radians later for analysis. Ptolemy’s chords and Islamic sine tables quantified arcs. Sector wedges and protractors bring the circle’s measure to the desk. Sharing an angle measure lets distant observers aim at the same star story. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop."
+        "text": "Circular measure counts turn—degrees from Babylonian–Greek astronomy, radians later for analysis. Ptolemy’s chords and Islamic sine tables quantified arcs. Sector wedges and protractors bring the circle’s measure to the desk. Sharing an angle measure lets distant observers aim at the same star story. Degrees and later radians let distant observers share the same turn measure."
       },
       {
         "n": 5,
@@ -3130,7 +3130,7 @@
         "worlds": [
           "atlantic-scientific-revolution"
         ],
-        "text": "Divided circles on instruments, theodolites, and unit-circle pedagogy hardened angular measure for navigation and calculus. Radians linked arc length to radius so derivatives of trig functions stay clean. Brass circles enforced what papyrus once only stated. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+        "text": "Divided circles on instruments, theodolites, and unit-circle pedagogy hardened angular measure for navigation and calculus. Radians linked arc length to radius so derivatives of trig functions stay clean. Brass circles enforced what papyrus once only stated. Angular measure left the manuscript and entered the surveyor’s kit. Angular measure left papyrus chords and entered brass divided circles."
       }
     ]
   },
@@ -3177,7 +3177,7 @@
         "worlds": [
           "greek-hellenistic"
         ],
-        "text": "Relations link pairs—order, congruence, “divides,” kinship of numbers. Greek mathematics used relational talk constantly even without modern notation. Map-arrows between sets picture relations that need not be functions. To relate is to constrain pairs, not only to list singles. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop."
+        "text": "Relations link pairs—order, congruence, “divides,” kinship of numbers. Greek mathematics used relational talk constantly even without modern notation. Map-arrows between sets picture relations that need not be functions. To relate is to constrain pairs, not only to list singles. Written relational language let strangers share order and congruence claims across cities."
       },
       {
         "n": 5,
@@ -3186,7 +3186,7 @@
         "worlds": [
           "central-europe-19c-abstract"
         ],
-        "text": "Relational algebra and order theory named properties—reflexive, symmetric, transitive—on the printed page. Databases later operationalized relations as tables of tuples. The WRITE-era link became industrial query infrastructure. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+        "text": "Relational algebra and order theory named properties—reflexive, symmetric, transitive—on the printed page. Databases later operationalized relations as tables of tuples. The write-era link became industrial query infrastructure. What once linked magnitudes in proof now links rows in a warehouse of data. Relations left geometric talk and entered queryable tables of tuples."
       }
     ]
   },
@@ -3208,7 +3208,7 @@
           "baghdad-islamic-persian",
           "china"
         ],
-        "text": "Counting outcomes enumerates possibilities—dice casts, lineup permutations, combinatorial choices. Indian combinatorics and later Islamic and European chance problems built systematic counting. Outcome trees branch the futures. Before probability numbers, honest listing already disciplined talk of chance. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion."
+        "text": "Counting outcomes enumerates possibilities—dice casts, lineup permutations, combinatorial choices. Indian combinatorics and later Islamic and European chance problems built systematic counting. Outcome trees branch the futures. Before probability numbers, honest listing already disciplined talk of chance. Systematic listing was already a civic discipline before odds wore decimal clothes."
       },
       {
         "n": 4,
@@ -3218,7 +3218,7 @@
           "atlantic-scientific-revolution",
           "italian-commercial-renaissance"
         ],
-        "text": "Printed problems on cards, dice, and lots spread combinatorial counting into genteel and commercial cultures. Factorials and combinations gained notation. Counting outcomes became the counting house of uncertainty. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+        "text": "Printed problems on cards, dice, and lots spread combinatorial counting into genteel and commercial cultures. Factorials and combinations gained notation. Counting outcomes became the counting house of uncertainty. Shared print exercises let distant classrooms list the same possibility trees. Combinatorial counting left specialist texts and entered parlor and classroom print."
       }
     ]
   },
@@ -3239,7 +3239,7 @@
           "atlantic-scientific-revolution",
           "french-enlightenment-revolutionary"
         ],
-        "text": "Probability measures chance—Pascal–Fermat letters, Huygens, Jacob Bernoulli’s Art of Conjecturing. Print-era correspondence and treatises made odds a mathematical object. Chance bowls and dice cups keep the origin story tactile. Insurance and games both paid for the theory. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+        "text": "Probability measures chance—Pascal–Fermat letters, Huygens, Jacob Bernoulli’s Art of Conjecturing. Print-era correspondence and treatises made odds a mathematical object. Insurance and games both paid for the theory. Chance bowls and dice cups keep the origin story tactile while the numbers travel in books. Dice cups kept chance tactile while printed treatises made odds a portable object."
       },
       {
         "n": 6,
@@ -3248,7 +3248,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Monte Carlo methods and probabilistic programming estimate what closed formulas cannot. Probability left salons and entered weather models and spam filters. Computation made sampling the pragmatic face of probability’s PRINT-era ideals. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+        "text": "Monte Carlo methods and probabilistic programming estimate what closed formulas cannot. Probability left salons and entered weather models and spam filters. Computation made sampling the pragmatic face of probability’s print-era ideals. When analytic odds stall, silicon draws many futures and counts them. Probability left salon correspondence and entered operational Monte Carlo code."
       }
     ]
   },
@@ -3268,7 +3268,7 @@
           "atlantic-scientific-revolution",
           "british-industrial-engineering"
         ],
-        "text": "Simulation imitates chance or dynamics with models—dice for probability teaching, later analog devices for processes. Randomness itself needed definitions beyond “unpredictable vibe.” Spinners and urns made controlled chance. Mechanized randomness served both play and serious sampling. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+        "text": "Simulation imitates chance or dynamics with models—dice for probability teaching, later analog devices for processes. Randomness itself needed definitions beyond “unpredictable vibe.” Spinners and urns made controlled chance. Mechanized randomness served both play and serious sampling. Controlled chance moved from parlor toys into sampling instruments with dials."
       },
       {
         "n": 6,
@@ -3277,7 +3277,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Pseudorandom generators and simulation science power cryptography, games, and science when analytic solutions stall. Quality of randomness became an engineering spec. Silicon urns never empty, but they can be poorly seeded. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+        "text": "Pseudorandom generators and simulation science power cryptography, games, and science when analytic solutions stall. Quality of randomness became an engineering spec. Silicon urns never empty, but they can be poorly seeded. Controlled chance moved from brass spinners to audited algorithms. Randomness left the urn and entered audited pseudorandom pipelines."
       }
     ]
   },
@@ -3297,7 +3297,7 @@
           "british-industrial-engineering",
           "french-enlightenment-revolutionary"
         ],
-        "text": "Spread describes how widely data scatter—range, deviation, variance. Nineteenth-century statistics and error theory in print insisted center without spread misleads. Whisker plots teach the story of scatter. Variation is often the signal (diversity) or the enemy (noise), depending on the civic goal. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+        "text": "Spread describes how widely data scatter—range, deviation, variance. Nineteenth-century statistics and error theory in print insisted center without spread misleads. Variation is often the signal (diversity) or the enemy (noise), depending on the civic goal. Whisker plots teach the story of scatter beside the average. Center without spread misleads—print-era error theory insisted on saying how wide."
       },
       {
         "n": 6,
@@ -3306,7 +3306,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Statistical software computes dispersions instantly; six-sigma culture industrialised variance talk. Visualizations of spread guard against averages that hide inequality. Computation made spread metrics cheap; interpreting them still costs attention. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+        "text": "Statistical software computes dispersions instantly; six-sigma culture industrialised variance talk. Visualizations of spread guard against averages that hide inequality. Computation made spread metrics cheap; interpreting them still costs attention. Fast variance numbers still need a human who asks what the scatter means. Spread metrics left specialist error theory and entered everyday analytics."
       }
     ]
   },
@@ -3326,7 +3326,7 @@
           "british-industrial-engineering",
           "french-enlightenment-revolutionary"
         ],
-        "text": "A distribution describes how probability or frequency sits across values—the bell curve’s fame and its misuses. Quetelet, Gauss, and print-era statistics popularised distributional pictures. Bell jars gesture at concentrated middles. Distributions replace single numbers with shaped likelihoods. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+        "text": "A distribution describes how probability or frequency sits across values—the bell curve’s fame and its misuses. Quetelet, Gauss, and print-era statistics popularised distributional pictures. Distributions replace single numbers with shaped likelihoods. Bell jars gesture at concentrated middles while print warned that not every crowd is Gaussian. Shaped likelihoods replaced single numbers; not every crowd is a bell."
       },
       {
         "n": 6,
@@ -3335,7 +3335,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Fitting and simulating distributions drives modern data science. Kernel densities and histograms are computational clay. The PRINT-era shape of chance became a family of models you select with diagnostics. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+        "text": "Fitting and simulating distributions drives modern data science. Kernel densities and histograms are computational clay. The print-era shape of chance became a family of models you select with diagnostics. Machines propose shapes; judgment still picks which family fits the civic question. Distributional shapes left Quetelet’s prints and entered model-selection software."
       }
     ]
   },
@@ -3501,7 +3501,7 @@
           "atlantic-scientific-revolution",
           "british-industrial-engineering"
         ],
-        "text": "Transformations shift, stretch, and reflect graphs—families generated by tweaking a parent function. Printed precalculus made these moves a curriculum block. Function machines with dials show the morph. Recognizing transformed templates speeds modelling. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+        "text": "Transformations shift, stretch, and reflect graphs—families generated by tweaking a parent function. Printed precalculus made these moves a curriculum block. Recognizing transformed templates speeds modelling. Function machines with dials show the morph: same skeleton, new position and scale. Seeing a parent function morph taught modelling faster than memorizing separate formulas."
       },
       {
         "n": 6,
@@ -3510,7 +3510,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Interactive graphers make transformations immediate; signal processing applies heavier transform families (Fourier, wavelets). The classroom slide-and-stretch instinct scales into industrial transform toolkits. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+        "text": "Interactive graphers make transformations immediate; signal processing applies heavier transform families (Fourier, wavelets). The classroom slide-and-stretch instinct scales into industrial transform toolkits. What students once sketched by hand now morphs live on screen—and in audio codecs and imaging pipelines. Transform families left precalculus drills and entered industrial signal toolkits."
       }
     ]
   },
@@ -3529,7 +3529,7 @@
         "worlds": [
           "greek-hellenistic"
         ],
-        "text": "Asymptotes describe curves that approach lines without binding—Apollonius named them in conic studies. Greek writing already tracked “gets arbitrarily close.” Asymptote rails picture the forever approach. Infinity entered geometry as a manner of approaching, not only a mystical size. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop."
+        "text": "Asymptotes describe curves that approach lines without binding—Apollonius named them in conic studies. Greek writing already tracked “gets arbitrarily close.” Infinity entered geometry as a manner of approaching, not only a mystical size. Asymptote rails picture the forever approach strangers could argue about in diagrams. “Gets arbitrarily close” entered geometry as a manner of approaching infinity."
       },
       {
         "n": 5,
@@ -3539,7 +3539,7 @@
           "central-europe-19c-abstract",
           "atlantic-scientific-revolution"
         ],
-        "text": "Asymptotic analysis in modern mathematics describes dominant behavior for large inputs—big-O culture’s ancestor. Engineers estimate limiting regimes of machines and series. The Greek approach-line matured into a calculus of approximation quality. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+        "text": "Asymptotic analysis describes dominant behavior for large inputs—big-O culture’s ancestor. Engineers estimate limiting regimes of machines and series. The Greek approach-line matured into a calculus of approximation quality. Limiting talk left pure geometry and entered design tolerances and runtime estimates. Asymptotic talk left conic diagrams and entered runtime and tolerance estimates."
       }
     ]
   },
@@ -3560,7 +3560,7 @@
           "baghdad-islamic-persian",
           "india"
         ],
-        "text": "Systems demand several conditions at once—Chinese fangcheng elimination, later Islamic and European simultaneous equations. Twin scales picture multiple balances that must agree together. Simultaneity turns one unknown’s playground into a negotiated settlement among many. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion. Named steps let apprentices repeat the claim’s method without reinventing each motion."
+        "text": "Systems demand several conditions at once—Chinese fangcheng elimination, later Islamic and European simultaneous equations. Twin scales picture multiple balances that must agree together. Simultaneity turns one unknown’s playground into a negotiated settlement among many. Named elimination steps let apprentices solve coupled conditions without guessing one variable alone. Coupled balances demanded elimination recipes, not single-variable guesswork."
       },
       {
         "n": 6,
@@ -3570,7 +3570,7 @@
           "american-global-computational",
           "central-europe-19c-abstract"
         ],
-        "text": "Matrix solvers and constraint systems industrialised simultaneous conditions. Circuit simulation and economic models are systems at scale. Algorithmic elimination found its ultimate speed in silicon linear algebra. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+        "text": "Matrix solvers and constraint systems industrialised simultaneous conditions. Circuit simulation and economic models are systems at scale. Algorithmic elimination found its ultimate speed in silicon linear algebra. Thousands of coupled equations now settle in seconds—still the same demand that all conditions hold at once. Simultaneous conditions left fangcheng boards and entered matrix libraries."
       }
     ]
   },
@@ -3618,7 +3618,7 @@
           "atlantic-scientific-revolution",
           "central-europe-19c-abstract"
         ],
-        "text": "Mathematical induction proves infinite families by a base step and a hereditary step—formalized clearly in early modern Europe though foreshadowed earlier. Recursion defines by self-reference. Recur spirals suit both. Print made induction a standard template of number theory and algebra. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards. Print spread the claim’s vocabulary until distant classrooms could share exercises and standards."
+        "text": "Mathematical induction proves infinite families by a base step and a hereditary step—formalized clearly in early modern Europe though foreshadowed earlier. Recursion defines by self-reference. Print made induction a standard template of number theory and algebra. Shared templates let distant classrooms prove “for all n” the same way. Base step plus hereditary step became a standard printed proof template."
       },
       {
         "n": 6,
@@ -3627,7 +3627,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Recursive procedures and inductive proofs about programs grew together in computer science. Proof assistants check inductive arguments mechanically. The PRINT-era template became the verification style of software math. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+        "text": "Recursive procedures and inductive proofs about programs grew together in computer science. Proof assistants check inductive arguments mechanically. The print-era template became the verification style of software math. Base case plus hereditary step now audits code as well as integers. Induction left number-theory templates and entered software verification."
       }
     ]
   },
@@ -3734,7 +3734,7 @@
           "american-global-computational",
           "british-industrial-engineering"
         ],
-        "text": "Sampling infers from parts—survey samples, quality control pulls, randomized experiments. Twentieth-century sampling theory matured with census bureaus and industrial inspection. Sample frames define who can be chosen. Without sampling discipline, big data is only big anecdote. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+        "text": "Sampling infers from parts—survey samples, quality control pulls, randomized experiments. Twentieth-century sampling theory matured with census bureaus and industrial inspection. Sample frames define who can be chosen. Without sampling discipline, big data is only big anecdote. Frame design and randomization rules became as important as the sample size itself."
       },
       {
         "n": 7,
@@ -3743,7 +3743,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Active learning and adaptive sampling let algorithms choose the next observation. Yet bias in frames remains a human-ethical problem silicon cannot dissolve alone. Intelligence assists selection; justice still audits who was never eligible to be sampled. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter."
+        "text": "Active learning and adaptive sampling let algorithms choose the next observation. Yet bias in frames remains a human-ethical problem silicon cannot dissolve alone. Intelligence assists selection; justice still audits who was never eligible to be sampled. Smarter picks still answer to the frame humans wrote. Adaptive picks still answer to the sampling frame humans wrote."
       }
     ]
   },
@@ -3791,7 +3791,7 @@
         "worlds": [
           "greek-hellenistic"
         ],
-        "text": "Infinite processes haunted Greek thought—Zeno’s paradoxes, exhaustion methods that approach without claiming a final infinite sum lightly. Limit funnels picture narrowing. Writing forced clarity about what “going on forever” could responsibly mean in proof. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop."
+        "text": "Infinite processes haunted Greek thought—Zeno’s paradoxes, exhaustion methods that approach without claiming a final infinite sum lightly. Limit funnels picture narrowing. Writing forced clarity about what “going on forever” could responsibly mean in proof. Strangers could argue the approach without standing in the original workshop. Exhaustion methods approached without lightly claiming a finished infinite sum."
       },
       {
         "n": 5,
@@ -3801,7 +3801,7 @@
           "central-europe-19c-abstract",
           "atlantic-scientific-revolution"
         ],
-        "text": "Cauchy, Weierstrass, and peers rigorized convergence so infinite processes became trustworthy tools. Analysis textbooks still drill ε-arguments born in that repair shop. Infinite methods gained passports only after convergence tests stamped them. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+        "text": "Cauchy, Weierstrass, and peers rigorized convergence so infinite processes became trustworthy tools. Analysis textbooks still drill ε-arguments born in that repair shop. Infinite methods gained passports only after convergence tests stamped them. What once felt mystical became a checklist of limits you could teach and check. Convergence left philosophical unease and entered ε-checklists in analysis."
       }
     ]
   },
@@ -3910,7 +3910,7 @@
         "worlds": [
           "greek-hellenistic"
         ],
-        "text": "Proof is demonstrative certainty from agreed starts—Euclid’s template for two millennia. Elements scrolls and proof seals symbolize public necessity. Greek proof culture taught that a diagram plus reasons can compel assent across cities. Mathematics became more than clever tricks. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop. Written argument let strangers test the claim without standing in the original workshop."
+        "text": "Proof is demonstrative certainty from agreed starts—Euclid’s template for two millennia. Greek proof culture taught that a diagram plus reasons can compel assent across cities. Mathematics became more than clever tricks. Written argument let strangers test necessity without standing in the original workshop. Elements scrolls symbolized public necessity: assent compelled by reasons, not by status."
       },
       {
         "n": 7,
@@ -3920,7 +3920,7 @@
           "american-global-computational",
           "central-europe-19c-abstract"
         ],
-        "text": "Formal proof systems and assistants (Lean, Coq, Isabelle) check arguments at scales humans mistype. Hilbert’s dream meets silicon scrutiny. Proof remains a social and logical act; intelligence tools are new scribes that refuse to skip lines. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter."
+        "text": "Formal proof systems and assistants (Lean, Coq, Isabelle) check arguments at scales humans mistype. Hilbert’s dream meets silicon scrutiny. Proof remains a social and logical act; intelligence tools are new scribes that refuse to skip lines. Humans still choose which theorems matter; machines help refuse gaps. Proof assistants refuse skipped lines; humans still choose the theorems."
       }
     ]
   },
@@ -3940,7 +3940,7 @@
           "american-global-computational",
           "british-industrial-engineering"
         ],
-        "text": "Inference goes from sample data to claims about a wider world—Fisher, Neyman–Pearson, Bayesian debates in the twentieth century. Inference urns picture drawing conclusions from pulls. Industrial quality control and clinical trials institutionalized inference. Data alone does not speak; inferential rules give it a grammar. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+        "text": "Inference goes from sample data to claims about a wider world—Fisher, Neyman–Pearson, Bayesian debates in the twentieth century. Industrial quality control and clinical trials institutionalized inference. Data alone does not speak; inferential rules give it a grammar. Inference urns picture drawing conclusions from pulls—now executed at machine scale. Inferential grammar—not raw data alone—licenses claims about a wider world."
       },
       {
         "n": 7,
@@ -3949,7 +3949,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Automated inference pipelines and ML models amplify both insight and overclaim risk. Epistemic humility tools—intervals, posterior checks—matter more as speed rises. Intelligence assists inference; accountability for claims stays human. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter."
+        "text": "Automated inference pipelines and ML models amplify both insight and overclaim risk. Epistemic humility tools—intervals, posterior checks—matter more as speed rises. Intelligence assists inference; accountability for claims stays human. Faster conclusions still need someone who owns the claim. Faster inference still needs someone who owns the claim."
       }
     ]
   },
@@ -3998,7 +3998,7 @@
           "central-europe-19c-abstract",
           "atlantic-scientific-revolution"
         ],
-        "text": "Continuity means no jumps—intermediate values attained, small input changes yielding small output changes in the ε–δ sense. Continuity ribbons picture unbroken motion. Nineteenth-century analysis separated continuity from differentiability with famous monsters. Smooth-looking chalk curves needed new definitions. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+        "text": "Continuity means no jumps—intermediate values attained, small input changes yielding small output changes in the ε–δ sense. Nineteenth-century analysis separated continuity from differentiability with famous monsters. Smooth-looking chalk curves needed new definitions. Continuity ribbons picture unbroken motion that instruments and proofs had to take seriously. Continuity ribbons pictured unbroken motion that ε–δ definitions had to capture."
       },
       {
         "n": 6,
@@ -4007,7 +4007,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Topology and computational geometry track continuity in spaces far from the number line. Discrete data only approximates continuous ideals. Machines sample; continuity remains the mathematical hope about what happens between samples. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+        "text": "Topology and computational geometry track continuity in spaces far from the number line. Discrete data only approximates continuous ideals. Machines sample; continuity remains the mathematical hope about what happens between samples. Pixels and floats approximate; the continuous claim still guides the model. Continuity guides the model even when machines only hold samples."
       }
     ]
   },
@@ -4230,7 +4230,7 @@
           "british-industrial-engineering",
           "atlantic-scientific-revolution"
         ],
-        "text": "Scaling and adding arrows—parallelogram of forces—lets vectors combine linearly. Physics teaching made the parallelogram law standard. Vector parallelograms show resultants. Scalar multiples stretch; sums merge directions into a net effect. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+        "text": "Scaling and adding arrows—parallelogram of forces—lets vectors combine linearly. Physics teaching made the parallelogram law standard. Scalar multiples stretch; sums merge directions into a net effect. Vector parallelograms show resultants hands and dials could trust in the lab. Force diagrams made linear combination a lab habit long before abstract vector spaces."
       },
       {
         "n": 6,
@@ -4239,7 +4239,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "BLAS routines industrialise scalar-vector and vector-vector combinations at peak flop rates. Every neural net layer is organized scalar-and-vector arithmetic. The parallelogram’s heirs run in silicon cache lines. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+        "text": "BLAS routines industrialise scalar-vector and vector-vector combinations at peak flop rates. Every neural net layer is organized scalar-and-vector arithmetic. The parallelogram’s heirs run in silicon cache lines. Stretch and add—once a physics diagram—now dominate numerical workloads. Stretch-and-add left the force diagram and dominates numerical workloads."
       }
     ]
   },
@@ -4260,7 +4260,7 @@
           "central-europe-19c-abstract",
           "american-global-computational"
         ],
-        "text": "Linear combinations mix vectors with scalar weights; their span is the reachable subspace. Nineteenth-century linear algebra named the idea; computation uses it constantly. Basis frames show generators whose mixes fill a space. Span answers “what can these building arrows reach?” Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+        "text": "Linear combinations mix vectors with scalar weights; their span is the reachable subspace. Nineteenth-century linear algebra named the idea; computation uses it constantly. Basis frames show generators whose mixes fill a space. Span answers “what can these building arrows reach?”—now checked by matrix rank at machine speed. Rank checks ask, at machine speed, what the building arrows can actually reach."
       },
       {
         "n": 7,
@@ -4269,7 +4269,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Representation learning asks which spanning sets make tasks easy. Feature spans and dictionary learning are span talk in AI clothing. Intelligence searches useful combinations; linear algebra states what combinations can mean. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter."
+        "text": "Representation learning asks which spanning sets make tasks easy. Feature spans and dictionary learning are span talk in AI clothing. Intelligence searches useful combinations; linear algebra states what combinations can mean. Useful bases are learned; what they can reach is still span theory. Useful bases may be learned; what they reach is still span theory."
       }
     ]
   },
@@ -4318,7 +4318,7 @@
           "central-europe-19c-abstract",
           "american-global-computational"
         ],
-        "text": "A basis is an independent spanning set; dimension counts its size—an invariant of the space. Grassmann and later textbook linear algebra made dimension a precise noun. Basis frames teach change of coordinates. Dimension says how many independent dials the space truly has. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+        "text": "A basis is an independent spanning set; dimension counts its size—an invariant of the space. Grassmann and later textbook linear algebra made dimension a precise noun. Basis frames teach change of coordinates. Dimension says how many independent dials the space truly has—computed today by rank and SVD. Change-of-basis frames teach how many independent dials the space truly has."
       },
       {
         "n": 7,
@@ -4327,7 +4327,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Intrinsic dimension estimation asks how many degrees of freedom data really use. Dimensionality reduction hunts smaller bases that keep meaning. Intelligence compresses; basis theory explains what “smaller without loss” can claim. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter."
+        "text": "Intrinsic dimension estimation asks how many degrees of freedom data really use. Dimensionality reduction hunts smaller bases that keep meaning. Intelligence compresses; basis theory explains what “smaller without loss” can claim. Learned embeddings still answer to independence and span. Learned embeddings still answer to independence and dimension."
       }
     ]
   },
@@ -4347,7 +4347,7 @@
           "central-europe-19c-abstract",
           "british-industrial-engineering"
         ],
-        "text": "Matrices array numbers so linear moves become algebraic objects—Cayley’s matrix algebra after earlier elimination arrays (including Chinese fangcheng layouts). Matrix presses dramatize stamping whole grids of coefficients. Simultaneous systems found a noun. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+        "text": "Matrices array numbers so linear moves become algebraic objects—Cayley’s matrix algebra after earlier elimination arrays (including Chinese fangcheng layouts). Simultaneous systems found a noun. Matrix presses dramatize stamping whole grids of coefficients. What once lived as scattered elimination steps became a single algebraic object. Scattered elimination arrays gained a single algebraic noun: the matrix."
       },
       {
         "n": 6,
@@ -4356,7 +4356,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Dense and sparse matrix libraries are the heavy industry of computation. Graphics, simulations, and ML are matrix pipelines. The MECHANIZE-era array became the dominant data structure of quantitative silicon. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+        "text": "Dense and sparse matrix libraries are the heavy industry of computation. Graphics, simulations, and ML are matrix pipelines. The mechanize-era array became the dominant data structure of quantitative silicon. Almost every large numerical story now factors through multiply and factor routines. Matrix multiply and factor routines now carry almost every large numerical story."
       }
     ]
   },
@@ -4376,7 +4376,7 @@
         "worlds": [
           "central-europe-19c-abstract"
         ],
-        "text": "Linear transformations map vectors so combinations survive—rotations, projections, shears. Matrix representation makes them calculable. Transform lenses show geometric verbs. Klein-style thinking tied geometries to groups of linear and related maps. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised. Instruments embodied the claim so hands and dials enforced what prose only advised."
+        "text": "Linear transformations map vectors so combinations survive—rotations, projections, shears. Matrix representation makes them calculable. Klein-style thinking tied geometries to groups of linear and related maps. Transform lenses show geometric verbs instruments and formulas could share. Transform lenses in teaching echo the idea: change the view, track what survives."
       },
       {
         "n": 6,
@@ -4385,7 +4385,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Every neural layer and graphics shader leans on linear transforms plus nonlinear garnish. Eigenviews reveal a transform’s true axes. Computation performs linear maps billions of times per frame or training step. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+        "text": "Every neural layer and graphics shader leans on linear transforms plus nonlinear garnish. Eigenviews reveal a transform’s true axes. Computation performs linear maps billions of times per frame or training step. Rotate, project, shear—once geometric verbs—now run as matrix multiplies at frame rate. Geometric verbs now run as matrix multiplies at frame and training rate."
       }
     ]
   },
@@ -4434,7 +4434,7 @@
           "central-europe-19c-abstract",
           "american-global-computational"
         ],
-        "text": "Eigenvalues and eigenvectors reveal axes a linear map only stretches—nineteenth-century roots in Cauchy, Jacobi, and peers, exploding in applications afterward. Eigen-axes picture invariant directions. Vibrations, principal components, and quantum observables speak eigenlanguage. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match. Machines executed the claim’s routines at speeds no hall of clerks could match."
+        "text": "Eigenvalues and eigenvectors reveal axes a linear map only stretches—nineteenth-century roots in Cauchy, Jacobi, and peers, exploding in applications afterward. Vibrations, principal components, and quantum observables speak eigenlanguage. Eigen-axes picture invariant directions. Numerical eigensolvers made that structure a routine tool, not only a theorem. Invariant directions left pure theory and entered vibration and PCA practice."
       },
       {
         "n": 7,
@@ -4443,7 +4443,7 @@
         "worlds": [
           "american-global-computational"
         ],
-        "text": "Spectral methods and attention to eigen-spectra of graphs or kernels power modern learning theory and network analysis. Stability of learning often hides in eigenvalue magnitudes. Intelligence searches structure; eigenstructure is one of linear algebra’s sharpest flashlights. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter. New assistants help search and check the claim, while humans still choose which questions matter."
+        "text": "Spectral methods and attention to eigen-spectra of graphs or kernels power modern learning theory and network analysis. Stability of learning often hides in eigenvalue magnitudes. Intelligence searches structure; eigenstructure is one of linear algebra’s sharpest flashlights. Spectral clues guide models; humans still decide which spectrum matters. Spectral clues guide models; humans still decide which spectrum matters."
       }
     ]
   }
