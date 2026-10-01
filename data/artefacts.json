@@ -1,0 +1,259 @@
+[
+  {
+    "id": "tally-stick",
+    "name": "Tally stick",
+    "summary": "One mark for one thing—counting’s first technology.",
+    "concepts": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "stages": [
+      {
+        "name": "Notch stick",
+        "era": "origins"
+      },
+      {
+        "name": "Bundle stick",
+        "era": "origins"
+      },
+      {
+        "name": "Numeral tablet",
+        "era": "classical"
+      },
+      {
+        "name": "Hundred chart",
+        "era": "medieval"
+      }
+    ]
+  },
+  {
+    "id": "ten-frame",
+    "name": "Ten-frame",
+    "summary": "A small stage for cardinality and regrouping toward ten.",
+    "concepts": [
+      2,
+      6
+    ],
+    "stages": [
+      {
+        "name": "Five-frame",
+        "era": "origins"
+      },
+      {
+        "name": "Ten-frame",
+        "era": "origins"
+      },
+      {
+        "name": "Double ten-frame",
+        "era": "origins"
+      }
+    ]
+  },
+  {
+    "id": "balance",
+    "name": "Balance",
+    "summary": "Joining and taking away until two pans agree.",
+    "concepts": [
+      6,
+      7
+    ],
+    "stages": [
+      {
+        "name": "Pan balance",
+        "era": "origins"
+      },
+      {
+        "name": "Missing-weight",
+        "era": "origins"
+      },
+      {
+        "name": "Letter balance",
+        "era": "medieval"
+      },
+      {
+        "name": "Inequality beam",
+        "era": "renaissance"
+      },
+      {
+        "name": "System of pans",
+        "era": "industrial"
+      },
+      {
+        "name": "Matrix ledger",
+        "era": "modern"
+      }
+    ]
+  },
+  {
+    "id": "coin-strip",
+    "name": "Coin strip",
+    "summary": "Position and denomination—place value you can hold.",
+    "concepts": [
+      5
+    ],
+    "stages": [
+      {
+        "name": "Coin row",
+        "era": "origins"
+      },
+      {
+        "name": "Make-amount purse",
+        "era": "classical"
+      },
+      {
+        "name": "Decimal coins",
+        "era": "enlightenment"
+      },
+      {
+        "name": "Percent wheel",
+        "era": "industrial"
+      }
+    ]
+  },
+  {
+    "id": "number-line",
+    "name": "Number line",
+    "summary": "Order and distance drawn as a walkable landscape.",
+    "concepts": [
+      4,
+      12
+    ],
+    "stages": [
+      {
+        "name": "Line 0–10",
+        "era": "origins"
+      },
+      {
+        "name": "Extended line",
+        "era": "classical"
+      },
+      {
+        "name": "Signed line",
+        "era": "renaissance"
+      },
+      {
+        "name": "Real continuum",
+        "era": "enlightenment"
+      },
+      {
+        "name": "Complex plane",
+        "era": "modern"
+      }
+    ]
+  },
+  {
+    "id": "series-chain",
+    "name": "Series chain",
+    "summary": "Notice the rule, predict the next link.",
+    "concepts": [
+      8
+    ],
+    "stages": [
+      {
+        "name": "Notch series",
+        "era": "origins"
+      },
+      {
+        "name": "Pattern beads",
+        "era": "origins"
+      },
+      {
+        "name": "Sequence tablet",
+        "era": "classical"
+      },
+      {
+        "name": "Function chain",
+        "era": "enlightenment"
+      }
+    ]
+  },
+  {
+    "id": "shape-tiles",
+    "name": "Shape tiles",
+    "summary": "Sort and name forms—classification grown precise.",
+    "concepts": [
+      9,
+      10
+    ],
+    "stages": [
+      {
+        "name": "Clay tokens",
+        "era": "origins"
+      },
+      {
+        "name": "Shape tiles",
+        "era": "classical"
+      },
+      {
+        "name": "Pattern blocks",
+        "era": "industrial"
+      },
+      {
+        "name": "Polyomino set",
+        "era": "modern"
+      }
+    ]
+  },
+  {
+    "id": "grid",
+    "name": "Grid",
+    "summary": "Rows and columns turn location into an address.",
+    "concepts": [
+      11
+    ],
+    "stages": [
+      {
+        "name": "Survey ropes",
+        "era": "origins"
+      },
+      {
+        "name": "Artist grid",
+        "era": "classical"
+      },
+      {
+        "name": "Map grid",
+        "era": "renaissance"
+      },
+      {
+        "name": "Coordinate plane",
+        "era": "enlightenment"
+      },
+      {
+        "name": "Vector lattice",
+        "era": "modern"
+      }
+    ]
+  },
+  {
+    "id": "ruler",
+    "name": "Ruler",
+    "summary": "Shared units for trade, building, and measure.",
+    "concepts": [
+      12
+    ],
+    "stages": [
+      {
+        "name": "Cubit rod",
+        "era": "origins"
+      },
+      {
+        "name": "Knotted rope",
+        "era": "origins"
+      },
+      {
+        "name": "Graduated rod",
+        "era": "classical"
+      },
+      {
+        "name": "Standard meter",
+        "era": "enlightenment"
+      },
+      {
+        "name": "Precision gauge",
+        "era": "modern"
+      }
+    ]
+  }
+]

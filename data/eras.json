@@ -1,0 +1,58 @@
+[
+  {
+    "id": "origins",
+    "roman": "I",
+    "name": "Origins",
+    "dates": "Prehistory\u2013c.600 BCE",
+    "color": "#A35C2D",
+    "material": "clay / ochre / bone"
+  },
+  {
+    "id": "classical",
+    "roman": "II",
+    "name": "Classical",
+    "dates": "c.600 BCE\u2013500 CE",
+    "color": "#8A6D3B",
+    "material": "marble / bronze"
+  },
+  {
+    "id": "medieval",
+    "roman": "III",
+    "name": "Medieval",
+    "dates": "c.500\u20131400",
+    "color": "#3F715B",
+    "material": "manuscript / ink"
+  },
+  {
+    "id": "renaissance",
+    "roman": "IV",
+    "name": "Renaissance",
+    "dates": "c.1400\u20131650",
+    "color": "#8B3948",
+    "material": "burgundy / gold"
+  },
+  {
+    "id": "enlightenment",
+    "roman": "V",
+    "name": "Enlightenment",
+    "dates": "c.1650\u20131800",
+    "color": "#3D5578",
+    "material": "brass / navy"
+  },
+  {
+    "id": "industrial",
+    "roman": "VI",
+    "name": "Industrial",
+    "dates": "c.1800\u20131900",
+    "color": "#505860",
+    "material": "iron / steel"
+  },
+  {
+    "id": "modern",
+    "roman": "VII",
+    "name": "Modern",
+    "dates": "c.1900\u2013present",
+    "color": "#285A8C",
+    "material": "cobalt / silicon"
+  }
+]
