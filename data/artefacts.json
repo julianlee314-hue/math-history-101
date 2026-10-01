@@ -578,5 +578,197 @@
     "thumb": "assets/artefacts/thumb-proof-assistant.jpg",
     "epoch": "intelligence",
     "summary": "A slate that checks the next step."
+  },
+  {
+    "id": "percent-wheel",
+    "name": "Percent wheel",
+    "image": "assets/artefacts/percent-wheel.jpg",
+    "thumb": "assets/artefacts/thumb-percent-wheel.jpg",
+    "epoch": "print",
+    "summary": "A dial that turns parts into hundredths."
+  },
+  {
+    "id": "decimal-ruler",
+    "name": "Decimal ruler",
+    "image": "assets/artefacts/decimal-ruler.jpg",
+    "thumb": "assets/artefacts/thumb-decimal-ruler.jpg",
+    "epoch": "write",
+    "summary": "Tenths between the marks—decimals you can measure."
+  },
+  {
+    "id": "measuring-cup",
+    "name": "Measuring cup",
+    "image": "assets/artefacts/measuring-cup.jpg",
+    "thumb": "assets/artefacts/thumb-measuring-cup.jpg",
+    "epoch": "write",
+    "summary": "Volume marked on glass until the level agrees."
+  },
+  {
+    "id": "sample-frame",
+    "name": "Sample frame",
+    "image": "assets/artefacts/sample-frame.jpg",
+    "thumb": "assets/artefacts/thumb-sample-frame.jpg",
+    "epoch": "algorithm",
+    "summary": "A window that chooses which marks count."
+  },
+  {
+    "id": "expectation-purse",
+    "name": "Expectation purse",
+    "image": "assets/artefacts/expectation-purse.jpg",
+    "thumb": "assets/artefacts/thumb-expectation-purse.jpg",
+    "epoch": "print",
+    "summary": "Weighted tokens and a ledger of averages."
+  },
+  {
+    "id": "tangent-glass",
+    "name": "Tangent glass",
+    "image": "assets/artefacts/tangent-glass.jpg",
+    "thumb": "assets/artefacts/thumb-tangent-glass.jpg",
+    "epoch": "mechanize",
+    "summary": "The line that kisses the curve at one point."
+  },
+  {
+    "id": "accumulation-cup",
+    "name": "Accumulation cup",
+    "image": "assets/artefacts/accumulation-cup.jpg",
+    "thumb": "assets/artefacts/thumb-accumulation-cup.jpg",
+    "epoch": "mechanize",
+    "summary": "Drops that fill—area under the curve made liquid."
+  },
+  {
+    "id": "basis-frame",
+    "name": "Basis frame",
+    "image": "assets/artefacts/basis-frame.jpg",
+    "thumb": "assets/artefacts/thumb-basis-frame.jpg",
+    "epoch": "mechanize",
+    "summary": "Three rods that span a space."
+  },
+  {
+    "id": "determinant-stamp",
+    "name": "Determinant stamp",
+    "image": "assets/artefacts/determinant-stamp.jpg",
+    "thumb": "assets/artefacts/thumb-determinant-stamp.jpg",
+    "epoch": "compute",
+    "summary": "A 2×2 press that stamps one signed number."
+  },
+  {
+    "id": "vernier-caliper",
+    "name": "Vernier caliper",
+    "image": "assets/artefacts/vernier-caliper.jpg",
+    "thumb": "assets/artefacts/thumb-vernier-caliper.jpg",
+    "epoch": "mechanize",
+    "summary": "Precision jaws that read between the lines."
+  },
+  {
+    "id": "sundial",
+    "name": "Sundial",
+    "image": "assets/artefacts/sundial.jpg",
+    "thumb": "assets/artefacts/thumb-sundial.jpg",
+    "epoch": "mechanize",
+    "summary": "Shadow as clock—angle turned into hours."
+  },
+  {
+    "id": "survey-chain",
+    "name": "Survey chain",
+    "image": "assets/artefacts/survey-chain.jpg",
+    "thumb": "assets/artefacts/thumb-survey-chain.jpg",
+    "epoch": "mechanize",
+    "summary": "Linked bars that pace the land."
+  },
+  {
+    "id": "jacquard-card",
+    "name": "Jacquard card",
+    "image": "assets/artefacts/jacquard-card.jpg",
+    "thumb": "assets/artefacts/thumb-jacquard-card.jpg",
+    "epoch": "compute",
+    "summary": "Holes that weave a pattern into cloth."
+  },
+  {
+    "id": "punched-tape",
+    "name": "Punched tape",
+    "image": "assets/artefacts/punched-tape.jpg",
+    "thumb": "assets/artefacts/thumb-punched-tape.jpg",
+    "epoch": "compute",
+    "summary": "A reel of holes the machine can read."
+  },
+  {
+    "id": "spreadsheet-grid",
+    "name": "Spreadsheet grid",
+    "image": "assets/artefacts/spreadsheet-grid.jpg",
+    "thumb": "assets/artefacts/thumb-spreadsheet-grid.jpg",
+    "epoch": "print",
+    "summary": "Cells of ink that compute when summed."
+  },
+  {
+    "id": "venn-rings",
+    "name": "Venn rings",
+    "image": "assets/artefacts/venn-rings.jpg",
+    "thumb": "assets/artefacts/thumb-venn-rings.jpg",
+    "epoch": "write",
+    "summary": "Overlapping rings for shared and exclusive."
+  },
+  {
+    "id": "pie-wedge",
+    "name": "Pie wedge",
+    "image": "assets/artefacts/pie-wedge.jpg",
+    "thumb": "assets/artefacts/thumb-pie-wedge.jpg",
+    "epoch": "write",
+    "summary": "A circle cut into named fractions."
+  },
+  {
+    "id": "sine-plate",
+    "name": "Sine plate",
+    "image": "assets/artefacts/sine-plate.jpg",
+    "thumb": "assets/artefacts/thumb-sine-plate.jpg",
+    "epoch": "mechanize",
+    "summary": "A carved wave that holds the sine."
+  },
+  {
+    "id": "complex-board",
+    "name": "Complex board",
+    "image": "assets/artefacts/complex-board.jpg",
+    "thumb": "assets/artefacts/thumb-complex-board.jpg",
+    "epoch": "mechanize",
+    "summary": "Real and imaginary axes on one board."
+  },
+  {
+    "id": "eigen-axis",
+    "name": "Eigen-axis",
+    "image": "assets/artefacts/eigen-axis.jpg",
+    "thumb": "assets/artefacts/thumb-eigen-axis.jpg",
+    "epoch": "compute",
+    "summary": "The direction a transform refuses to bend."
+  },
+  {
+    "id": "dice-cup",
+    "name": "Dice cup",
+    "image": "assets/artefacts/dice-cup.jpg",
+    "thumb": "assets/artefacts/thumb-dice-cup.jpg",
+    "epoch": "mark",
+    "summary": "Cubes spilled—chance you can roll."
+  },
+  {
+    "id": "algebra-tiles",
+    "name": "Algebra tiles",
+    "image": "assets/artefacts/algebra-tiles.jpg",
+    "thumb": "assets/artefacts/thumb-algebra-tiles.jpg",
+    "epoch": "write",
+    "summary": "x and 1 blocks that build an equation."
+  },
+  {
+    "id": "elements-scroll",
+    "name": "Elements scroll",
+    "image": "assets/artefacts/elements-scroll.jpg",
+    "thumb": "assets/artefacts/thumb-elements-scroll.jpg",
+    "epoch": "write",
+    "summary": "A geometric proposition sealed in ink."
+  },
+  {
+    "id": "logic-gate",
+    "name": "Logic gate",
+    "image": "assets/artefacts/logic-gate.jpg",
+    "thumb": "assets/artefacts/thumb-logic-gate.jpg",
+    "epoch": "intelligence",
+    "summary": "AND and OR carved into a wooden block."
   }
 ]
