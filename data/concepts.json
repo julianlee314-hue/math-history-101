@@ -8,7 +8,7 @@
     "artefacts": [
       "tally-stick"
     ],
-    "history": "Long before writing, people needed a way to keep track of “how many” when memory alone would not do—animals, days, bundles of grain. The oldest candidates are notched bones: the Lebombo bone from southern Africa (roughly 43,000–44,000 years ago) and the better-known Ishango bone from the Congo region (about 20,000–25,000 years ago). Scholars still debate how much arithmetic those notches encode, but the basic move is clear: one mark for one thing. That one-to-one pairing is counting’s first technology. Mathera’s tally stick invites the same ancient gesture—make a mark, match it to the world—before symbols ever enter the picture."
+    "history": "Long before writing, people needed a way to keep track of “how many” when memory alone would not do—animals, days, bundles of grain. The oldest candidates are notched bones: the Lebombo bone from southern Africa (roughly 43,000–44,000 years ago) and the better-known Ishango bone from the Congo region (about 20,000–25,000 years ago). Scholars still debate how much arithmetic those notches encode, but the basic move is clear: one mark for one thing. That one-to-one pairing is counting’s first technology. Mathera’s tally stick invites the same ancient gesture—make a mark, match it to the world—before symbols ever enter the picture.\n\nOnce tallies piled up, cultures invented faster procedures. Mesopotamian scribes grouped marks by sixties on clay accounting boards; Chinese clerks slid counting rods into decimal columns; Indian teachers and later Islamic arithmeticians drilled place-by-place methods any apprentice could repeat. The abacus turned “how many?” into a choreography of hands: fill a place, carry to the next, clear, continue. Counting stopped being only a heap of notches and became a teachable recipe—something a merchant house or tax office could standardize across workers. That procedural turn is why later machines found counting so easy to automate: the steps were already lined up waiting for gears and circuits.\n\nElectronic machines made counting automatic without changing what a count means. Nineteenth-century punched cards tallied censuses; mechanical registers clicked along shop counters; mid-twentieth-century computers began incrementing registers billions of times a second. Spreadsheets, databases, and digital sensors still rest on the ancient idea—one unit, one record—only now the tally stick is silicon and the notch is a bit. What changed is not the meaning of “how many,” but who or what keeps the tally without fatigue. Digital counting inherited the MARK-era promise and the ALGORITHM-era recipe, then removed the human hand from the loop while leaving the one-to-one pairing intact."
   },
   {
     "id": 2,
@@ -20,7 +20,7 @@
       "tally-stick",
       "ten-frame"
     ],
-    "history": "Cardinality is the quiet leap from <em>marking</em> to <em>knowing</em>: the last number you say names the whole set. Shepherds who could not write still used tally sticks this way for centuries—match mark to sheep, then trust the final count. By the Neolithic Near East (roughly 8000–3000 BCE), clay tokens sorted by shape did similar work for commodities. A modern ten-frame is a small stage for the same idea: fill the frame until the last cell tells you “ten,” not ten separate ones. Once children grasp cardinality, counting stops being a chant and becomes an answer."
+    "history": "Cardinality is the quiet leap from marking to knowing: the last number you say names the whole set. Shepherds who could not write still used tally sticks this way for centuries—match mark to sheep, then trust the final count. By the Neolithic Near East (roughly 8000–3000 BCE), clay tokens sorted by shape did similar work for commodities. A modern ten-frame is a small stage for the same idea: fill the frame until the last cell tells you “ten,” not ten separate ones. Once children grasp cardinality, counting stops being a chant and becomes an answer about the whole collection.\n\nGreek mathematicians treated “how many” as something you could reason about—finite collections, comparable magnitudes, and the uneasy border with infinity. Euclid’s common notions kept size talk inside proof rather than mere habit. When nineteenth-century set theory matured, especially in Georg Cantor’s work, cardinality became a precise relation: two sets share a size exactly when you can pair their members one-to-one, even if both collections are infinite. The shepherd’s last notch and the theorist’s transfinite sizes share that pairing idea. Writing made cardinality arguable; abstraction made it stretch past any physical flock while still honoring the original last-count insight."
   },
   {
     "id": 3,
@@ -29,9 +29,10 @@
     "status": "live",
     "era": "origins",
     "artefacts": [
-      "tally-stick"
+      "tally-stick",
+      "clay-token"
     ],
-    "history": "Tallies record quantity; <em>representation</em> is inventing marks that stand for numbers even when the things are gone. Egyptian hieroglyphic numerals (from about 3000 BCE) used distinct signs for 1, 10, 100, 1,000 and up—still additive, not place-value. Chinese Shang oracle bones (late second millennium BCE) already show decimal groupings. Roman numerals later gave Europe a durable, if clumsy, public script. Each system answers the same problem the tally began: how do you make “seven” travel without seven goats? Mathera’s tally lineage is the first chapter of that long story of writing number down."
+    "history": "Tallies record quantity; representation is inventing marks that stand for numbers even when the things are gone. Egyptian hieroglyphic numerals (from about 3000 BCE) used distinct signs for 1, 10, 100, 1,000 and up—still additive, not place-value. Chinese Shang oracle bones (late second millennium BCE) already show decimal groupings. Roman numerals later gave Europe a durable, if clumsy, public script for civic stone and ledger alike. Each system answers the same problem the tally began: how do you make “seven” travel without seven goats? Writing number down is civilization’s way of shipping quantity through time.\n\nPositional notation—especially the Hindu–Arabic digits with a true zero—changed what a written number could do. Indian mathematicians developed the system; scholars in the Baghdad orbit transmitted, explained, and refined it for new audiences across languages; Chinese rod numerals had already practiced place-value on boards for rapid calculation. Representation stopped being only a label on a jar and became a compact machine for arithmetic. Algorithms for roots, multiplication, and accounting rode on those digits. Once the marks carried place, the marks could carry method, and clerks could share procedures instead of only shared symbols.\n\nPrinting multiplied numeral systems into every counting-house and schoolbook. Standardized Arabic digits, commercial arithmetic manuals in Renaissance Italy, and later typefaces for algebraic symbols made one shared visual language for number across Europe and far beyond. Charts, ledgers, and primers no longer depended on a single scribe’s hand or a local numeral fashion. When representation can be copied by the thousand, a civilization stops arguing about which marks count and starts arguing about what calculations those marks should support. Print turned number symbols into infrastructure."
   },
   {
     "id": 4,
@@ -42,7 +43,7 @@
     "artefacts": [
       "number-line"
     ],
-    "history": "Ordering is noticing that numbers sit in a line: after three comes four, and five is farther still. People ordered long before they drew number lines—clay tokens lined up, notches read left to right, ranks of soldiers and rows of jars. What the number line adds (as a teaching tool mostly in the last few centuries) is a <em>picture</em> of order and distance at once. Place a chip at 4 and another at 9, and “between,” “before,” and “farther” become visible. In Mathera, the number line turns the abstract sequence of counting into a landscape you can walk."
+    "history": "Ordering is noticing that numbers sit in a line: after three comes four, and five is farther still. People ordered long before they drew number lines—clay tokens lined up, notches read left to right, ranks of soldiers and rows of jars. What the number line adds (as a teaching tool mostly in the last few centuries) is a picture of order and distance at once. Place a chip at 4 and another at 9, and “between,” “before,” and “farther” become visible. In Mathera, the number line turns the abstract sequence of counting into a landscape you can walk with your eyes.\n\nOrdered scales appeared on rulers, thermometers, slide rules, and graph paper—physical number lines you could read at a glance. Equal tick marks turned sequence into calibrated distance, ready for laboratories, ships, and factories. Mechanized instruments made order measurable rather than merely recited: a needle on a dial sits between two values the way a pebble once sat between notches. Atlantic scientific workshops and British industrial gauges both depended on that ordered tick. The number-line picture children meet in school is the soft echo of those brass and paper scales."
   },
   {
     "id": 5,
@@ -51,10 +52,10 @@
     "status": "live",
     "era": "origins",
     "artefacts": [
-      "tally-stick",
-      "coin-strip"
+      "coin-strip",
+      "counting-rods"
     ],
-    "history": "Place value is the idea that <em>where</em> a digit sits changes what it means—units, tens, sixties. Mesopotamia developed a sexagesimal (base-60) positional system by around 2000 BCE; Chinese counting rods gave East Asia a decimal place-value board from roughly the first millennium BCE. The Hindu–Arabic system, with a true zero placeholder, matured in India and spread west through the Islamic world by the 8th–9th centuries CE. Europe’s slow switch from Roman numerals followed. A coin strip or grouped tallies rehearses the same insight: ten ones become one ten, and position does the heavy lifting that symbols alone once struggled to do."
+    "history": "Place value is the idea that where a digit sits changes what it means—units, tens, sixties. Mesopotamia developed a sexagesimal (base-60) positional system by around 2000 BCE, using spacing and later a placeholder to show empty places. Chinese counting rods gave East Asia a decimal place-value board from roughly the first millennium BCE. Grouped tallies and coin strips rehearse the same insight in the hand: ten ones become one ten, and position does the heavy lifting that pure additive numerals struggled to do. Place is meaning, not decoration.\n\nThe Hindu–Arabic system, with a true zero placeholder, matured in India and spread west through the Islamic world by the 8th–9th centuries CE. Europe’s slow switch from Roman numerals followed, pushed by merchants who needed faster calculation than stone-style numerals allowed. Algorithms for addition, multiplication, and root extraction became compact precisely because place value packed magnitude into columns. Al-Khwārizmī’s arithmetic tradition helped turn those columns into public procedure that travelers could teach in a new city without reinventing the board.\n\nBinary, octal, and hexadecimal place-value systems power every digital computer. Machine registers still carry when a place overflows—the same column logic as clay tablets and counting rods, now switching in nanoseconds. Programmers who pack flags into bit fields are practicing place value whether they name it or not. Memory addresses, color channels, and network packets all assume that position multiplies meaning by a base. The ancient discovery that place carries value became the quiet architecture underneath modern computation. From census tabulators to pocket calculators, place-value arithmetic never left the machine room; it only changed medium."
   },
   {
     "id": 6,
@@ -63,10 +64,10 @@
     "status": "live",
     "era": "origins",
     "artefacts": [
-      "balance",
+      "pan-balance",
       "ten-frame"
     ],
-    "history": "Adding is joining quantities—and for millennia the clearest physical model was the balance scale. Equal-arm balances appear in Egypt and Mesopotamia around the turn of the fourth to the third millennium BCE: put weights on one pan until they match the goods on the other. Egyptian scribes later formalized addition with doubling and unit-fraction tricks on papyrus. A ten-frame does a gentler classroom version of the same join: fill toward ten, then regroup. Addition unlocked trade, rations, and building inventories—everyday civilization math—long before anyone wrote an equation with a plus sign."
+    "history": "Adding is joining quantities—and for millennia the clearest physical model was the balance scale. Equal-arm balances appear in Egypt and Mesopotamia around the turn of the fourth to the third millennium BCE: put weights on one pan until they match the goods on the other. Egyptian scribes later formalized addition with doubling and unit-fraction tricks on papyrus. A ten-frame does a gentler classroom version of the same join: fill toward ten, then regroup. Addition unlocked trade, rations, and building inventories—everyday civilization math—long before anyone wrote an equation with a plus sign.\n\nColumn addition on counting boards and written numerals made joining quantities a taught procedure—align places, sum each column, carry the excess to the next. Chinese rod calculus, Indian decimal methods, and later Islamic and European arithmetics polished recipes that tax clerks and merchants could run the same way every time. The plus sign itself is late, arriving with symbolic algebra’s print culture, but the procedural join is ancient. Once addition was a recipe, error could be checked, apprentices could be drilled, and disputes at the warehouse could shrink.\n\nMechanical and electronic adders embodied the carry chain in gears, relays, and circuits. From Pascal and Leibniz’s calculating machines through Babbage’s designs to the arithmetic logic unit on a modern chip, addition became the machine’s most basic verb. Cash registers, spreadsheets, and scientific code still spend enormous fractions of their life adding cells and registers. The balance pan’s join survived as voltage and clock cycle: same civic need to combine quantities, new medium that never tires. Every checksum, total, and running balance in modern software is still that ancient join, executed without a pan or a pebble."
   },
   {
     "id": 7,
@@ -75,9 +76,9 @@
     "status": "live",
     "era": "origins",
     "artefacts": [
-      "balance"
+      "pan-balance"
     ],
-    "history": "Subtraction is the balance’s other half: take away until the pans agree, or find how much is missing. The same Bronze Age weighing cultures that added by stacking weights also compared and removed them; Egyptian and Babylonian texts treat “what remains” as a routine accounting move. In daily life, subtraction answered urgent questions—how much grain is left, how many days until the festival, how far short of the tax. Mathera’s balance keeps that metaphor honest: difference is not a trick of symbols; it is the gap between two sides of the same world."
+    "history": "Subtraction is the balance’s other half: take away until the pans agree, or find how much is missing. The same Bronze Age weighing cultures that added by stacking weights also compared and removed them; Egyptian and Babylonian texts treat “what remains” as a routine accounting move. In daily life, subtraction answered urgent questions—how much grain is left, how many days until the festival, how far short of the tax. Mathera’s balance keeps that metaphor honest: difference is not a trick of symbols; it is the gap between two sides of the same world.\n\nWritten subtraction algorithms—borrowing across places, complementary methods, clearing beads on an abacus—spread with positional numerals. Chinese and Indian procedural texts, then Islamic arithmetics and European merchant manuals, drilled difference as carefully as sum because ledgers live on both sides of every bargain. Renaissance Italian abacus schools made subtraction a craft skill: neat columns, checked remainders, fewer quarrels at the warehouse door. Once “take away” had a standard recipe, clerks could audit one another’s work instead of trusting memory alone. Standardization mattered: a shared subtraction recipe let distant offices reconcile accounts without meeting face to face."
   },
   {
     "id": 8,
@@ -88,7 +89,7 @@
     "artefacts": [
       "series-chain"
     ],
-    "history": "Humans spotted patterns in notches, seasons, and craft long before school arithmetic. Some readings of the Ishango bone (c. 20,000–25,000 years ago) see grouped marks that look like more than raw tallies—though that reading stays debated. By the Old Babylonian period (early second millennium BCE), clay tablets show deliberate numerical sequences and tables. Pattern recognition is the capacity that turns “one, two, three…” into “what comes next?” A series chain in Mathera is a small, tangible version of that ancient habit: notice the rule, predict the next link, and feel mathematics as rhythm rather than rote."
+    "history": "Humans spotted patterns in notches, seasons, and craft long before school arithmetic. Some readings of the Ishango bone (c. 20,000–25,000 years ago) see grouped marks that look like more than raw tallies—though that reading stays debated. By the Old Babylonian period (early second millennium BCE), clay tablets show deliberate numerical sequences and multiplication tables. Pattern recognition is the capacity that turns “one, two, three…” into “what comes next?” A series chain in Mathera is a small, tangible version of that ancient habit: notice the rule, predict the next link, and feel mathematics as rhythm rather than rote.\n\nModern mathematics and machine learning both amplify the ancient habit: find the rule that fits the marks. Nineteenth-century analysts hunted regularities in infinite series; twentieth-century statisticians fitted models to noisy data; symbolic search engines and neural nets now automate “what comes next?” at scales no scribe’s tablet could hold. Proof assistants and pattern-finding algorithms still begin where the Ishango debate began—asking whether the marks hide a law worth trusting. The human spark remains noticing regularity in the first place; silicon multiplies how far that spark can travel."
   },
   {
     "id": 9,
@@ -97,9 +98,10 @@
     "status": "live",
     "era": "origins",
     "artefacts": [
-      "shape-tiles"
+      "shape-tiles",
+      "clay-token"
     ],
-    "history": "Classification sorts the world into kinds—same shape, same size, same use. Neolithic clay tokens (from roughly the eighth millennium BCE onward in the Near East) already classified commodities by form: a cone for one measure, a disk for another. Sorting is also how early accounting and early geometry meet: you cannot tax or build fairly unless you can say which things belong together. Shape tiles invite children into that same civic skill—group the triangles, set the circles aside—and quietly prepare the ground for later definitions of square, rectangle, and beyond."
+    "history": "Classification sorts the world into kinds—same shape, same size, same use. Neolithic clay tokens (from roughly the eighth millennium BCE onward in the Near East) already classified commodities by form: a cone for one measure, a disk for another. Sorting is how early accounting and early geometry meet: you cannot tax or build fairly unless you can say which things belong together. Shape tiles invite children into that same civic skill—group the triangles, set the circles aside—and quietly prepare the ground for later definitions of square, rectangle, and beyond.\n\nDefinitions and taxonomies made classification speakable across distance. Greek geometry sorted figures by shared properties you could state; Chinese mathematical classics organized problem types into teachable families; later set language and scientific taxonomies sharpened what “belongs with” means in writing. Once kinds can be written down, copied, and argued over, classification stops being only a pile on a mat and becomes a public agreement about sameness. That agreement is what lets strangers share a ledger without sharing a room. Categories on paper travel farther than categories in a single storeroom—and they invite correction when someone disagrees."
   },
   {
     "id": 10,
@@ -108,9 +110,10 @@
     "status": "live",
     "era": "origins",
     "artefacts": [
-      "shape-tiles"
+      "shape-tiles",
+      "compass-and-straightedge"
     ],
-    "history": "Shape is classification grown precise: not just “alike,” but circle, triangle, rectangle with shared properties. Egyptian rope stretchers (<em>harpedonaptai</em>) laid out foundations and fields with knotted cords from early dynastic times (from about 3000 BCE), and tomb scenes show survey teams at work after the Nile’s flood. Babylonian school texts computed areas of familiar figures. Greeks later named and proved; Egyptians and Mesopotamians mostly <em>used</em>. Mathera’s shape tiles keep the practical spirit: handle the form first, name its features, and only then treat geometry as a language rather than a mystery."
+    "history": "Shape is classification grown precise: not just “alike,” but circle, triangle, rectangle with shared properties. Egyptian rope stretchers (harpedonaptai) laid out foundations and fields with knotted cords from early dynastic times (from about 3000 BCE), and tomb scenes show survey teams at work after the Nile’s flood. Babylonian school texts computed areas of familiar figures. Greeks later named and proved; Egyptians and Mesopotamians mostly used. Mathera’s shape tiles keep the practical spirit: handle the form first, name its features, and only then treat geometry as a language rather than a mystery.\n\nWith compass and straightedge, Greek geometers turned shapes into argued objects—definitions, postulates, theorems you could follow without standing in a field. Euclid’s Elements (c. 300 BCE) made the triangle and the circle the public language of exact form for two millennia of readers. Diagrams on papyrus and parchment let a student reconstruct a figure step by step. Shape became something you could win an argument with in ink, not only something you could pave with stone. The WRITE epoch is where form learned to speak in proofs."
   },
   {
     "id": 11,
@@ -121,7 +124,7 @@
     "artefacts": [
       "grid"
     ],
-    "history": "Position answers “where?” relative to a frame. Egyptian artists used square grids to keep body proportions consistent in tomb painting; Chinese cartographers later mapped land with rectangular grids; Greek astronomers and then Ptolemy adapted coordinate ideas from the sky to the earth. A classroom grid is a miniature of those civic frames: rows and columns turn vague location into an address. Once position is speakable—“two right, three up”—children can plan paths, read maps, and eventually meet graphs and coordinates without feeling that the plane appeared from nowhere."
+    "history": "Position answers “where?” relative to a frame. Egyptian artists used square grids to keep body proportions consistent in tomb painting; Chinese cartographers mapped land with rectangular grids; Greek astronomers and then Ptolemy adapted coordinate ideas from the sky toward descriptions of the earth. A classroom grid is a miniature of those civic frames: rows and columns turn vague location into an address. Once position is speakable—“two right, three up”—children can plan paths, read maps, and eventually meet graphs and coordinates without feeling that the plane appeared from nowhere.\n\nPrinted maps, sea charts, and coordinate grids let position travel farther than any single surveyor. Latitude and longitude on paper, then Cartesian planes in analytic geometry, gave earth and idea a shared address system anyone could copy. Graph paper, spreading widely in the nineteenth century, made positional thinking a desk habit for engineers and students alike. When frames print cheaply and consistently, “where?” stops belonging only to the person who walked the land and becomes a common language of location."
   },
   {
     "id": 12,
@@ -133,79 +136,144 @@
       "ruler",
       "number-line"
     ],
-    "history": "Distance is how far apart two positions are—and civilizations standardized it early because trade and building demanded shared units. Egyptian royal cubit rods (attested by the Old Kingdom, around the mid-third millennium BCE) divided the forearm-based cubit into palms and fingers; Mesopotamia used the <em>nindan</em> and other survey measures; knotted ropes stretched fields after the flood. A ruler is that ancient rod in the hand; a number line makes distance countable as steps. Together they close Batch 1’s arc: from “how many marks?” to “how far from here to there?”—the everyday geometry of a measured world."
+    "history": "Distance is how far apart two positions are—and civilizations standardized it early because trade and building demanded shared units. Egyptian royal cubit rods (attested by the Old Kingdom, around the mid-third millennium BCE) divided the forearm-based cubit into palms and fingers; Mesopotamia used the nindan and other survey measures; knotted ropes stretched fields after the flood. A ruler is that ancient rod in the hand; a number line makes distance countable as steps. Together they close the path from “how many marks?” to “how far from here to there?”—the everyday geometry of a measured world.\n\nPrecision instruments—vernier scales, Gunter’s and survey chains, micrometers, theodolites—turned distance into fine, repeatable readings. Metric reform in revolutionary France, then industrial standards across Britain and beyond, made “how far?” a negotiated global language rather than a local rod’s opinion. Railways, factories, and laboratories needed parts that fit; measured distance was the quiet infrastructure underneath interchangeable manufacture. The cubit rod’s civic promise survived as calibrated steel and printed conversion tables. Conversion tables and standard yards closed the gap between local custom and long-distance engineering contracts."
   },
   {
     "id": 13,
     "name": "Units",
     "slug": "units",
-    "status": "coming"
+    "status": "live",
+    "artefacts": [
+      "ruler",
+      "measuring-cup"
+    ],
+    "history": "A unit is an agreed “one” for measuring—cubit, shekel, chi, bushel. Early states stamped and guarded standards so tax and trade would not dissolve into argument about whose stick was longer. Egyptian royal cubit rods, Mesopotamian weight stones, and Chinese measuring vessels made quantity comparable across markets, seasons, and officials. Without a shared unit, every bargain becomes a quarrel about the measuring tool itself. Units are civic technology before they are school vocabulary: they let strangers trust a number they did not watch being made.\n\nThe metric system (1790s France) and later SI units turned local rods into a worldwide kit: metre, kilogram, second, and their derived cousins. Factories needed interchangeable parts; interchangeable units were the paperwork and brass bars that made those parts fit across borders and decades. Measuring cups, gauge blocks, and laser-calibrated standards all enforce the same social contract: this length, this mass, this time counts as one. Mechanization made units portable at industrial scale without erasing the ancient need for agreement.",
+    "era": "origins"
   },
   {
     "id": 14,
     "name": "Measurement",
     "slug": "measurement",
-    "status": "coming"
+    "status": "live",
+    "artefacts": [
+      "ruler",
+      "vernier-caliper"
+    ],
+    "history": "Measurement assigns a number to a continuous feature—length, weight, time, volume—by comparing it to a chosen unit. Surveyors after the Nile flood, temple architects, and merchants with balance pans practiced it long before school theory caught up. Choose a unit, compare the thing to that unit, record the count: the act is simple and civic. Early measurement was often good enough for harvests and walls even when instruments were coarse, because shared practice mattered more than microscopic precision. Recorded measurements on clay or papyrus let a supervisor check work done out of sight.\n\nTelescopes, pendulums, vernier calipers, and planimeters embodied measurement in brass, glass, and steel. As instruments resolved finer than the unaided eye, error bars and significant figures followed: measurement became a science of uncertainty as much as of size. Atlantic scientific culture and British industrial workshops both lived on better gauges and honest tolerances. To measure well in the MECHANIZE epoch is to know how wrong you might still be—and to design anyway within those bounds. Calibration culture—checking the tool against a master standard—became as important as the reading itself.",
+    "era": "origins"
   },
   {
     "id": 15,
     "name": "Data Representation",
     "slug": "data-representation",
-    "status": "coming"
+    "status": "live",
+    "artefacts": [
+      "data-marks",
+      "clay-token",
+      "manuscript-table"
+    ],
+    "history": "Clay tokens and sealed bullae (from the late Neolithic into the fourth millennium BCE in Mesopotamia) stored facts about goods before full writing existed. Marks on ledgers, notches on sticks, and inked columns are the same move: choose a form that stands for a fact so others can read it later. Data representation begins whenever a community refuses to let important quantities vanish with a single person’s memory. The token is not yet a novel; it is already a database in clay.\n\nTables—astronomical, commercial, fiscal—organized data into rows you could look up by a taught procedure. Chinese, Indian, and Islamic scientific cultures built dense manuscript tables; clerks learned to find the correct row and apply the matching rule. Representation became actionable: not only stored, but queried on demand. The manuscript table is the ancestor of every lookup modern institutions still run, from tax schedules to star ephemerides. A table without a lookup rule is only a mural; with a rule it becomes a working instrument for prediction and tax alike.\n\nSpreadsheets, relational databases, and binary encodings turned data representation into the bloodstream of modern work. Punch cards once marched through national censuses; now files and clouds carry the clay token’s old promise—facts that outlive the moment of seeing. Formats and schemas are today’s sealed bullae: agreements about what the marks mean when someone else, or some other program, opens them. Computation did not invent data; it accelerated who can read and rewrite it. Query languages are the latest lookup rules: ask clearly, retrieve the mark that answers.",
+    "era": "origins"
   },
   {
     "id": 16,
     "name": "Estimation",
     "slug": "estimation",
-    "status": "coming"
+    "status": "live",
+    "artefacts": [
+      "estimate-stick"
+    ],
+    "history": "Estimation is knowing when “about” is enough—herd size at a glance, grain in a bin, days left on a journey. Farmers, captains, and market sellers practiced it long before schoolbooks named the skill. An estimate stick or rough tally accepts that some decisions cannot wait for a perfect count under perfect light. Estimation is judgment under time pressure, not a failed measurement. Civilizations that could not estimate poorly starved or sailed into storms. Good estimators were trusted community resources—people who could glance and rarely embarrass the harvest plan.\n\nScientific estimation grew explicit rules: order-of-magnitude thinking, significant digits, and propagated error from instrument to result. Engineers designing beams and gunners ranging shot needed good-enough numbers with known risk—estimation with a warranty rather than a shrug. Instrument culture made “roughly” respectable when paired with stated bounds. The estimate stick graduated into Fermi problems, tolerance stacks, and back-of-envelope design that still saves projects before finer calculation begins. Slide rules and nomograms made rapid estimation a trained professional habit, not only folk wisdom.",
+    "era": "origins"
   },
   {
     "id": 17,
     "name": "Repeated Operations / Iteration",
     "slug": "repeated-operations-iteration",
-    "status": "coming"
+    "status": "live",
+    "artefacts": [
+      "iteration-crank"
+    ],
+    "history": "Egyptian arithmetic loved doubling: to multiply, keep doubling and select the rows that sum to the multiplier, a method attested across Middle Kingdom problem traditions such as the Rhind Mathematical Papyrus. Repetition was not laziness—it was a reliable engine anyone could check. Babylonian reciprocal tables likewise turned hard division into look-up plus repeated adjustment. Iteration is the discovery that doing the same move again, carefully, can finish a job too large for a single insight. The method’s power was transparency: each doubling step could be checked, so trust did not rely on a mysterious leap.\n\nIteration became an explicit mathematical method: approximate roots by repeating a step, refine a quotient, loop until the result stabilizes within need. Chinese and Indian mathematical texts describe successive procedures with stopping judgment; Islamic algebraists and later Europeans inherited and extended those habits. “Do it again, more carefully” turned into named algorithms with exit conditions—iteration with an agreed end, not endless busywork. Convergence talk—getting closer each round—turned repetition into a theory of approximation, not mere stubbornness.\n\nLoops are the soul of software. Jacquard looms repeated punched patterns in silk; Babbage imagined iterative engines; modern programs wrap rules in for and while constructs that a processor executes without boredom. Machines formalized iteration so a crank—or a clock cycle—could repeat a rule without fatigue or complaint. Every progress bar and loading spinner is a distant cousin of Egyptian doubling, still asking the machine to do the next same step. Nested loops and recursive calls are iteration wearing formal clothes, still obedient to a stopping condition.",
+    "era": "origins"
   },
   {
     "id": 18,
     "name": "Algorithms",
     "slug": "algorithms",
-    "status": "coming"
+    "status": "live",
+    "artefacts": [
+      "recipe-tablet"
+    ],
+    "history": "An algorithm is a recipe that always works the same way when followed carefully. Babylonian clay tablets prescribe step-by-step solutions for survey and accounting problems; Egyptian papyri do likewise for rations, slopes, and bread. The “recipe tablet” idea is older than the Arabic-rooted word we now use. Early algorithms lived as worked examples a scribe could imitate, not as modern pseudocode—but the discipline of ordered, shareable steps was already a civic technology. A recipe you cannot teach to another scribe is only a private trick; algorithms begin when steps become communal.\n\nThe word algorithm traces to al-Khwārizmī (9th century, working in the Baghdad scholarly orbit), whose arithmetic and algebra texts taught procedures as public knowledge that could cross languages. Indian and Chinese traditions independently cultivated highly procedural mathematics—rod calculus, root extraction, and simultaneous systems such as fangcheng. Naming and circulating recipes made method a shared good: a traveler could teach a calculation in a new city without reinventing every step from scratch. Translation movements carried those recipes across scripts, proving that method can migrate even when spoken language differs.\n\nFrom Ada Lovelace’s notes on Babbage’s Analytical Engine to compilers, operating systems, and complexity theory, algorithms became things machines execute and mathematicians analyze for time and correctness. Punch cards, stored programs, and proof assistants all inherit the tablet’s demand: say the steps so clearly that another agent—human or silicon—can run them and get the same result. The ALGORITHM epoch’s recipes found their ultimate apprentice in the computer. Sorting, searching, and encryption routines are contemporary recipe tablets written for processors instead of apprentices.",
+    "era": "origins"
   },
   {
     "id": 19,
     "name": "Commutativity",
     "slug": "commutativity",
-    "status": "coming"
+    "status": "live",
+    "artefacts": [
+      "swap-pans"
+    ],
+    "history": "Commutativity is the quiet fact that order often does not matter: 3+5 and 5+3 name the same join, and many products behave likewise. Practitioners swapped addends and factors for millennia while calculating on boards and papyrus. Greek geometric habits and later Islamic algebraic practice treated such symmetries as laws you could rely on when rearranging an argument without changing its force. Swap-pans on a balance make the indifference of order visible: the total weight does not care which pan received which piece first.\n\nPrinted algebra made commutative laws explicit talking points of school arithmetic and, later, axioms of abstract algebraic structures. Once textbooks could say “addition is commutative,” students and researchers could swap freely without re-proving the obvious in every paragraph. Nineteenth-century structure theory then asked which operations commute—and which deliberately do not, as matrix multiplication famously refuses. Print fixed the name; research mapped the exceptions. Classroom posters listing commutative laws made a craftsman’s habit into a sentence every student could recite and test.",
+    "era": "classical"
   },
   {
     "id": 20,
     "name": "Associativity",
     "slug": "associativity",
-    "status": "coming"
+    "status": "live",
+    "artefacts": [
+      "nest-boxes"
+    ],
+    "history": "Associativity says grouping need not matter: (2+3)+4 equals 2+(3+4), and many multiplications agree. Nesting boxes or regrouping pebbles show the idea in the hand before symbols arrive. Algebraic writers who rearranged long sums and products depended on regrouping even before the Latinate school name stuck in European curricula. Parentheses in written mathematics are a late courtesy to the reader; the regrouping habit is older than the ink that marks it. Teachers who regroup to make ten are practicing associativity long before they write the word on the board.\n\nIn nineteenth-century abstract algebra, especially in Central European research cultures, associativity became a defining axiom for groups, monoids, and rings. Print culture spread the checklist: closed, associative, identity, inverses—structure you could verify on paper and teach in sequence. Associativity looks dull until you meet a non-associative operation; then you understand why the axiom earned its permanent line in the textbook. Non-associative curiosities in print made the axiom’s necessity obvious: without it, parentheses become a battlefield.",
+    "era": "classical"
   },
   {
     "id": 21,
     "name": "Identity & Inverse Elements",
     "slug": "identity-and-inverse-elements",
-    "status": "coming"
+    "status": "live",
+    "artefacts": [
+      "cancel-weights"
+    ],
+    "history": "An identity leaves things unchanged (add 0, multiply by 1); an inverse undoes (add the opposite, multiply by the reciprocal). Indian mathematicians treated zero with growing confidence; Islamic algebra handled negatives and completion moves that restore balance; Greek geometry spoke of same and opposite in its own register of magnitudes. Cancel-weights on a balance make the metaphor physical: what you add can be taken back to restore level. Identity and inverse are the grammar of “change” and “undo” inside arithmetic.\n\nGroup theory crystallized identity and inverse as axioms you must exhibit before claiming a structure is a group. Once printed textbooks required an identity element e and an inverse a⁻¹, every new algebraic system had to show its “do nothing” and “undo” elements up front. The cancel-weight gesture became a line in a definition—small, strict, and indispensable. Print made the checklist travel; research filled it with new examples from geometry to cryptography. From permutation groups to modular arithmetic, printed examples trained eyes to spot the identity and the undo at a glance.",
+    "era": "classical"
   },
   {
     "id": 22,
     "name": "Inverse Operations",
     "slug": "inverse-operations",
-    "status": "coming"
+    "status": "live",
+    "artefacts": [
+      "undo-latch"
+    ],
+    "history": "Wherever people added, they subtracted; wherever they multiplied by doubling or tables, they divided by sharing or measuring out. Inverse operations are the undo pairs of everyday arithmetic—the latch that lets a move be reversed. Accounting lives on that latch: every credit imagines a debit, every filled jar imagines emptying, every journey out imagines a return count. The undo-latch is civilization’s way of saying a quantitative move need not be permanent if you kept track of how it was done.\n\nProcedural texts taught inverse steps explicitly: check a multiplication by division, reverse an equation by opposite moves, undo a false start on the counting board before the error hardens. Algebra’s habit of “doing the same to both sides” is inverse thinking made into a portable method. Once operations come in undo pairs, problem-solving becomes a path you can walk backward to verify—an algorithmic conscience that catches mistakes early. Double-entry bookkeeping is inverse operations at civilization scale: every move recorded with its mirror.",
+    "era": "origins"
   },
   {
     "id": 23,
     "name": "Area",
     "slug": "area",
-    "status": "coming"
+    "status": "live",
+    "artefacts": [
+      "area-model",
+      "area-sweep"
+    ],
+    "history": "Area began as field and floor—how much land after the flood, how many bricks for a courtyard. Egyptian and Babylonian problem texts compute areas of rectangles, triangles, and trapezoids with practical rules meant for scribes and surveyors. Exactness varied; some Egyptian circle procedures are known to be approximate, which honest history should say aloud. Still, the civic need was clear: fair shares of land and labor need numbers for surfaces, not only for counts of cattle. When taxes depend on field area, a wrong rule is not a school mistake—it is a political injury.\n\nEuclid and Archimedes made area a matter of proof: congruence arguments, method of exhaustion, and careful comparisons that did not rely on a single formula sheet memorized without reason. Area became something you could argue in a diagram, not only survey with a rope after the flood. Greek writing turned the farmer’s question into a theorem’s conclusion—same practical question, stricter and more portable answer across readers who never saw the original field. Manuscript copies of the Elements carried area arguments into classrooms that had never seen Egyptian flood plains.\n\nPlanimeters traced irregular boundaries and read area off a dial—measurement without tiling the region by hand with unit squares. Analytic geometry and integral calculus treated area as an accumulated product, ready for engineering drawings and machine design. Area-sweep instruments and computed integrals kept the ancient field problem alive on the drafting table, where factories and laboratories needed surface measure as urgently as temples once did. Shipbuilders and surveyors alike needed area tools that worked on curved and irregular outlines, not only neat rectangles.",
+    "era": "origins"
   },
   {
     "id": 24,
     "name": "Volume",
     "slug": "volume",
-    "status": "coming"
+    "status": "live",
+    "artefacts": [
+      "volume-jar"
+    ],
+    "history": "Volume answered container and earthwork questions: how much grain in a granary, how much earth in a ramp or canal cut. Egyptian, Babylonian, and Chinese sources give procedures for boxes, cylinders, and truncated pyramids—sometimes exact, sometimes rule-of-thumb suited to the tools at hand. The volume jar is the household face of a state problem: storage, rationing, and labor both need cubic measure. Without volume, surplus cannot be planned. Granary volume linked mathematics to famine prevention: know the cubic content, plan the year.\n\nArchimedes’ results on spheres, cylinders, and crowns (3rd century BCE) showed volume could be chased with rigor and clever mechanical insight, not only with gauging rods. Centuries later, Cavalieri’s principle linked equal cross-sections to equal volumes—an idea with possible Chinese precursors that historians still discuss carefully rather than settle hastily. Writing and diagram made volume more than a jar’s guess: it became a claim you could defend. Commentators who re-derived Archimedean volume results kept the standards of argument alive between golden ages.\n\nIntegral calculus and shop-floor gauging turned volume into both theory and industrial practice. Displacement tanks, gauging rods, and computed solids kept the ancient jar question alive in laboratories, distilleries, shipyards, and factories. When engines and pipelines need precisely known capacities, volume stops being only a school formula and becomes infrastructure you can trust under pressure—literally and figuratively. Hydraulics and thermodynamics later demanded volume measure precise enough for engines that punish small errors.",
+    "era": "origins"
   },
   {
     "id": 25,
