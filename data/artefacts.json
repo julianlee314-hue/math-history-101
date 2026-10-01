@@ -390,6 +390,193 @@
         "name": "Function chain",
         "era": "enlightenment"
       }
-    ]
+    ],
+    "image": "assets/artefacts/series-chain.jpg",
+    "thumb": "assets/artefacts/thumb-series-chain.jpg",
+    "epoch": "mark"
+  },
+  {
+    "id": "formula-card",
+    "name": "Formula card",
+    "image": "assets/artefacts/formula-card.jpg",
+    "thumb": "assets/artefacts/thumb-formula-card.jpg",
+    "epoch": "write",
+    "summary": "Boxes and letters hold what you do not yet know."
+  },
+  {
+    "id": "growth-vial",
+    "name": "Growth vial",
+    "image": "assets/artefacts/growth-vial.jpg",
+    "thumb": "assets/artefacts/thumb-growth-vial.jpg",
+    "epoch": "mechanize",
+    "summary": "Levels that climb by a rule—growth made visible."
+  },
+  {
+    "id": "chance-bowl",
+    "name": "Chance bowl",
+    "image": "assets/artefacts/chance-bowl.jpg",
+    "thumb": "assets/artefacts/thumb-chance-bowl.jpg",
+    "epoch": "mark",
+    "summary": "Tokens drawn from a bowl: chance you can feel."
+  },
+  {
+    "id": "slope-glass",
+    "name": "Slope glass",
+    "image": "assets/artefacts/slope-glass.jpg",
+    "thumb": "assets/artefacts/thumb-slope-glass.jpg",
+    "epoch": "mechanize",
+    "summary": "Rise over run under glass—the chord before the tangent."
+  },
+  {
+    "id": "area-sweep",
+    "name": "Area sweep",
+    "image": "assets/artefacts/area-sweep.jpg",
+    "thumb": "assets/artefacts/thumb-area-sweep.jpg",
+    "epoch": "mechanize",
+    "summary": "Trace the boundary; the instrument remembers the area."
+  },
+  {
+    "id": "vector-arrow",
+    "name": "Vector arrow",
+    "image": "assets/artefacts/vector-arrow.jpg",
+    "thumb": "assets/artefacts/thumb-vector-arrow.jpg",
+    "epoch": "mechanize",
+    "summary": "Length and direction carved as one object."
+  },
+  {
+    "id": "matrix-press",
+    "name": "Matrix press",
+    "image": "assets/artefacts/matrix-press.jpg",
+    "thumb": "assets/artefacts/thumb-matrix-press.jpg",
+    "epoch": "compute",
+    "summary": "A grid of cells stamped into one operation."
+  },
+  {
+    "id": "model-bench",
+    "name": "Model bench",
+    "image": "assets/artefacts/model-bench.jpg",
+    "thumb": "assets/artefacts/thumb-model-bench.jpg",
+    "epoch": "write",
+    "summary": "Blocks fitted until the model matches the world."
+  },
+  {
+    "id": "proof-seal",
+    "name": "Proof seal",
+    "image": "assets/artefacts/proof-seal.jpg",
+    "thumb": "assets/artefacts/thumb-proof-seal.jpg",
+    "epoch": "write",
+    "summary": "A seal that says the argument closed."
+  },
+  {
+    "id": "error-bead",
+    "name": "Error bead",
+    "image": "assets/artefacts/error-bead.jpg",
+    "thumb": "assets/artefacts/thumb-error-bead.jpg",
+    "epoch": "mark",
+    "summary": "One bead that marks where the count went wrong."
+  },
+  {
+    "id": "hundred-chart",
+    "name": "Hundred chart",
+    "image": "assets/artefacts/hundred-chart.jpg",
+    "thumb": "assets/artefacts/thumb-hundred-chart.jpg",
+    "epoch": "write",
+    "summary": "One hundred cells—place value laid flat."
+  },
+  {
+    "id": "letter-balance",
+    "name": "Letter balance",
+    "image": "assets/artefacts/letter-balance.jpg",
+    "thumb": "assets/artefacts/thumb-letter-balance.jpg",
+    "epoch": "write",
+    "summary": "Unknowns weighed until both pans agree."
+  },
+  {
+    "id": "inequality-beam",
+    "name": "Inequality beam",
+    "image": "assets/artefacts/inequality-beam.jpg",
+    "thumb": "assets/artefacts/thumb-inequality-beam.jpg",
+    "epoch": "algorithm",
+    "summary": "A beam that tips when greater is greater."
+  },
+  {
+    "id": "printed-arithmetic",
+    "name": "Printed arithmetic",
+    "image": "assets/artefacts/printed-arithmetic.jpg",
+    "thumb": "assets/artefacts/thumb-printed-arithmetic.jpg",
+    "epoch": "print",
+    "summary": "Tables multiplied by the press, not the hand."
+  },
+  {
+    "id": "merchant-ledger",
+    "name": "Merchant ledger",
+    "image": "assets/artefacts/merchant-ledger.jpg",
+    "thumb": "assets/artefacts/thumb-merchant-ledger.jpg",
+    "epoch": "print",
+    "summary": "Columns of credit and debit that must close."
+  },
+  {
+    "id": "telescope",
+    "name": "Telescope",
+    "image": "assets/artefacts/telescope.jpg",
+    "thumb": "assets/artefacts/thumb-telescope.jpg",
+    "epoch": "mechanize",
+    "summary": "Distance stretched by lenses—measure at a remove."
+  },
+  {
+    "id": "pendulum",
+    "name": "Pendulum",
+    "image": "assets/artefacts/pendulum.jpg",
+    "thumb": "assets/artefacts/thumb-pendulum.jpg",
+    "epoch": "mechanize",
+    "summary": "Time kept by swing—period as a unit."
+  },
+  {
+    "id": "mechanical-calculator",
+    "name": "Mechanical calculator",
+    "image": "assets/artefacts/mechanical-calculator.jpg",
+    "thumb": "assets/artefacts/thumb-mechanical-calculator.jpg",
+    "epoch": "mechanize",
+    "summary": "Levers and dials that add without a scribe."
+  },
+  {
+    "id": "graph-paper",
+    "name": "Graph paper",
+    "image": "assets/artefacts/graph-paper.jpg",
+    "thumb": "assets/artefacts/thumb-graph-paper.jpg",
+    "epoch": "print",
+    "summary": "A printed lattice ready for a plotted path."
+  },
+  {
+    "id": "area-model",
+    "name": "Area model",
+    "image": "assets/artefacts/area-model.jpg",
+    "thumb": "assets/artefacts/thumb-area-model.jpg",
+    "epoch": "write",
+    "summary": "Products as rectangles you can rearrange."
+  },
+  {
+    "id": "mirror-symmetry",
+    "name": "Mirror of symmetry",
+    "image": "assets/artefacts/mirror-symmetry.jpg",
+    "thumb": "assets/artefacts/thumb-mirror-symmetry.jpg",
+    "epoch": "write",
+    "summary": "A reflection that proves two sides match."
+  },
+  {
+    "id": "outcome-tree",
+    "name": "Outcome tree",
+    "image": "assets/artefacts/outcome-tree.jpg",
+    "thumb": "assets/artefacts/thumb-outcome-tree.jpg",
+    "epoch": "algorithm",
+    "summary": "Branches for every chance path."
+  },
+  {
+    "id": "proof-assistant",
+    "name": "Proof assistant",
+    "image": "assets/artefacts/proof-assistant.jpg",
+    "thumb": "assets/artefacts/thumb-proof-assistant.jpg",
+    "epoch": "intelligence",
+    "summary": "A slate that checks the next step."
   }
 ]
