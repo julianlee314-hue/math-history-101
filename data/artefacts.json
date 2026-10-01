@@ -1303,5 +1303,271 @@
     "concepts": [
       129
     ]
+  },
+  {
+    "id": "root-extractor",
+    "name": "Root extractor",
+    "image": "assets/artefacts/root-extractor.jpg",
+    "thumb": "assets/artefacts/thumb-root-extractor.jpg",
+    "epoch": "algorithm",
+    "summary": "A brass radical for digging out roots.",
+    "concepts": [
+      89
+    ]
+  },
+  {
+    "id": "spread-whiskers",
+    "name": "Spread whiskers",
+    "image": "assets/artefacts/spread-whiskers.jpg",
+    "thumb": "assets/artefacts/thumb-spread-whiskers.jpg",
+    "epoch": "print",
+    "summary": "A box that shows how wide the data runs.",
+    "concepts": [
+      105
+    ]
+  },
+  {
+    "id": "bell-jar",
+    "name": "Bell jar",
+    "image": "assets/artefacts/bell-jar.jpg",
+    "thumb": "assets/artefacts/thumb-bell-jar.jpg",
+    "epoch": "print",
+    "summary": "Sand under glass settling into a curve.",
+    "concepts": [
+      106
+    ]
+  },
+  {
+    "id": "necessary-seal",
+    "name": "Necessary seal",
+    "image": "assets/artefacts/necessary-seal.jpg",
+    "thumb": "assets/artefacts/thumb-necessary-seal.jpg",
+    "epoch": "write",
+    "summary": "Twin seals for what must and what suffices.",
+    "concepts": [
+      115
+    ]
+  },
+  {
+    "id": "independence-urns",
+    "name": "Independence urns",
+    "image": "assets/artefacts/independence-urns.jpg",
+    "thumb": "assets/artefacts/thumb-independence-urns.jpg",
+    "epoch": "write",
+    "summary": "Two urns whose draws do not lean on each other.",
+    "concepts": [
+      118
+    ]
+  },
+  {
+    "id": "peak-dial",
+    "name": "Peak dial",
+    "image": "assets/artefacts/peak-dial.jpg",
+    "thumb": "assets/artefacts/thumb-peak-dial.jpg",
+    "epoch": "mechanize",
+    "summary": "A dial seeking the top of the hill.",
+    "concepts": [
+      121
+    ]
+  },
+  {
+    "id": "shadow-projection",
+    "name": "Shadow projection",
+    "image": "assets/artefacts/shadow-projection.jpg",
+    "thumb": "assets/artefacts/thumb-shadow-projection.jpg",
+    "epoch": "write",
+    "summary": "An object and the clean shadow it casts.",
+    "concepts": [
+      123
+    ]
+  },
+  {
+    "id": "locus-string",
+    "name": "Locus string",
+    "image": "assets/artefacts/locus-string.jpg",
+    "thumb": "assets/artefacts/thumb-locus-string.jpg",
+    "epoch": "write",
+    "summary": "Pins and string tracing a quiet curve.",
+    "concepts": [
+      125
+    ]
+  },
+  {
+    "id": "inference-urn",
+    "name": "Inference urn",
+    "image": "assets/artefacts/inference-urn.jpg",
+    "thumb": "assets/artefacts/thumb-inference-urn.jpg",
+    "epoch": "print",
+    "summary": "Beads drawn to guess the whole jar.",
+    "concepts": [
+      127
+    ]
+  },
+  {
+    "id": "ftc-bridge",
+    "name": "FTC bridge",
+    "image": "assets/artefacts/ftc-bridge.jpg",
+    "thumb": "assets/artefacts/thumb-ftc-bridge.jpg",
+    "epoch": "algorithm",
+    "summary": "A bridge from slope to accumulated area.",
+    "concepts": [
+      133
+    ]
+  },
+  {
+    "id": "differential-scroll",
+    "name": "Differential scroll",
+    "image": "assets/artefacts/differential-scroll.jpg",
+    "thumb": "assets/artefacts/thumb-differential-scroll.jpg",
+    "epoch": "write",
+    "summary": "A parchment of change against change.",
+    "concepts": [
+      134
+    ]
+  },
+  {
+    "id": "integral-basin",
+    "name": "Integral basin",
+    "image": "assets/artefacts/integral-basin.jpg",
+    "thumb": "assets/artefacts/thumb-integral-basin.jpg",
+    "epoch": "mechanize",
+    "summary": "A basin catching the flowing sum.",
+    "concepts": [
+      132
+    ]
+  },
+  {
+    "id": "series-ladder",
+    "name": "Series ladder",
+    "image": "assets/artefacts/series-ladder.jpg",
+    "thumb": "assets/artefacts/thumb-series-ladder.jpg",
+    "epoch": "algorithm",
+    "summary": "Rungs of truncated terms climbing toward truth.",
+    "concepts": [
+      135
+    ]
+  },
+  {
+    "id": "constraint-fence",
+    "name": "Constraint fence",
+    "image": "assets/artefacts/constraint-fence.jpg",
+    "thumb": "assets/artefacts/thumb-constraint-fence.jpg",
+    "epoch": "write",
+    "summary": "Posts that fence in the allowed answers.",
+    "concepts": [
+      85
+    ]
+  },
+  {
+    "id": "number-nest",
+    "name": "Number nest",
+    "image": "assets/artefacts/number-nest.jpg",
+    "thumb": "assets/artefacts/thumb-number-nest.jpg",
+    "epoch": "write",
+    "summary": "Nested rings of ever-wider number sets.",
+    "concepts": [
+      87
+    ]
+  },
+  {
+    "id": "simulation-spinner",
+    "name": "Simulation spinner",
+    "image": "assets/artefacts/simulation-spinner.jpg",
+    "thumb": "assets/artefacts/thumb-simulation-spinner.jpg",
+    "epoch": "mechanize",
+    "summary": "A wheel for trying chance again and again.",
+    "concepts": [
+      104
+    ]
+  },
+  {
+    "id": "conditional-gate",
+    "name": "Conditional gate",
+    "image": "assets/artefacts/conditional-gate.jpg",
+    "thumb": "assets/artefacts/thumb-conditional-gate.jpg",
+    "epoch": "write",
+    "summary": "Two chambers—pass the first, then the second.",
+    "concepts": [
+      117
+    ]
+  },
+  {
+    "id": "signed-thermometer",
+    "name": "Signed thermometer",
+    "image": "assets/artefacts/signed-thermometer.jpg",
+    "thumb": "assets/artefacts/thumb-signed-thermometer.jpg",
+    "epoch": "write",
+    "summary": "Warm and cool sides of signed quantity.",
+    "concepts": [
+      86
+    ]
+  },
+  {
+    "id": "magnitude-bar",
+    "name": "Magnitude bar",
+    "image": "assets/artefacts/magnitude-bar.jpg",
+    "thumb": "assets/artefacts/thumb-magnitude-bar.jpg",
+    "epoch": "mark",
+    "summary": "Rising notches of how big a thing is.",
+    "concepts": [
+      29
+    ]
+  },
+  {
+    "id": "scale-pantograph",
+    "name": "Scale pantograph",
+    "image": "assets/artefacts/scale-pantograph.jpg",
+    "thumb": "assets/artefacts/thumb-scale-pantograph.jpg",
+    "epoch": "mechanize",
+    "summary": "Linked arms that enlarge or shrink a figure.",
+    "concepts": [
+      81,
+      30
+    ]
+  },
+  {
+    "id": "mental-abacus",
+    "name": "Mental abacus",
+    "image": "assets/artefacts/mental-abacus.jpg",
+    "thumb": "assets/artefacts/thumb-mental-abacus.jpg",
+    "epoch": "algorithm",
+    "summary": "A pocket abacus for fluent reckoning.",
+    "concepts": [
+      26
+    ]
+  },
+  {
+    "id": "flip-cards",
+    "name": "Flip cards",
+    "image": "assets/artefacts/flip-cards.jpg",
+    "thumb": "assets/artefacts/thumb-flip-cards.jpg",
+    "epoch": "print",
+    "summary": "The same idea shown three quiet ways.",
+    "concepts": [
+      35,
+      37
+    ]
+  },
+  {
+    "id": "local-wedge",
+    "name": "Local wedge",
+    "image": "assets/artefacts/local-wedge.jpg",
+    "thumb": "assets/artefacts/thumb-local-wedge.jpg",
+    "epoch": "algorithm",
+    "summary": "A tiny wedge approximating a curve nearby.",
+    "concepts": [
+      131
+    ]
+  },
+  {
+    "id": "vector-parallelogram",
+    "name": "Vector parallelogram",
+    "image": "assets/artefacts/vector-parallelogram.jpg",
+    "thumb": "assets/artefacts/thumb-vector-parallelogram.jpg",
+    "epoch": "write",
+    "summary": "Two arrows completing a parallelogram.",
+    "concepts": [
+      137
+    ]
   }
 ]
