@@ -757,21 +757,31 @@ a:hover { color: var(--epoch-print); }
   color: var(--ink-faint);
 }
 
-/* Epoch cards */
-.epoch-grid {
+/* Epoch cards — tall narrow pillars, seven across on wide screens */
+.wrap-epochs {
+  max-width: min(1280px, calc(100% - 1.5rem));
+}
+.epoch-grid,
+.epoch-grid.epoch-grid-7 {
   display: grid;
-  grid-template-columns: 1fr;
-  gap: 0.85rem;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 0.55rem;
+  align-items: stretch;
 }
-@media (min-width: 640px) {
-  .epoch-grid { grid-template-columns: repeat(2, 1fr); }
-}
-@media (min-width: 980px) {
-  .epoch-grid { grid-template-columns: repeat(3, 1fr); }
-}
-@media (min-width: 1100px) {
+@media (max-width: 1100px) {
+  .epoch-grid,
   .epoch-grid.epoch-grid-7 {
-    grid-template-columns: repeat(7, 1fr);
+    grid-template-columns: repeat(7, minmax(7.2rem, 1fr));
+    overflow-x: auto;
+    padding-bottom: 0.35rem;
+    scroll-snap-type: x proximity;
+  }
+  .epoch-card { scroll-snap-align: start; }
+}
+@media (max-width: 640px) {
+  .epoch-grid,
+  .epoch-grid.epoch-grid-7 {
+    grid-template-columns: repeat(7, minmax(8rem, 1fr));
   }
 }
 
@@ -779,53 +789,62 @@ a:hover { color: var(--epoch-print); }
   position: relative;
   display: flex;
   flex-direction: column;
-  gap: 0.45rem;
-  padding: 1rem 1.05rem 1.05rem;
+  align-items: stretch;
+  gap: 0.55rem;
+  padding: 1.15rem 0.55rem 1.25rem;
   background: var(--paper-deep);
   border: 1px solid var(--rule);
-  border-radius: 4px 12px 4px 8px;
+  border-radius: 3px 10px 3px 6px;
   box-shadow: 1px 2px 0 var(--shadow);
   overflow: hidden;
-  min-height: 11rem;
+  min-height: 22rem;
+  text-align: center;
 }
 .epoch-card::before {
   content: "";
   position: absolute;
-  left: 0; top: 0; bottom: 0;
-  width: 5px;
+  left: 0; right: 0; top: 0;
+  height: 6px;
+  width: auto;
   background: var(--epoch-color, var(--epoch-mark));
 }
 .epoch-card .glyph {
   font-family: var(--font-display);
-  font-size: 1.85rem;
+  font-size: 2.35rem;
   line-height: 1;
   color: var(--epoch-color, var(--epoch-mark));
   font-weight: 700;
+  margin-top: 0.35rem;
 }
 .epoch-card h3 {
   font-family: var(--font-display);
-  font-size: 1.05rem;
-  letter-spacing: 0.04em;
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
   margin: 0;
   color: var(--ink);
+  writing-mode: horizontal-tb;
+  word-break: break-word;
 }
 .epoch-card .thesis {
-  font-size: 0.9rem;
+  font-size: 0.78rem;
   color: var(--ink-muted);
   margin: 0;
   font-style: italic;
   flex: 1;
+  line-height: 1.4;
 }
 .epoch-card .artifacts {
   font-family: var(--font-ui);
-  font-size: 0.68rem;
+  font-size: 0.62rem;
   color: var(--ink-faint);
-  letter-spacing: 0.02em;
+  letter-spacing: 0.01em;
   margin: 0;
   line-height: 1.35;
 }
 .epoch-card .hex {
-  margin-top: 0.15rem;
+  margin-top: auto;
+  font-size: 0.58rem;
+  opacity: 0.85;
 }
 
 .world-preview {
