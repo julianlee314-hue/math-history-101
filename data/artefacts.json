@@ -2,6 +2,9 @@
   {
     "id": "tally-stick",
     "name": "Tally stick",
+    "image": "assets/artefacts/tally-stick.jpg",
+    "thumb": "assets/artefacts/thumb-tally-stick.jpg",
+    "epoch": "mark",
     "summary": "One mark for one thing—counting’s first technology.",
     "concepts": [
       1,
@@ -29,8 +32,18 @@
     ]
   },
   {
+    "id": "clay-token",
+    "name": "Clay tokens",
+    "image": "assets/artefacts/clay-token.jpg",
+    "thumb": "assets/artefacts/thumb-clay-token.jpg",
+    "epoch": "mark"
+  },
+  {
     "id": "ten-frame",
     "name": "Ten-frame",
+    "image": "assets/artefacts/ten-frame.jpg",
+    "thumb": "assets/artefacts/thumb-ten-frame.jpg",
+    "epoch": "mark",
     "summary": "A small stage for cardinality and regrouping toward ten.",
     "concepts": [
       2,
@@ -52,8 +65,11 @@
     ]
   },
   {
-    "id": "balance",
-    "name": "Balance",
+    "id": "pan-balance",
+    "name": "Pan balance",
+    "image": "assets/artefacts/pan-balance.jpg",
+    "thumb": "assets/artefacts/thumb-pan-balance.jpg",
+    "epoch": "mark",
     "summary": "Joining and taking away until two pans agree.",
     "concepts": [
       6,
@@ -89,6 +105,9 @@
   {
     "id": "coin-strip",
     "name": "Coin strip",
+    "image": "assets/artefacts/coin-strip.jpg",
+    "thumb": "assets/artefacts/thumb-coin-strip.jpg",
+    "epoch": "mark",
     "summary": "Position and denomination—place value you can hold.",
     "concepts": [
       5
@@ -113,8 +132,51 @@
     ]
   },
   {
+    "id": "ruler",
+    "name": "Ruler",
+    "image": "assets/artefacts/ruler.jpg",
+    "thumb": "assets/artefacts/thumb-ruler.jpg",
+    "epoch": "mark",
+    "summary": "Shared units for trade, building, and measure.",
+    "concepts": [
+      12
+    ],
+    "stages": [
+      {
+        "name": "Cubit rod",
+        "era": "origins"
+      },
+      {
+        "name": "Knotted rope",
+        "era": "origins"
+      },
+      {
+        "name": "Graduated rod",
+        "era": "classical"
+      },
+      {
+        "name": "Standard meter",
+        "era": "enlightenment"
+      },
+      {
+        "name": "Precision gauge",
+        "era": "modern"
+      }
+    ]
+  },
+  {
+    "id": "data-marks",
+    "name": "Data marks",
+    "image": "assets/artefacts/data-marks.jpg",
+    "thumb": "assets/artefacts/thumb-data-marks.jpg",
+    "epoch": "mark"
+  },
+  {
     "id": "number-line",
     "name": "Number line",
+    "image": "assets/artefacts/number-line.jpg",
+    "thumb": "assets/artefacts/thumb-number-line.jpg",
+    "epoch": "mark",
     "summary": "Order and distance drawn as a walkable landscape.",
     "concepts": [
       4,
@@ -144,34 +206,18 @@
     ]
   },
   {
-    "id": "series-chain",
-    "name": "Series chain",
-    "summary": "Notice the rule, predict the next link.",
-    "concepts": [
-      8
-    ],
-    "stages": [
-      {
-        "name": "Notch series",
-        "era": "origins"
-      },
-      {
-        "name": "Pattern beads",
-        "era": "origins"
-      },
-      {
-        "name": "Sequence tablet",
-        "era": "classical"
-      },
-      {
-        "name": "Function chain",
-        "era": "enlightenment"
-      }
-    ]
+    "id": "fraction-bar",
+    "name": "Fraction bar",
+    "image": "assets/artefacts/fraction-bar.jpg",
+    "thumb": "assets/artefacts/thumb-fraction-bar.jpg",
+    "epoch": "write"
   },
   {
     "id": "shape-tiles",
     "name": "Shape tiles",
+    "image": "assets/artefacts/shape-tiles.jpg",
+    "thumb": "assets/artefacts/thumb-shape-tiles.jpg",
+    "epoch": "write",
     "summary": "Sort and name forms—classification grown precise.",
     "concepts": [
       9,
@@ -197,8 +243,46 @@
     ]
   },
   {
+    "id": "compass-and-straightedge",
+    "name": "Compass & straightedge",
+    "image": "assets/artefacts/compass-and-straightedge.jpg",
+    "thumb": "assets/artefacts/thumb-compass-and-straightedge.jpg",
+    "epoch": "write"
+  },
+  {
+    "id": "protractor",
+    "name": "Protractor",
+    "image": "assets/artefacts/protractor.jpg",
+    "thumb": "assets/artefacts/thumb-protractor.jpg",
+    "epoch": "write"
+  },
+  {
+    "id": "multiplication-strip",
+    "name": "Multiplication strip",
+    "image": "assets/artefacts/multiplication-strip.jpg",
+    "thumb": "assets/artefacts/thumb-multiplication-strip.jpg",
+    "epoch": "algorithm"
+  },
+  {
+    "id": "counting-rods",
+    "name": "Counting rods",
+    "image": "assets/artefacts/counting-rods.jpg",
+    "thumb": "assets/artefacts/thumb-counting-rods.jpg",
+    "epoch": "algorithm"
+  },
+  {
+    "id": "abacus",
+    "name": "Abacus",
+    "image": "assets/artefacts/abacus.jpg",
+    "thumb": "assets/artefacts/thumb-abacus.jpg",
+    "epoch": "algorithm"
+  },
+  {
     "id": "grid",
     "name": "Grid",
+    "image": "assets/artefacts/grid.jpg",
+    "thumb": "assets/artefacts/thumb-grid.jpg",
+    "epoch": "algorithm",
     "summary": "Rows and columns turn location into an address.",
     "concepts": [
       11
@@ -227,32 +311,84 @@
     ]
   },
   {
-    "id": "ruler",
-    "name": "Ruler",
-    "summary": "Shared units for trade, building, and measure.",
+    "id": "clock",
+    "name": "Clock",
+    "image": "assets/artefacts/clock.jpg",
+    "thumb": "assets/artefacts/thumb-clock.jpg",
+    "epoch": "algorithm"
+  },
+  {
+    "id": "manuscript-table",
+    "name": "Manuscript table",
+    "image": "assets/artefacts/manuscript-table.jpg",
+    "thumb": "assets/artefacts/thumb-manuscript-table.jpg",
+    "epoch": "algorithm"
+  },
+  {
+    "id": "astrolabe",
+    "name": "Astrolabe",
+    "image": "assets/artefacts/astrolabe.jpg",
+    "thumb": "assets/artefacts/thumb-astrolabe.jpg",
+    "epoch": "algorithm"
+  },
+  {
+    "id": "napier-rods",
+    "name": "Napier's rods",
+    "image": "assets/artefacts/napier-rods.jpg",
+    "thumb": "assets/artefacts/thumb-napier-rods.jpg",
+    "epoch": "algorithm"
+  },
+  {
+    "id": "logarithm-table",
+    "name": "Logarithm table",
+    "image": "assets/artefacts/logarithm-table.jpg",
+    "thumb": "assets/artefacts/thumb-logarithm-table.jpg",
+    "epoch": "print"
+  },
+  {
+    "id": "slide-rule",
+    "name": "Slide rule",
+    "image": "assets/artefacts/slide-rule.jpg",
+    "thumb": "assets/artefacts/thumb-slide-rule.jpg",
+    "epoch": "mechanize"
+  },
+  {
+    "id": "planimeter",
+    "name": "Planimeter",
+    "image": "assets/artefacts/planimeter.jpg",
+    "thumb": "assets/artefacts/thumb-planimeter.jpg",
+    "epoch": "mechanize"
+  },
+  {
+    "id": "punch-card",
+    "name": "Punch card",
+    "image": "assets/artefacts/punch-card.jpg",
+    "thumb": "assets/artefacts/thumb-punch-card.jpg",
+    "epoch": "compute"
+  },
+  {
+    "id": "series-chain",
+    "name": "Series chain",
+    "summary": "Notice the rule, predict the next link.",
     "concepts": [
-      12
+      8
     ],
     "stages": [
       {
-        "name": "Cubit rod",
+        "name": "Notch series",
         "era": "origins"
       },
       {
-        "name": "Knotted rope",
+        "name": "Pattern beads",
         "era": "origins"
       },
       {
-        "name": "Graduated rod",
+        "name": "Sequence tablet",
         "era": "classical"
       },
       {
-        "name": "Standard meter",
+        "name": "Function chain",
         "era": "enlightenment"
-      },
-      {
-        "name": "Precision gauge",
-        "era": "modern"
       }
     ]
   }
