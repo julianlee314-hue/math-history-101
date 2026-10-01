@@ -770,5 +770,538 @@
     "thumb": "assets/artefacts/thumb-logic-gate.jpg",
     "epoch": "intelligence",
     "summary": "AND and OR carved into a wooden block."
+  },
+  {
+    "id": "volume-jar",
+    "name": "Volume jar",
+    "image": "assets/artefacts/volume-jar.jpg",
+    "thumb": "assets/artefacts/thumb-volume-jar.jpg",
+    "epoch": "mark",
+    "summary": "A marked jar that holds how much fits.",
+    "concepts": [
+      24
+    ]
+  },
+  {
+    "id": "estimate-stick",
+    "name": "Estimate stick",
+    "image": "assets/artefacts/estimate-stick.jpg",
+    "thumb": "assets/artefacts/thumb-estimate-stick.jpg",
+    "epoch": "mark",
+    "summary": "A pacing stick for rough measure.",
+    "concepts": [
+      16
+    ]
+  },
+  {
+    "id": "iteration-crank",
+    "name": "Iteration crank",
+    "image": "assets/artefacts/iteration-crank.jpg",
+    "thumb": "assets/artefacts/thumb-iteration-crank.jpg",
+    "epoch": "algorithm",
+    "summary": "Turn the same gear again and again.",
+    "concepts": [
+      17
+    ]
+  },
+  {
+    "id": "recipe-tablet",
+    "name": "Recipe tablet",
+    "image": "assets/artefacts/recipe-tablet.jpg",
+    "thumb": "assets/artefacts/thumb-recipe-tablet.jpg",
+    "epoch": "algorithm",
+    "summary": "Step marks for a reliable procedure.",
+    "concepts": [
+      18
+    ]
+  },
+  {
+    "id": "swap-pans",
+    "name": "Swap pans",
+    "image": "assets/artefacts/swap-pans.jpg",
+    "thumb": "assets/artefacts/thumb-swap-pans.jpg",
+    "epoch": "write",
+    "summary": "Two pans mid-swap—order can flip.",
+    "concepts": [
+      19
+    ]
+  },
+  {
+    "id": "nest-boxes",
+    "name": "Nest boxes",
+    "image": "assets/artefacts/nest-boxes.jpg",
+    "thumb": "assets/artefacts/thumb-nest-boxes.jpg",
+    "epoch": "write",
+    "summary": "Boxes inside boxes keep the total.",
+    "concepts": [
+      20
+    ]
+  },
+  {
+    "id": "cancel-weights",
+    "name": "Cancel weights",
+    "image": "assets/artefacts/cancel-weights.jpg",
+    "thumb": "assets/artefacts/thumb-cancel-weights.jpg",
+    "epoch": "write",
+    "summary": "Matched +W and −W that wipe clean.",
+    "concepts": [
+      21
+    ]
+  },
+  {
+    "id": "undo-latch",
+    "name": "Undo latch",
+    "image": "assets/artefacts/undo-latch.jpg",
+    "thumb": "assets/artefacts/thumb-undo-latch.jpg",
+    "epoch": "write",
+    "summary": "A bolt that undoes what it did.",
+    "concepts": [
+      22
+    ]
+  },
+  {
+    "id": "perimeter-ribbon",
+    "name": "Perimeter ribbon",
+    "image": "assets/artefacts/perimeter-ribbon.jpg",
+    "thumb": "assets/artefacts/thumb-perimeter-ribbon.jpg",
+    "epoch": "write",
+    "summary": "Ribbon that walks the boundary.",
+    "concepts": [
+      43
+    ]
+  },
+  {
+    "id": "rail-square",
+    "name": "Rail square",
+    "image": "assets/artefacts/rail-square.jpg",
+    "thumb": "assets/artefacts/thumb-rail-square.jpg",
+    "epoch": "write",
+    "summary": "Parallel rails with a right-angle square.",
+    "concepts": [
+      42
+    ]
+  },
+  {
+    "id": "congruence-stamp",
+    "name": "Congruence stamp",
+    "image": "assets/artefacts/congruence-stamp.jpg",
+    "thumb": "assets/artefacts/thumb-congruence-stamp.jpg",
+    "epoch": "print",
+    "summary": "Twin stamps that leave the same mark.",
+    "concepts": [
+      44
+    ]
+  },
+  {
+    "id": "transform-lenses",
+    "name": "Transform lenses",
+    "image": "assets/artefacts/transform-lenses.jpg",
+    "thumb": "assets/artefacts/thumb-transform-lenses.jpg",
+    "epoch": "algorithm",
+    "summary": "Stacked lenses that shift the view.",
+    "concepts": [
+      46
+    ]
+  },
+  {
+    "id": "implication-arrow",
+    "name": "Implication arrow",
+    "image": "assets/artefacts/implication-arrow.jpg",
+    "thumb": "assets/artefacts/thumb-implication-arrow.jpg",
+    "epoch": "write",
+    "summary": "If this, then that—carved in wood.",
+    "concepts": [
+      49
+    ]
+  },
+  {
+    "id": "counter-pebble",
+    "name": "Counter pebble",
+    "image": "assets/artefacts/counter-pebble.jpg",
+    "thumb": "assets/artefacts/thumb-counter-pebble.jpg",
+    "epoch": "mark",
+    "summary": "One odd stone among orderly peers.",
+    "concepts": [
+      50
+    ]
+  },
+  {
+    "id": "invariant-knot",
+    "name": "Invariant knot",
+    "image": "assets/artefacts/invariant-knot.jpg",
+    "thumb": "assets/artefacts/thumb-invariant-knot.jpg",
+    "epoch": "write",
+    "summary": "A knot that keeps its form when pulled.",
+    "concepts": [
+      52
+    ]
+  },
+  {
+    "id": "generalize-ladder",
+    "name": "Generalize ladder",
+    "image": "assets/artefacts/generalize-ladder.jpg",
+    "thumb": "assets/artefacts/thumb-generalize-ladder.jpg",
+    "epoch": "write",
+    "summary": "Rungs rising from case into fog.",
+    "concepts": [
+      53
+    ]
+  },
+  {
+    "id": "refine-mesh",
+    "name": "Refine mesh",
+    "image": "assets/artefacts/refine-mesh.jpg",
+    "thumb": "assets/artefacts/thumb-refine-mesh.jpg",
+    "epoch": "mechanize",
+    "summary": "Wire that gets finer toward the center.",
+    "concepts": [
+      55
+    ]
+  },
+  {
+    "id": "orthog-cross",
+    "name": "Orthog cross",
+    "image": "assets/artefacts/orthog-cross.jpg",
+    "thumb": "assets/artefacts/thumb-orthog-cross.jpg",
+    "epoch": "write",
+    "summary": "Beams meeting at a perfect right angle.",
+    "concepts": [
+      57
+    ]
+  },
+  {
+    "id": "division-board",
+    "name": "Division board",
+    "image": "assets/artefacts/division-board.jpg",
+    "thumb": "assets/artefacts/thumb-division-board.jpg",
+    "epoch": "algorithm",
+    "summary": "Partitioned counters for fair shares.",
+    "concepts": [
+      59
+    ]
+  },
+  {
+    "id": "ratio-yoke",
+    "name": "Ratio yoke",
+    "image": "assets/artefacts/ratio-yoke.jpg",
+    "thumb": "assets/artefacts/thumb-ratio-yoke.jpg",
+    "epoch": "write",
+    "summary": "A yoke linking two unequal arms.",
+    "concepts": [
+      62
+    ]
+  },
+  {
+    "id": "proportion-scales",
+    "name": "Proportion scales",
+    "image": "assets/artefacts/proportion-scales.jpg",
+    "thumb": "assets/artefacts/thumb-proportion-scales.jpg",
+    "epoch": "write",
+    "summary": "Twin pans holding a:b in balance.",
+    "concepts": [
+      63
+    ]
+  },
+  {
+    "id": "rate-hourglass",
+    "name": "Rate hourglass",
+    "image": "assets/artefacts/rate-hourglass.jpg",
+    "thumb": "assets/artefacts/thumb-rate-hourglass.jpg",
+    "epoch": "algorithm",
+    "summary": "Sand as change against time.",
+    "concepts": [
+      64,
+      95
+    ]
+  },
+  {
+    "id": "factor-tree",
+    "name": "Factor tree",
+    "image": "assets/artefacts/factor-tree.jpg",
+    "thumb": "assets/artefacts/thumb-factor-tree.jpg",
+    "epoch": "write",
+    "summary": "A branching sculpture of factors.",
+    "concepts": [
+      66
+    ]
+  },
+  {
+    "id": "gcd-rings",
+    "name": "GCD rings",
+    "image": "assets/artefacts/gcd-rings.jpg",
+    "thumb": "assets/artefacts/thumb-gcd-rings.jpg",
+    "epoch": "write",
+    "summary": "Rings that share a common core.",
+    "concepts": [
+      67
+    ]
+  },
+  {
+    "id": "expression-slate",
+    "name": "Expression slate",
+    "image": "assets/artefacts/expression-slate.jpg",
+    "thumb": "assets/artefacts/thumb-expression-slate.jpg",
+    "epoch": "write",
+    "summary": "Quiet marks waiting to be read.",
+    "concepts": [
+      69
+    ]
+  },
+  {
+    "id": "subst-slot",
+    "name": "Subst slot",
+    "image": "assets/artefacts/subst-slot.jpg",
+    "thumb": "assets/artefacts/thumb-subst-slot.jpg",
+    "epoch": "algorithm",
+    "summary": "A frame for plugging a value in.",
+    "concepts": [
+      70
+    ]
+  },
+  {
+    "id": "simplify-shears",
+    "name": "Simplify shears",
+    "image": "assets/artefacts/simplify-shears.jpg",
+    "thumb": "assets/artefacts/thumb-simplify-shears.jpg",
+    "epoch": "print",
+    "summary": "Shears that trim what you don’t need.",
+    "concepts": [
+      71
+    ]
+  },
+  {
+    "id": "like-term-bins",
+    "name": "Like-term bins",
+    "image": "assets/artefacts/like-term-bins.jpg",
+    "thumb": "assets/artefacts/thumb-like-term-bins.jpg",
+    "epoch": "write",
+    "summary": "Sorting bins for matching pieces.",
+    "concepts": [
+      72
+    ]
+  },
+  {
+    "id": "expand-bellows",
+    "name": "Expand bellows",
+    "image": "assets/artefacts/expand-bellows.jpg",
+    "thumb": "assets/artefacts/thumb-expand-bellows.jpg",
+    "epoch": "mechanize",
+    "summary": "Bellows mid-expand—brackets open.",
+    "concepts": [
+      73
+    ]
+  },
+  {
+    "id": "factor-press",
+    "name": "Factor press",
+    "image": "assets/artefacts/factor-press.jpg",
+    "thumb": "assets/artefacts/thumb-factor-press.jpg",
+    "epoch": "print",
+    "summary": "A screw press squeezing a composite.",
+    "concepts": [
+      74
+    ]
+  },
+  {
+    "id": "solve-balance",
+    "name": "Solve balance",
+    "image": "assets/artefacts/solve-balance.jpg",
+    "thumb": "assets/artefacts/thumb-solve-balance.jpg",
+    "epoch": "write",
+    "summary": "Letter weights seeking equilibrium.",
+    "concepts": [
+      75
+    ]
+  },
+  {
+    "id": "power-tower",
+    "name": "Power tower",
+    "image": "assets/artefacts/power-tower.jpg",
+    "thumb": "assets/artefacts/thumb-power-tower.jpg",
+    "epoch": "algorithm",
+    "summary": "Stacked cubes of repeated multiplication.",
+    "concepts": [
+      76
+    ]
+  },
+  {
+    "id": "map-arrows",
+    "name": "Map arrows",
+    "image": "assets/artefacts/map-arrows.jpg",
+    "thumb": "assets/artefacts/thumb-map-arrows.jpg",
+    "epoch": "write",
+    "summary": "Arrows from pegs to pegs.",
+    "concepts": [
+      77
+    ]
+  },
+  {
+    "id": "function-machine",
+    "name": "Function machine",
+    "image": "assets/artefacts/function-machine.jpg",
+    "thumb": "assets/artefacts/thumb-function-machine.jpg",
+    "epoch": "mechanize",
+    "summary": "In slot, out slot, rule inside.",
+    "concepts": [
+      78,
+      79
+    ]
+  },
+  {
+    "id": "domain-gate",
+    "name": "Domain gate",
+    "image": "assets/artefacts/domain-gate.jpg",
+    "thumb": "assets/artefacts/thumb-domain-gate.jpg",
+    "epoch": "write",
+    "summary": "A gate for what may enter.",
+    "concepts": [
+      92
+    ]
+  },
+  {
+    "id": "intercept-pins",
+    "name": "Intercept pins",
+    "image": "assets/artefacts/intercept-pins.jpg",
+    "thumb": "assets/artefacts/thumb-intercept-pins.jpg",
+    "epoch": "algorithm",
+    "summary": "Pins where a graph meets the axes.",
+    "concepts": [
+      91
+    ]
+  },
+  {
+    "id": "linear-ramp",
+    "name": "Linear ramp",
+    "image": "assets/artefacts/linear-ramp.jpg",
+    "thumb": "assets/artefacts/thumb-linear-ramp.jpg",
+    "epoch": "mark",
+    "summary": "A straight incline of constant slope.",
+    "concepts": [
+      93
+    ]
+  },
+  {
+    "id": "param-dials",
+    "name": "Param dials",
+    "image": "assets/artefacts/param-dials.jpg",
+    "thumb": "assets/artefacts/thumb-param-dials.jpg",
+    "epoch": "mechanize",
+    "summary": "Dials that tune a family of curves.",
+    "concepts": [
+      97
+    ]
+  },
+  {
+    "id": "interp-bridge",
+    "name": "Interp bridge",
+    "image": "assets/artefacts/interp-bridge.jpg",
+    "thumb": "assets/artefacts/thumb-interp-bridge.jpg",
+    "epoch": "write",
+    "summary": "A short bridge between known posts.",
+    "concepts": [
+      98
+    ]
+  },
+  {
+    "id": "sector-wedge",
+    "name": "Sector wedge",
+    "image": "assets/artefacts/sector-wedge.jpg",
+    "thumb": "assets/artefacts/thumb-sector-wedge.jpg",
+    "epoch": "algorithm",
+    "summary": "A brass sector of angular measure.",
+    "concepts": [
+      99,
+      41
+    ]
+  },
+  {
+    "id": "scatter-board",
+    "name": "Scatter board",
+    "image": "assets/artefacts/scatter-board.jpg",
+    "thumb": "assets/artefacts/thumb-scatter-board.jpg",
+    "epoch": "print",
+    "summary": "Peg dots seeking a quiet trend.",
+    "concepts": [
+      107
+    ]
+  },
+  {
+    "id": "recur-spiral",
+    "name": "Recur spiral",
+    "image": "assets/artefacts/recur-spiral.jpg",
+    "thumb": "assets/artefacts/thumb-recur-spiral.jpg",
+    "epoch": "write",
+    "summary": "A spiral that remembers its last turn.",
+    "concepts": [
+      108,
+      116
+    ]
+  },
+  {
+    "id": "compose-gears",
+    "name": "Compose gears",
+    "image": "assets/artefacts/compose-gears.jpg",
+    "thumb": "assets/artefacts/thumb-compose-gears.jpg",
+    "epoch": "mechanize",
+    "summary": "Two gears that turn as one rule.",
+    "concepts": [
+      110
+    ]
+  },
+  {
+    "id": "inverse-map",
+    "name": "Inverse map",
+    "image": "assets/artefacts/inverse-map.jpg",
+    "thumb": "assets/artefacts/thumb-inverse-map.jpg",
+    "epoch": "write",
+    "summary": "Paired arrows that undo each other.",
+    "concepts": [
+      111
+    ]
+  },
+  {
+    "id": "asymptote-rail",
+    "name": "Asymptote rail",
+    "image": "assets/artefacts/asymptote-rail.jpg",
+    "thumb": "assets/artefacts/thumb-asymptote-rail.jpg",
+    "epoch": "algorithm",
+    "summary": "A curve that never quite meets the rail.",
+    "concepts": [
+      113
+    ]
+  },
+  {
+    "id": "twin-scale",
+    "name": "Twin scale",
+    "image": "assets/artefacts/twin-scale.jpg",
+    "thumb": "assets/artefacts/thumb-twin-scale.jpg",
+    "epoch": "write",
+    "summary": "Linked scales for two unknowns at once.",
+    "concepts": [
+      114
+    ]
+  },
+  {
+    "id": "limit-funnel",
+    "name": "Limit funnel",
+    "image": "assets/artefacts/limit-funnel.jpg",
+    "thumb": "assets/artefacts/thumb-limit-funnel.jpg",
+    "epoch": "algorithm",
+    "summary": "Narrowing toward a single point.",
+    "concepts": [
+      128,
+      122
+    ]
+  },
+  {
+    "id": "continuity-ribbon",
+    "name": "Continuity ribbon",
+    "image": "assets/artefacts/continuity-ribbon.jpg",
+    "thumb": "assets/artefacts/thumb-continuity-ribbon.jpg",
+    "epoch": "write",
+    "summary": "An unbroken ribbon looping without tear.",
+    "concepts": [
+      129
+    ]
   }
 ]
